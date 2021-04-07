@@ -47,7 +47,7 @@ def get_funding_pages():
         filename = title.replace(" ","_").replace("/", "_")
         filepath = f"ausschreibungen/{filename}.md"
 
-        content += f"\n* [{deadline} - {title}](ausschreibungen/{filename})"
+        content += f"\n* [{deadline} - {title}](filepath)"
 
     #for page_data in pages:
         f_content = "## title"
