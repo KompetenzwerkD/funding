@@ -29,13 +29,12 @@ def get_funding_pages():
     page_titles = api.fetch_category("Funding")
     
 
-    content = "# Fördermöglichkeiten"
-
     pages = []
     for page_title in page_titles:
         page_data = api.fetch_page(page_title)
         pages.append(page_data)
 
+    content = ""
     content += f"\n\n* Stand: {datetime.datetime.now().isoformat()[:10]}"
     content += f"\n\n## Aktuelle Ausschreibungen\n"
 
@@ -44,22 +43,30 @@ def get_funding_pages():
     for page_data in pages:
         deadline = get_property(page_data, "Has deadline")
         title = page_data["title"]
-        content += f"\n* [{deadline} - {title}](#{title})"
 
-    for page_data in pages:
-        content += f"\n\n## {page_title}\n\n"
+        filename = title.replace(" ","_").replace("/", "_")
+        filepath = f"ausschreibungen/{filename}.md"
+
+        content += f"\n* [{deadline} - {title}](ausschreibungen/{filename})"
+
+    #for page_data in pages:
+        f_content = "## title"
+        f_content += f"\n\n## {page_title}\n\n"
         deadline = get_property(page_data, "Has deadline")
         institution = get_property(page_data, "Has funding institution")
         homepage = get_property(page_data, "Has homepage")
 
-        content += f"* Nächste Einreichung: {deadline}"
-        content += f"\n* Institution: {institution}"
+        f_content += f"* Nächste Einreichung: {deadline}"
+        f_content += f"\n* Institution: {institution}"
 
         free_text = page_data["free_text"]
-        content += f"\n\n{free_text}"
+        f_content += f"\n\n{free_text}"
 
         if homepage:
-            content += f"\n\n* [Link]({homepage})"
+            f_content += f"\n\n* [Link]({homepage})"
+        
+        with open(filepath, "w") as f:
+            f.write(f_content)
 
     with open("index.md", "w") as f:
         f.write(content)
