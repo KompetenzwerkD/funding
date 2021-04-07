@@ -48,11 +48,10 @@ def get_funding_pages():
         filename = filename.lower()
         filepath = f"ausschreibungen/{filename}.md"
 
-        content += f"\n* [{deadline} - {title}](#{filepath})"
+        content += f"\n* [{deadline} - {title}]({filepath})"
 
     #for page_data in pages:
-        f_content = "## title"
-        f_content += f"\n\n## {page_title}\n\n"
+        f_content = f"\n\n## {page_title}\n\n"
         deadline = get_property(page_data, "Has deadline")
         institution = get_property(page_data, "Has funding institution")
         homepage = get_property(page_data, "Has homepage")

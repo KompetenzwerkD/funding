@@ -1,4 +1,4 @@
-## title
+
 
 ## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
 
