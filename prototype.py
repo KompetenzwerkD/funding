@@ -34,7 +34,7 @@ def get_funding_pages():
         page_data = api.fetch_page(page_title)
         pages.append(page_data)
 
-    content = ""
+    content = "# Ausschreibungen"
     content += f"\n\n* Stand: {datetime.datetime.now().isoformat()[:10]}"
     content += f"\n\n## Aktuelle Ausschreibungen\n"
 
@@ -50,7 +50,8 @@ def get_funding_pages():
 
         content += f"\n* [{deadline} - {title}]({filepath})"
 
-    #for page_data in pages:
+        #for page_data in pages:
+        f_content = "[zurück]{{{ site.url }}}"
         f_content = f"\n\n## {page_title}\n\n"
         deadline = get_property(page_data, "Has deadline")
         institution = get_property(page_data, "Has funding institution")
