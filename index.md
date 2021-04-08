@@ -2,6 +2,8 @@
 
 * Stand: 2021-04-08
 
+ Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der wissenschaften zu Leipzig](https://www.saw-leipzig.de).
+
 ## Aktuelle Ausschreibungen
 
 * [2021-04-08 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
