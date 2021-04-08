@@ -1,6 +1,7 @@
 import yaml
 import urllib
 import datetime
+import json
 from smw_utils.api import MediawikiApi
 
 
@@ -36,7 +37,7 @@ def get_funding_pages():
 
     content = "# Ausschreibungen"
     content += f"\n\n* Stand: {datetime.datetime.now().isoformat()[:10]}"
-    content += "\n\n Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der wissenschaften zu Leipzig](https://www.saw-leipzig.de)."
+    content += "\n\n Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json)."
     content += f"\n\n## Aktuelle Ausschreibungen\n"
 
     pages = sorted(pages, key=lambda x: get_property(x, "Has deadline"))
@@ -72,6 +73,9 @@ def get_funding_pages():
 
     with open("index.md", "w") as f:
         f.write(content)
+    
+    with open("dataset/ausschreibungen.json", "w") as f:
+        json.dump(pages, f, indent=4)
 
 if __name__ == "__main__":
     get_funding_pages()
