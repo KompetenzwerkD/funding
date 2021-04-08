@@ -1,4 +1,4 @@
-[zurück](/)
+[zurück](/funding/)
 
 ## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
 
