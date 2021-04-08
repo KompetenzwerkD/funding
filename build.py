@@ -51,8 +51,8 @@ def get_funding_pages():
         content += f"\n* [{deadline} - {title}]({filepath})"
 
         #for page_data in pages:
-        f_content = "[zurück]{{{ site.url }}}"
-        f_content = f"\n\n## {page_title}\n\n"
+        f_content = "[zurück](/)"
+        f_content += f"\n\n## {page_title}\n\n"
         deadline = get_property(page_data, "Has deadline")
         institution = get_property(page_data, "Has funding institution")
         homepage = get_property(page_data, "Has homepage")
