@@ -4,11 +4,36 @@
         "properties": [
             {
                 "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2021-stg;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState"
+            },
+            {
+                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
                     "label": "Is always open to submissions",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
                 "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2021-04-08"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
             },
             {
                 "property": {
@@ -20,11 +45,12 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "2021-04-08"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
             },
             {
                 "property": {
@@ -42,32 +68,6 @@
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
                 "value": "true"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2021-stg;callCode=null;freeTextSearchKeyword=;matchWholeText=true;typeCodes=0,1,2;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=43108390;programDivisionCode=null;focusAreaCode=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
             }
         ],
         "free_text": "Der Europ\u00e4ische Forschungsrat (European Research Council \u2013 ERC) f\u00f6rdert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der Starting Grants sind exzellente Nachwuchswissenschaftler/innen, die eine eigene unabh\u00e4ngige Karriere starten und eine eigene Arbeitsgruppe aufbauen m\u00f6chten. Antragsberechtigt sind Wissenschaftler/innen, deren Promotion zum Zeitpunkt der Ver\u00f6ffentlichung der Ausschreibung 2 bis 7 Jahre (in Ausnahmen l\u00e4nger) zur\u00fcckliegt. Als Grundlage f\u00fcr die Bewertung dienen folgende Benchmarks:\n\n*  Mind. eine wichtige Publikation des/der Antragsteller/in ohne ihre/n Promotionsbetreuer/in\n* Publikationen als Erstautor/in in f\u00fchrenden internationalen Zeitschriften, (\u00fcbersetzte) Monographien\n* Patente, Vortr\u00e4ge auf internationalen Konferenzen oder (inter-) nationale Wissenschaftspreise.\n\nF\u00fcr einen Zeitraum von bis zu f\u00fcnf Jahren k\u00f6nnen bis zu 1,5 Millionen Euro beantragt werden.\n(Quelle: Uni Leipzig, Dezernat Forschung und Transfer, Anett Karl)"
@@ -77,6 +77,14 @@
         "properties": [
             {
                 "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
                     "label": "Has keyword",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
@@ -86,11 +94,12 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "false"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Anna_Polke-2DStiftung",
+                "label": "Anna Polke-Stiftung"
             },
             {
                 "property": {
@@ -102,20 +111,11 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
                 "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Anna_Polke-2DStiftung",
-                "label": "Anna Polke-Stiftung"
             },
             {
                 "property": {
@@ -133,11 +133,11 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
                 },
-                "value": "2021-04-12"
+                "value": "letztmalig ausgeschrieben"
             },
             {
                 "property": {
@@ -149,11 +149,19 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
-                    "label": "Has additional submission info",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
                 },
-                "value": "letztmalig ausgeschrieben"
+                "value": "2021-04-12"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
             },
             {
                 "property": {
@@ -171,14 +179,6 @@
                 },
                 "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/VolkswagenStiftung",
                 "label": "VolkswagenStiftung"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
             }
         ],
         "free_text": "neuer Stichtag, verschoben vom 16.09.2020, letztmalig ausgeschrieben"
@@ -188,37 +188,11 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
                 },
-                "value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2021-cog"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
+                "value": "2021-04-20"
             },
             {
                 "property": {
@@ -230,15 +204,6 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
                     "label": "Is ongoing",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
@@ -247,11 +212,46 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
-                "value": "2021-04-20"
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2021-cog"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
             }
         ],
         "free_text": "Der Europ\u00e4ische Forschungsrat (European Research Council \u2013 ERC) f\u00f6rdert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der Consolidator Grants sind exzellente Wissenschaftler/innen, deren eigene unabh\u00e4ngige Arbeitsgruppe sich in der Konsolidierungsphase befindet und deren Promotion 7 bis 12 Jahre (in Ausnahmen l\u00e4nger) zur\u00fcckliegt. Als Grundlage f\u00fcr die Bewertung dienen folgende Benchmarks:\n\n\u2022           Mehrere wichtige Publikationen des/der Antragstellerin ohne ihre/n Promotionsbetreuer/in\n\n\u2022           Publikationen als Erstautor/in in f\u00fchrenden internationalen Zeitschriften, (\u00fcbersetzte) Monographien\n\n\u2022           Patente, Vortr\u00e4ge auf internationalen Konferenzen oder (inter-) nationale Wissenschaftspreise.\n\nF\u00fcr einen Zeitraum von bis zu f\u00fcnf Jahren k\u00f6nnen bis zu 2 Millionen Euro beantragt werden.\n\n(Quelle, Uni Leipzig, Dez. 1, Anett Karl)"
@@ -261,19 +261,12 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "2021-05-01"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.stiftung-diligentia.org/foerderung/"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Diligentia_Stiftung",
+                "label": "Diligentia Stiftung"
             },
             {
                 "property": {
@@ -293,12 +286,19 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
                 },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Diligentia_Stiftung",
-                "label": "Diligentia Stiftung"
+                "value": "https://www.stiftung-diligentia.org/foerderung/"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2021-05-01"
             }
         ],
         "free_text": "Die Diligentia Stiftung f\u00fcr empirische Forschung ist eine 2015 gegr\u00fcndete Stiftung zur F\u00f6rderung der Gesellschaftswissenschaften, speziell der Wirtschafts- und Sozialwissenschaften, unter Einbeziehung ihrer angrenzenden Disziplinen (Stiftungszweck). Die Stiftung f\u00f6rdert in Weiterf\u00fchrung der Intention ihres Stifters empirische Forschung hinsichtlich unterschiedlicher Fragestellungen. Jedes Jahr zeichnet die Stiftung herausragende empirische und experimentelle Forschungsarbeiten aus, die innovative Ergebnisse f\u00fcr gesellschaftlich relevante Sachverhalte produziert haben. Ausgezeichnet werden wissenschaftliche Publikationen von promovierten Einzelautor*innen oder Autorenteams in Form von Aufs\u00e4tzen in anerkannten, internationalen Fachzeitschriften. Der Preis ist mit  5.000 EUR dotiert und ist im Falle von Autorenteams gleichm\u00e4\u00dfig auf alle Autor*innen zu verteilen.\n\n[Quelle: Uni Leipzig, Dez. 1, Anett Karl]"
@@ -308,29 +308,11 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
-                    "label": "Has additional submission info",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
-                },
-                "value": "Deadline: 07.05.2021 outline proposals, 07.12.2021 full proposals, https://chanse.org/information-session-for-applicants/ (information event: 15.03.2021)"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
+                "value": "false"
             },
             {
                 "property": {
@@ -350,19 +332,29 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "false"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
                 },
-                "value": "false"
+                "value": "Deadline: 07.05.2021 outline proposals, 07.12.2021 full proposals, https://chanse.org/information-session-for-applicants/ (information event: 15.03.2021)"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
             },
             {
                 "property": {
@@ -372,6 +364,14 @@
                 },
                 "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
                 "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
             }
         ],
         "free_text": "The present transnational call in the humanities and social sciences will support new and innovative research into the workings, meaning and consequences of transformations and innovations in the present digital age, viewed through the lens of the social and cultural dynamics (Topic 1: Cultural Transformations in the Digital Age, Topic 2: Digitalisation and Social Transformation).\n\nTeams of at least 4 Principal Investigators from 4 or more different countries participating in the call can apply for 1 500 000 EUR for a project duration of 24 to 36 months.\n\nWhilst the call text does not preclude comparison with or investigation into other regions, every proposal must demonstrate a strong European dimension (i.e. investigating the changes taking place / affecting Europe as a whole, or at the level of a European country, city, community, etc.). \n\n[Quelle: Uni Leipzig, Dez. 1, Anett Karl]"
@@ -381,21 +381,11 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Gerda_Henkel_Stiftung",
-                "label": "Gerda Henkel Stiftung"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
+                "value": "false"
             },
             {
                 "property": {
@@ -407,6 +397,15 @@
             },
             {
                 "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
                     "label": "Is ongoing",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
@@ -415,11 +414,12 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "false"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Gerda_Henkel_Stiftung",
+                "label": "Gerda Henkel Stiftung"
             },
             {
                 "property": {
@@ -437,20 +437,12 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2021-05-12"
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Gerda_Henkel_Stiftung",
+                "label": "Gerda Henkel Stiftung"
             },
             {
                 "property": {
@@ -470,20 +462,28 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Gerda_Henkel_Stiftung",
-                "label": "Gerda Henkel Stiftung"
-            },
-            {
-                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
                     "label": "Is always open to submissions",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
                 "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2021-05-12"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
             }
         ],
         "free_text": "Neuer F\u00f6rderschwerpunkt- Transformationen der Demokratie? Oder: Konturen der kommenden demokratischen und Wissenschaftler mit Universit\u00e4tsanbindung aus den Geistes- und Sozialwissenschaften."
@@ -498,14 +498,6 @@
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
                 },
                 "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://einsteinforum.de/about/fellowship/"
             },
             {
                 "property": {
@@ -525,6 +517,14 @@
             },
             {
                 "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://einsteinforum.de/about/fellowship/"
+            },
+            {
+                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
                     "label": "Has funding institution",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
@@ -540,40 +540,6 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Bundesstiftung_Aufarbeitung",
-                "label": "Bundesstiftung Aufarbeitung"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.bundesstiftung-aufarbeitung.de/de/foerderung/foerderprogramme/stipendien"
-            },
-            {
-                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
                     "label": "Is ongoing",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
@@ -587,6 +553,40 @@
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
                 },
                 "value": "2021-07-15"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.bundesstiftung-aufarbeitung.de/de/foerderung/foerderprogramme/stipendien"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Bundesstiftung_Aufarbeitung",
+                "label": "Bundesstiftung Aufarbeitung"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
             }
         ],
         "free_text": "Bundesstiftung Aufarbeitung: Stipendienprogramm f\u00fcr eine Dissertation zur DDR/Europ\u00e4ischen Teilung"
@@ -594,6 +594,14 @@
     {
         "title": "Max-Planck-Institut f\u00fcr Wissenschaftsgeschichte: Visiting Scholarships",
         "properties": [
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
             {
                 "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
@@ -621,14 +629,6 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
                     "label": "Has funding institution",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
@@ -652,8 +652,16 @@
         "properties": [
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2021-08-31"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
                 "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
@@ -670,31 +678,6 @@
             },
             {
                 "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2021-08-31"
-            },
-            {
-                "property": {
-                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "true"
-            },
-            {
-                "property": {
                     "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
                     "label": "Is always open to submissions",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
@@ -708,6 +691,23 @@
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
                 },
                 "value": "https://www.europarl.europa.eu/news/en/press-room/20201207IPR93246/research-meps-reach-deal-with-council-on-horizon-europe-programme"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "true"
+            },
+            {
+                "property": {
+                    "uri": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://kompetenzwerkd.saw-leipzig.de/id//index.php/Special:URIResolver/EU",
+                "label": "EU"
             }
         ],
         "free_text": "F\u00fcr das Programm Horizon Europe (Laufzeit 2021-2027) gibt es vorl\u00e4ufige Einigungen, mehr in der Pressemitteilung des Europ\u00e4ischen Parlaments (EN) und hier vom BMBF: https://www.horizont-europa.de/. Programme wie die Marie-Curie-Ma\u00dfnahmen und die ERC-Grants werden finanziell aufgestockt. Eine offizielle Freigabe wird f\u00fcr das 2. Quartal 2021 erwartet."

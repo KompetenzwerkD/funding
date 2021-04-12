@@ -15,17 +15,21 @@ def get_property(page, property_label):
     return ""
 
 
-def create_funding_page_file(page_data):
-    deadline = get_property(page_data, "Has deadline")
-    title = page_data["title"]
-
+def create_filepath(title):
     filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
     filename = filename.lower()
     filepath = f"ausschreibungen/{filename}.md"    
+    return filepath
+
+
+def create_funding_page_file(filepath, page_data):
+    title = page_data["title"]
 
     #for page_data in pages:
     f_content = "[zurück](/funding/)"
     f_content += f"\n\n## {title}\n\n"
+
+    deadline = get_property(page_data, "Has deadline")
     deadline = get_property(page_data, "Has deadline")
     institution = get_property(page_data, "Has funding institution")
     homepage = get_property(page_data, "Has homepage")
@@ -57,7 +61,6 @@ def get_funding_pages():
 
     page_titles = api.fetch_category("Funding")
     
-
     pages = []
     for page_title in page_titles:
         page_data = api.fetch_page(page_title)
@@ -80,29 +83,23 @@ def get_funding_pages():
         else:
             upcoming.append(page)
 
-
     content += f"\n\n## Aktuelle Ausschreibungen\n"
     for page_data in upcoming:
         deadline = get_property(page_data, "Has deadline")
         title = page_data["title"]
-        filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
-        filename = filename.lower()
-        filepath = f"ausschreibungen/{filename}.md"
+        filepath = create_filepath(title)
         content += f"\n* [{deadline} - {title}]({filepath})"
 
-        create_funding_page_file(page_data)
+        create_funding_page_file(filepath, page_data)
 
     content += f"\n\n## Vergangenge Ausschreibungen\n"
     for page_data in past:
         deadline = get_property(page_data, "Has deadline")
         title = page_data["title"]
-        filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
-        filename = filename.lower()
-        filepath = f"ausschreibungen/{filename}.md"
+        filepath = create_filepath(title)
         content += f"\n* [{deadline} - {title}]({filepath})"
 
-        create_funding_page_file(page_data)
-
+        create_funding_page_file(filepath, page_data)
 
     with open("index.md", "w") as f:
         f.write(content)
