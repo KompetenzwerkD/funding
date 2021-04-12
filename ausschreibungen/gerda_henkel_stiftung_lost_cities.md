@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Gerda Henkel Stiftung: Lost Cities
 
 * Nächste Einreichung: 2021-05-12
 * Institution: Gerda Henkel Stiftung

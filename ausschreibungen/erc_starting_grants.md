@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## ERC Starting Grants
 
 * Nächste Einreichung: 2021-04-08
 * Institution: EU

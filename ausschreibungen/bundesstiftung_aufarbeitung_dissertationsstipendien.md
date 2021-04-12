@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Bundesstiftung Aufarbeitung: Dissertationsstipendien
 
 * Nächste Einreichung: 2021-07-15
 * Institution: Bundesstiftung Aufarbeitung

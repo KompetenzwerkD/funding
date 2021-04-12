@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## European Research Council: ERC Consolidator Grant
 
 * Nächste Einreichung: 2021-04-20
 * Institution: EU

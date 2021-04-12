@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## EU-CHANSE: Transformations. Social and Cultural Dynamics in the Digital Age
 
 * Nächste Einreichung: 2021-05-07
 * Institution: EU

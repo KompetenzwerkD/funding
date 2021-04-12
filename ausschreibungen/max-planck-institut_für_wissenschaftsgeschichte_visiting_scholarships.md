@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships
 
 * Nächste Einreichung: 2021-07-31
 * Institution: Max-Planck-Gesellschaft

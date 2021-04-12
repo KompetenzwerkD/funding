@@ -15,6 +15,34 @@ def get_property(page, property_label):
     return ""
 
 
+def create_funding_page_file(page_data):
+    deadline = get_property(page_data, "Has deadline")
+    title = page_data["title"]
+
+    filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
+    filename = filename.lower()
+    filepath = f"ausschreibungen/{filename}.md"    
+
+    #for page_data in pages:
+    f_content = "[zurück](/funding/)"
+    f_content += f"\n\n## {title}\n\n"
+    deadline = get_property(page_data, "Has deadline")
+    institution = get_property(page_data, "Has funding institution")
+    homepage = get_property(page_data, "Has homepage")
+
+    f_content += f"* Nächste Einreichung: {deadline}"
+    f_content += f"\n* Institution: {institution}"
+
+    free_text = page_data["free_text"]
+    f_content += f"\n\n{free_text}"
+
+    if homepage:
+        f_content += f"\n\n* [Link]({homepage})"
+    
+    with open(filepath, "w") as f:
+        f.write(f_content)
+
+
 def get_funding_pages():
     with open("config.yml") as f:
         config = yaml.load(f, Loader=yaml.BaseLoader)
@@ -38,38 +66,43 @@ def get_funding_pages():
     content = "# Ausschreibungen"
     content += f"\n\n* Stand: {datetime.datetime.now().isoformat()[:10]}"
     content += "\n\n Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json)."
-    content += f"\n\n## Aktuelle Ausschreibungen\n"
 
     pages = sorted(pages, key=lambda x: get_property(x, "Has deadline"))
 
-    for page_data in pages:
+    today = datetime.datetime.now().isoformat()[:10]
+    upcoming = []
+    past = []
+
+    for page in pages:
+        page_date = get_property(page, "Has deadline")
+        if page_date < today:
+            past.append(page)
+        else:
+            upcoming.append(page)
+
+
+    content += f"\n\n## Aktuelle Ausschreibungen\n"
+    for page_data in upcoming:
         deadline = get_property(page_data, "Has deadline")
         title = page_data["title"]
-
         filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
         filename = filename.lower()
         filepath = f"ausschreibungen/{filename}.md"
-
         content += f"\n* [{deadline} - {title}]({filepath})"
 
-        #for page_data in pages:
-        f_content = "[zurück](/funding/)"
-        f_content += f"\n\n## {page_title}\n\n"
+        create_funding_page_file(page_data)
+
+    content += f"\n\n## Vergangenge Ausschreibungen\n"
+    for page_data in past:
         deadline = get_property(page_data, "Has deadline")
-        institution = get_property(page_data, "Has funding institution")
-        homepage = get_property(page_data, "Has homepage")
+        title = page_data["title"]
+        filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
+        filename = filename.lower()
+        filepath = f"ausschreibungen/{filename}.md"
+        content += f"\n* [{deadline} - {title}]({filepath})"
 
-        f_content += f"* Nächste Einreichung: {deadline}"
-        f_content += f"\n* Institution: {institution}"
+        create_funding_page_file(page_data)
 
-        free_text = page_data["free_text"]
-        f_content += f"\n\n{free_text}"
-
-        if homepage:
-            f_content += f"\n\n* [Link]({homepage})"
-        
-        with open(filepath, "w") as f:
-            f.write(f_content)
 
     with open("index.md", "w") as f:
         f.write(content)

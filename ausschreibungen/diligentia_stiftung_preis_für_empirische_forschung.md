@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Diligentia Stiftung: Preis für empirische Forschung
 
 * Nächste Einreichung: 2021-05-01
 * Institution: Diligentia Stiftung

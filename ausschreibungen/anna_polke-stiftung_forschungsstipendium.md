@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Anna Polke-Stiftung: Forschungsstipendium
 
 * Nächste Einreichung: 2021-04-12
 * Institution: Anna Polke-Stiftung

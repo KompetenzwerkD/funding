@@ -1,6 +1,6 @@
 [zurück](/funding/)
 
-## VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer
+## Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken
 
 * Nächste Einreichung: 2021-05-15
 * Institution: Daimler und Benz Stiftung
