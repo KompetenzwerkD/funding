@@ -19,9 +19,6 @@
 
 ## Vergangenge Ausschreibungen
 
-* [ - Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
-* [ - DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
-* [ - DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
 * [2021-04-08 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2021-04-12 - Anna Polke-Stiftung: Forschungsstipendium](ausschreibungen/anna_polke-stiftung_forschungsstipendium.md)
 * [2021-04-12 - VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer](ausschreibungen/volkswagenstiftung_weltwissen_–_strukturelle_stärkung_kleiner_fächer.md)
