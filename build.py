@@ -80,20 +80,12 @@ def get_funding_pages():
     for page in pages:
         page_date = get_property(page, "Has deadline")
         is_ongoing = get_property(page, "Is ongoing")
-        if is_ongoing == "true":
+        if is_ongoing == "true" and not page_date:
             ongoing.append(page)
         elif page_date < today:
             past.append(page)
         else:
             upcoming.append(page)
-
-    content += f"\n\n## Ständige Ausschreibungen\n"
-    for page_data in ongoing:
-        title = page_data["title"]
-        filepath = create_filepath(title)
-        content += f"\n* [{title}]({filepath})"
-
-        create_funding_page_file(filepath, page_data)
 
     content += f"\n\n## Aktuelle Ausschreibungen\n"
     for page_data in upcoming:
@@ -101,6 +93,14 @@ def get_funding_pages():
         title = page_data["title"]
         filepath = create_filepath(title)
         content += f"\n* [{deadline} - {title}]({filepath})"
+
+        create_funding_page_file(filepath, page_data)
+
+    content += f"\n\n## Ständige Ausschreibungen\n"
+    for page_data in ongoing:
+        title = page_data["title"]
+        filepath = create_filepath(title)
+        content += f"\n* [{title}]({filepath})"
 
         create_funding_page_file(filepath, page_data)
 
