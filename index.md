@@ -26,5 +26,9 @@
 
 ## Vergangenge Ausschreibungen
 
+<<<<<<< HEAD
+=======
+* [2021-04-08 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
+>>>>>>> 1ddf7c65088c29e577c792571d97479cd1e4dfce
 * [2021-04-12 - Anna Polke-Stiftung: Forschungsstipendium](ausschreibungen/anna_polke-stiftung_forschungsstipendium.md)
 * [2021-04-12 - VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer](ausschreibungen/volkswagenstiftung_weltwissen_–_strukturelle_stärkung_kleiner_fächer.md)
