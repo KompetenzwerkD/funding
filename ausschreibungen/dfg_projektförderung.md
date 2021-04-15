@@ -2,7 +2,7 @@
 
 ## DFG: Projektförderung
 
-* Nächste Einreichung: 
+
 * Institution: DFG
 
 DFG: Research Grants

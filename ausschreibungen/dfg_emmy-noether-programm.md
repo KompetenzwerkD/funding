@@ -2,7 +2,7 @@
 
 ## DFG: Emmy-Noether-Programm
 
-* Nächste Einreichung: 
+
 * Institution: DFG
 
 DFG: Emmy Noether Programme

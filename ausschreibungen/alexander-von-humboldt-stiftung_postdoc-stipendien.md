@@ -2,7 +2,7 @@
 
 ## Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien
 
-* Nächste Einreichung: 
+
 * Institution: Alexander-von-Humboldt-Stiftung
 
 Humboldt Research Fellowship for Postdoctoral Researchers (incoming)

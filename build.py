@@ -34,7 +34,8 @@ def create_funding_page_file(filepath, page_data):
     institution = get_property(page_data, "Has funding institution")
     homepage = get_property(page_data, "Has homepage")
 
-    f_content += f"* Nächste Einreichung: {deadline}"
+    if deadline:
+        f_content += f"* Nächste Einreichung: {deadline}"
     f_content += f"\n* Institution: {institution}"
 
     free_text = page_data["free_text"]
