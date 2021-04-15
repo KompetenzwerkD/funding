@@ -73,15 +73,27 @@ def get_funding_pages():
     pages = sorted(pages, key=lambda x: get_property(x, "Has deadline"))
 
     today = datetime.datetime.now().isoformat()[:10]
+    ongoing = []
     upcoming = []
     past = []
 
     for page in pages:
         page_date = get_property(page, "Has deadline")
-        if page_date < today:
+        is_ongoing = get_property(page, "Is ongoing")
+        if is_ongoing == "true":
+            ongoing.append(page)
+        elif page_date < today:
             past.append(page)
         else:
             upcoming.append(page)
+
+    content += f"\n\n## Ständige Ausschreibungen\n"
+    for page_data in ongoing:
+        title = page_data["title"]
+        filepath = create_filepath(title)
+        content += f"\n* [{title}]({filepath})"
+
+        create_funding_page_file(filepath, page_data)
 
     content += f"\n\n## Aktuelle Ausschreibungen\n"
     for page_data in upcoming:
