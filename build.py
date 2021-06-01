@@ -81,7 +81,7 @@ def get_funding_pages():
     for page in pages:
         page_date = get_property(page, "Has deadline")
         is_ongoing = get_property(page, "Is ongoing")
-        if page_date >= today:
+        if is_ongoing == "true" and not page_date:
             ongoing.append(page)
         elif page_date < today:
             past.append(page)
