@@ -6,27 +6,27 @@
 
 ## Aktuelle Ausschreibungen
 
-* [2021-06-01 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
-* [2021-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
-* [2021-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
-* [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
-* [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
-* [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
-* [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
-* [2021-08-31 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
-* [2021-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
-* [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
 
 ## Ständige Ausschreibungen
 
-* [Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
-* [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
-* [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
-* [Einladung/Reise für Nachwuchswissenschaftler:innen der Uni Leipzig (Leibniz-Programm)](ausschreibungen/einladung_reise_für_nachwuchswissenschaftlerinnen_der_uni_leipzig_(leibniz-programm).md)
-* [Leipzig Flexible Fund: Anschubfinanzierung der Universität Leipzig für Postdocs (inklusive Juniorprofessor:innen)](ausschreibungen/leipzig_flexible_fund_anschubfinanzierung_der_universität_leipzig_für_postdocs_(inklusive_juniorprofessorinnen).md)
+* [Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
+* [Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
+* [Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
+* [PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
+* [Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
+* [Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
+* [Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
+* [European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
 
 ## Vergangenge Ausschreibungen
 
+* [ - Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
+* [ - DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
+* [ - DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
+* [ - Einladung/Reise für Nachwuchswissenschaftler:innen der Uni Leipzig (Leibniz-Programm)](ausschreibungen/einladung_reise_für_nachwuchswissenschaftlerinnen_der_uni_leipzig_(leibniz-programm).md)
+* [ - Leipzig Flexible Fund: Anschubfinanzierung der Universität Leipzig für Postdocs (inklusive Juniorprofessor:innen)](ausschreibungen/leipzig_flexible_fund_anschubfinanzierung_der_universität_leipzig_für_postdocs_(inklusive_juniorprofessorinnen).md)
 * [ - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
 * [2021-04-08 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2021-04-12 - Anna Polke-Stiftung: Forschungsstipendium](ausschreibungen/anna_polke-stiftung_forschungsstipendium.md)
