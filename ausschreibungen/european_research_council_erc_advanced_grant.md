@@ -5,6 +5,10 @@
 * Nächste Einreichung: 2021-08-31
 * Institution: EU
 
+Der Europäische Forschungsrat (European Research Council – ERC) fördert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der ERC Advanced Grants sind etablierte, aktive Wissenschaftler/innen mit einer herausragenden wissenschaftlichen Forschungsleistung, die neue Forschungsgebiete erschließen möchten. Bei der Begutachtung der wissenschaftlichen Leistung sind die letzten zehn Jahre vor der Antragstellung maßgeblich. Die Vorhaben werden mit bis zu 2.5 Mio. Euro für maximal 5 Jahre gefördert.
+
+https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/erc-2021-adg
+
 Für das Programm Horizon Europe (Laufzeit 2021-2027) gibt es vorläufige Einigungen, mehr in der Pressemitteilung des Europäischen Parlaments (EN) und hier vom BMBF: https://www.horizont-europa.de/. Programme wie die Marie-Curie-Maßnahmen und die ERC-Grants werden finanziell aufgestockt. Eine offizielle Freigabe wird für das 2. Quartal 2021 erwartet.
 
 Europäische Kommission: Online-Seminar zur Antragstellung am 21.04.2021 

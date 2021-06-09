@@ -1,6 +1,6 @@
 # Ausschreibungen
 
-* Stand: 2021-06-03
+* Stand: 2021-06-09
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
@@ -11,10 +11,13 @@
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
 * [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
 * [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
+* [2021-07-20 - DFG: Copernicus-Preis 2022](ausschreibungen/dfg_copernicus-preis_2022.md)
 * [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
+* [2021-08-17 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_(spp_2357).md)
 * [2021-08-31 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2021-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
 * [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
+* [2022-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
 
 ## Ständige Ausschreibungen
 
