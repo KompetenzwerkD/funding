@@ -1,5 +1,4 @@
 import yaml
-import urllib
 import datetime
 import json
 from smw_utils.api import MediawikiApi

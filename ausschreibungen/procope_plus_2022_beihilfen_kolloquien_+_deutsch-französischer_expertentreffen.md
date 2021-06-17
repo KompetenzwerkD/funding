@@ -2,8 +2,8 @@
 
 ## Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen
 
-
-* Institution: 
+* Nächste Einreichung: 2021-06-29
+* Institution: DAAD, Französische Botschaft in Deutschland
 
 Französische Botschaft in Deutschland & DAAD: Procope Plus 2022 : Beihilfen für die Organisation wissenschaftlicher Kolloquien und deutsch-französischer Expertentreffen
 
@@ -21,3 +21,5 @@ Procope est le Partenariat Hubert Curien (PHC) franco-allemand. Il est mis en œ
 Date limite: 29.06.2021
 
 Informations complémentaires: https://www.science-allemagne.fr/non-classe-nodisplay/programme-php-procope-2022-echanges-scientifiques-et-technologiques-pour-chercheurs-et-doctorants/
+
+* [Link](https://www.wissenschaft-frankreich.de/kooperation/procope-plus-2022-beihilfen-fuer-die-organisation-wissenschaftlicher-kolloquien-und-deutsch-franzoesischer-expertentreffen/)
