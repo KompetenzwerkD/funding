@@ -1,13 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2021-07-15
+* Stand: 2021-07-19
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
-* [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
 * [2021-07-20 - DFG: Copernicus-Preis 2022](ausschreibungen/dfg_copernicus-preis_2022.md)
 * [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
 * [2021-08-17 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_(spp_2357).md)
@@ -42,3 +40,5 @@
 * [2021-06-29 - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
 * [2021-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
+* [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
+* [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
