@@ -1,16 +1,20 @@
 # Ausschreibungen
 
-* Stand: 2021-07-19
+* Stand: 2021-08-10
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2021-07-20 - DFG: Copernicus-Preis 2022](ausschreibungen/dfg_copernicus-preis_2022.md)
-* [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
+* [2021-08-15 - Archiv der deutschen Jugendbewegung: Forschungsstipendium](ausschreibungen/archiv_der_deutschen_jugendbewegung_forschungsstipendium.md)
 * [2021-08-17 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_(spp_2357).md)
 * [2021-08-31 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2021-09-01 - Exner-Stiftung: Dissertationspreis](ausschreibungen/exner-stiftung_dissertationspreis.md)
+* [2021-09-15 - Gerda Henkel Stiftung: Visiting Professorship (DHI London/LSE)](ausschreibungen/gerda_henkel_stiftung_visiting_professorship_(dhi_london_lse).md)
+* [2021-09-30 - Gotha, Außenstelle Uni Erfurt: Herzog-Ernst-Stipendien und Hiob-Ludolf-Fellowships 2022](ausschreibungen/gotha,_außenstelle_uni_erfurt_herzog-ernst-stipendien_und_hiob-ludolf-fellowships_2022.md)
+* [2021-09-30 - Willy-Bretscher-Fellowship (ZB Zürich) / Grant](ausschreibungen/willy-bretscher-fellowship_(zb_zürich)___grant.md)
 * [2021-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [2021-10-08 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
 * [2021-10-12 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
 * [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
@@ -42,3 +46,5 @@
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
 * [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
 * [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
+* [2021-07-20 - DFG: Copernicus-Preis 2022](ausschreibungen/dfg_copernicus-preis_2022.md)
+* [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
