@@ -2,7 +2,7 @@
 
 ## Gerda Henkel Stiftung: Projektförderung
 
-* Nächste Einreichung: 2021-06-01
+* Nächste Einreichung: 2021-11-24
 * Institution: Gerda Henkel Stiftung
 
 Gerda Henkel Stiftung: Forschungsprojekte

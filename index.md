@@ -1,33 +1,24 @@
 # Ausschreibungen
 
-* Stand: 2021-09-30
+* Stand: 2021-11-05
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2021-09-30 - BMBF: Förderung von Projekten für die grenzüberschreitende Vernetzung und Entwicklung von Projektvorschlägen für Verbundvorhaben in Horizont Europa](ausschreibungen/bmbf_förderung_von_projekten_für_die_grenzüberschreitende_vernetzung_und_entwicklung_von_projektvorschlägen_für_verbundvorhaben_in_horizont_europa.md)
-* [2021-09-30 - Gotha, Außenstelle Uni Erfurt: Herzog-Ernst-Stipendien und Hiob-Ludolf-Fellowships 2022](ausschreibungen/gotha,_außenstelle_uni_erfurt_herzog-ernst-stipendien_und_hiob-ludolf-fellowships_2022.md)
-* [2021-09-30 - Willy-Bretscher-Fellowship (ZB Zürich) / Grant](ausschreibungen/willy-bretscher-fellowship_(zb_zürich)___grant.md)
-* [2021-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
-* [2021-10-08 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
-* [2021-10-12 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
-* [2021-10-12 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
-* [2021-10-15 - Deutsches Museum München: Scholar in Residence (Stipendium)](ausschreibungen/deutsches_museum_münchen_scholar_in_residence_(stipendium).md)
-* [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
-* [2021-11-02 - Azrieli Foundation: Azrieli Fellows Program](ausschreibungen/azrieli_foundation_azrieli_fellows_program.md)
-* [2021-11-02 - VolkswagenStiftung: Symposien](ausschreibungen/volkswagenstiftung_symposien.md)
-* [2021-11-03 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2021-11-10 - SMWK: Projektförderung TG 70, Geistes- und Sozialwissenschaften](ausschreibungen/smwk_projektförderung_tg_70,_geistes-_und_sozialwissenschaften.md)
 * [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
 * [2021-11-17 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
+* [2021-11-24 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2021-12-01 - BMBF: Förderung von Nachwuchsgruppen im Rahmen der Rechtsextremismus- und Rassismusforschung](ausschreibungen/bmbf_förderung_von_nachwuchsgruppen_im_rahmen_der_rechtsextremismus-_und_rassismusforschung.md)
 * [2022-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
+* [2022-03-01 - DFG: Schwerpunktprogramm "Das digitale Bild"](ausschreibungen/dfg_schwerpunktprogramm_"das_digitale_bild".md)
 * [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
 
 ## Ständige Ausschreibungen
 
 * [Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
+* [DFG: Digitalisierung und Erschließung](ausschreibungen/dfg_digitalisierung_und_erschließung.md)
 * [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
 * [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
 * [Einladung/Reise für Nachwuchswissenschaftler:innen der Uni Leipzig (Leibniz-Programm)](ausschreibungen/einladung_reise_für_nachwuchswissenschaftlerinnen_der_uni_leipzig_(leibniz-programm).md)
@@ -44,7 +35,6 @@
 * [2021-05-12 - Gerda Henkel Stiftung: Lost Cities](ausschreibungen/gerda_henkel_stiftung_lost_cities.md)
 * [2021-05-12 - Gerda Henkel Stiftung: Transformationen der Demokratie?](ausschreibungen/gerda_henkel_stiftung_transformationen_der_demokratie.md)
 * [2021-05-15 - Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken](ausschreibungen/einstein_forum___daimler_und_benz_stiftung_albert-einstein-stipendium_für_kreatives_interdisziplinäres_denken.md)
-* [2021-06-01 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2021-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
 * [2021-06-29 - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
 * [2021-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
@@ -60,3 +50,15 @@
 * [2021-09-01 - Exner-Stiftung: Dissertationspreis](ausschreibungen/exner-stiftung_dissertationspreis.md)
 * [2021-09-15 - Gerda Henkel Stiftung: Visiting Professorship (DHI London/LSE)](ausschreibungen/gerda_henkel_stiftung_visiting_professorship_(dhi_london_lse).md)
 * [2021-09-15 - Hans-Böckler-Stiftung: Maria Weber Grant](ausschreibungen/hans-böckler-stiftung_maria_weber_grant.md)
+* [2021-09-30 - BMBF: Förderung von Projekten für die grenzüberschreitende Vernetzung und Entwicklung von Projektvorschlägen für Verbundvorhaben in Horizont Europa](ausschreibungen/bmbf_förderung_von_projekten_für_die_grenzüberschreitende_vernetzung_und_entwicklung_von_projektvorschlägen_für_verbundvorhaben_in_horizont_europa.md)
+* [2021-09-30 - Gotha, Außenstelle Uni Erfurt: Herzog-Ernst-Stipendien und Hiob-Ludolf-Fellowships 2022](ausschreibungen/gotha,_außenstelle_uni_erfurt_herzog-ernst-stipendien_und_hiob-ludolf-fellowships_2022.md)
+* [2021-09-30 - Willy-Bretscher-Fellowship (ZB Zürich) / Grant](ausschreibungen/willy-bretscher-fellowship_(zb_zürich)___grant.md)
+* [2021-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [2021-10-08 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
+* [2021-10-12 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
+* [2021-10-12 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
+* [2021-10-15 - Deutsches Museum München: Scholar in Residence (Stipendium)](ausschreibungen/deutsches_museum_münchen_scholar_in_residence_(stipendium).md)
+* [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
+* [2021-11-02 - Azrieli Foundation: Azrieli Fellows Program](ausschreibungen/azrieli_foundation_azrieli_fellows_program.md)
+* [2021-11-02 - VolkswagenStiftung: Symposien](ausschreibungen/volkswagenstiftung_symposien.md)
+* [2021-11-03 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
