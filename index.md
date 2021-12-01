@@ -1,18 +1,22 @@
 # Ausschreibungen
 
-* Stand: 2021-11-05
+* Stand: 2021-12-01
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2021-11-10 - SMWK: Projektförderung TG 70, Geistes- und Sozialwissenschaften](ausschreibungen/smwk_projektförderung_tg_70,_geistes-_und_sozialwissenschaften.md)
-* [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
-* [2021-11-17 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
-* [2021-11-24 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2021-12-01 - BMBF: Förderung von Nachwuchsgruppen im Rahmen der Rechtsextremismus- und Rassismusforschung](ausschreibungen/bmbf_förderung_von_nachwuchsgruppen_im_rahmen_der_rechtsextremismus-_und_rassismusforschung.md)
+* [2021-12-03 - SMWK: Verbesserung der Drittmittelfähigkeit und Stärkung internationaler Kooperationsaktivitäten (TG 70)](ausschreibungen/smwk_verbesserung_der_drittmittelfähigkeit_und_stärkung_internationaler_kooperationsaktivitäten_(tg_70).md)
+* [2021-12-31 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_(villa_vigoni).md)
+* [2021-12-31 - Leipziger Wissenschaftspreis 2022](ausschreibungen/leipziger_wissenschaftspreis_2022.md)
+* [2022-01-31 - BMVI: Förderrichtlinie mFUND: Erster Aufruf zur Einreichung von Skizzen zur Förderung von datenbasierten Forschungs- und Entwicklungsprojekten der Kategorie „kleine Forschungsprojekte/ Vorstudien/ Machbarkeitsstudien/ Konzeptstudien“](ausschreibungen/bmvi_förderrichtlinie_mfund_erster_aufruf_zur_einreichung_von_skizzen_zur_förderung_von_datenbasierten_forschungs-_und_entwicklungsprojekten_der_kategorie_„kleine_forschungsprojekte__vorstudien__machbarkeitsstudien__konzeptstudien“.md)
 * [2022-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
+* [2022-02-15 - DFG: Schwerpunktprogramm „Computational Literary Studies“ (SPP 2207)](ausschreibungen/dfg_schwerpunktprogramm_„computational_literary_studies“_(spp_2207).md)
+* [2022-02-22 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_(mit_ahrc).md)
+* [2022-02-28 - BMBF: Förderung von Projekten zum Thema „Integration der Region Mittelost- und Südosteuropa in den Europäischen Forschungsraum“ (Bridge2ERA2021)](ausschreibungen/bmbf_förderung_von_projekten_zum_thema_„integration_der_region_mittelost-_und_südosteuropa_in_den_europäischen_forschungsraum“_(bridge2era2021).md)
 * [2022-03-01 - DFG: Schwerpunktprogramm "Das digitale Bild"](ausschreibungen/dfg_schwerpunktprogramm_"das_digitale_bild".md)
+* [2022-03-31 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
 * [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
 
 ## Ständige Ausschreibungen
@@ -62,3 +66,8 @@
 * [2021-11-02 - Azrieli Foundation: Azrieli Fellows Program](ausschreibungen/azrieli_foundation_azrieli_fellows_program.md)
 * [2021-11-02 - VolkswagenStiftung: Symposien](ausschreibungen/volkswagenstiftung_symposien.md)
 * [2021-11-03 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
+* [2021-11-10 - SMWK: Projektförderung TG 70, Geistes- und Sozialwissenschaften](ausschreibungen/smwk_projektförderung_tg_70,_geistes-_und_sozialwissenschaften.md)
+* [2021-11-15 - SMR: simul⁺Mitmachfonds](ausschreibungen/smr_simul⁺mitmachfonds.md)
+* [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
+* [2021-11-17 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
+* [2021-11-24 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
