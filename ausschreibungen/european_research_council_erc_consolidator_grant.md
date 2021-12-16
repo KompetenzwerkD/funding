@@ -2,7 +2,7 @@
 
 ## European Research Council: ERC Consolidator Grant
 
-* Nächste Einreichung: 2021-04-20
+* Nächste Einreichung: 2022-03-17
 * Institution: EU
 
 Der Europäische Forschungsrat (European Research Council – ERC) fördert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der Consolidator Grants sind exzellente Wissenschaftler/innen, deren eigene unabhängige Arbeitsgruppe sich in der Konsolidierungsphase befindet und deren Promotion 7 bis 12 Jahre (in Ausnahmen länger) zurückliegt. Als Grundlage für die Bewertung dienen folgende Benchmarks:

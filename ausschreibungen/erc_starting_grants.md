@@ -2,7 +2,7 @@
 
 ## ERC Starting Grants
 
-* Nächste Einreichung: 2021-04-08
+* Nächste Einreichung: 2022-01-13
 * Institution: EU
 
 Der Europäische Forschungsrat (European Research Council – ERC) fördert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der Starting Grants sind exzellente Nachwuchswissenschaftler/innen, die eine eigene unabhängige Karriere starten und eine eigene Arbeitsgruppe aufbauen möchten. Antragsberechtigt sind Wissenschaftler/innen, deren Promotion zum Zeitpunkt der Veröffentlichung der Ausschreibung 2 bis 7 Jahre (in Ausnahmen länger) zurückliegt. Als Grundlage für die Bewertung dienen folgende Benchmarks:
