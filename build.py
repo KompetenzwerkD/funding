@@ -15,7 +15,7 @@ def get_property(page, property_label):
 
 
 def create_filepath(title):
-    filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "")
+    filename = title.replace(" ","_").replace("/", "_").replace(".","").replace(":","").replace("?", "").replace("(", "").replace(")","")
     filename = filename.lower()
     filepath = f"ausschreibungen/{filename}.md"    
     return filepath
