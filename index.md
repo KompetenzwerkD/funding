@@ -1,15 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2021-12-17
+* Stand: 2022-01-24
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2021-12-31 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
-* [2021-12-31 - Leipziger Wissenschaftspreis 2022](ausschreibungen/leipziger_wissenschaftspreis_2022.md)
-* [2022-01-02 - Moses Mendelssohn Zentrum für europäisch-jüdische Studien: Stipendien](ausschreibungen/moses_mendelssohn_zentrum_für_europäisch-jüdische_studien_stipendien.md)
-* [2022-01-13 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2022-01-31 - BMVI: Förderrichtlinie mFUND: Erster Aufruf zur Einreichung von Skizzen zur Förderung von datenbasierten Forschungs- und Entwicklungsprojekten der Kategorie „kleine Forschungsprojekte/ Vorstudien/ Machbarkeitsstudien/ Konzeptstudien“](ausschreibungen/bmvi_förderrichtlinie_mfund_erster_aufruf_zur_einreichung_von_skizzen_zur_förderung_von_datenbasierten_forschungs-_und_entwicklungsprojekten_der_kategorie_„kleine_forschungsprojekte__vorstudien__machbarkeitsstudien__konzeptstudien“.md)
 * [2022-02-01 - Leo Baeck Institute London: Stipendium](ausschreibungen/leo_baeck_institute_london_stipendium.md)
 * [2022-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
@@ -21,7 +17,9 @@
 * [2022-03-01 - Deutscher Studienpreis](ausschreibungen/deutscher_studienpreis.md)
 * [2022-03-01 - DFG: Schwerpunktprogramm "Das digitale Bild"](ausschreibungen/dfg_schwerpunktprogramm_"das_digitale_bild".md)
 * [2022-03-15 - DFG: Deutsch-Israelische Projektkooperation (DIP) – German-Israeli Project Cooperation](ausschreibungen/dfg_deutsch-israelische_projektkooperation_dip_–_german-israeli_project_cooperation.md)
+* [2022-03-17 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
 * [2022-03-17 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
+* [2022-03-18 - DFG: Digitalisierung und Bereitstellung (noch) rechtebewehrter Objekte (Koordinierungsprojekt zur Vorbereitung einer Pilotphase)](ausschreibungen/dfg_digitalisierung_und_bereitstellung_noch_rechtebewehrter_objekte_koordinierungsprojekt_zur_vorbereitung_einer_pilotphase.md)
 * [2022-03-31 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
 * [2022-03-31 - DFG: Weave Lead Agency Initiative: Additional Collaboration Opportunity with F.R.S.-FNRS and FWO (Belgium)](ausschreibungen/dfg_weave_lead_agency_initiative_additional_collaboration_opportunity_with_frs-fnrs_and_fwo_belgium.md)
 * [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
@@ -78,3 +76,7 @@
 * [2021-11-24 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2021-12-01 - BMBF: Förderung von Nachwuchsgruppen im Rahmen der Rechtsextremismus- und Rassismusforschung](ausschreibungen/bmbf_förderung_von_nachwuchsgruppen_im_rahmen_der_rechtsextremismus-_und_rassismusforschung.md)
 * [2021-12-03 - SMWK: Verbesserung der Drittmittelfähigkeit und Stärkung internationaler Kooperationsaktivitäten (TG 70)](ausschreibungen/smwk_verbesserung_der_drittmittelfähigkeit_und_stärkung_internationaler_kooperationsaktivitäten_tg_70.md)
+* [2021-12-31 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
+* [2021-12-31 - Leipziger Wissenschaftspreis 2022](ausschreibungen/leipziger_wissenschaftspreis_2022.md)
+* [2022-01-02 - Moses Mendelssohn Zentrum für europäisch-jüdische Studien: Stipendien](ausschreibungen/moses_mendelssohn_zentrum_für_europäisch-jüdische_studien_stipendien.md)
+* [2022-01-13 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
