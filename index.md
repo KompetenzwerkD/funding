@@ -1,28 +1,23 @@
 # Ausschreibungen
 
-* Stand: 2022-03-15
+* Stand: 2022-04-12
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2022-03-15 - DFG: Deutsch-Israelische Projektkooperation (DIP) – German-Israeli Project Cooperation](ausschreibungen/dfg_deutsch-israelische_projektkooperation_dip_–_german-israeli_project_cooperation.md)
-* [2022-03-17 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
-* [2022-03-17 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
-* [2022-03-18 - DFG: Digitalisierung und Bereitstellung (noch) rechtebewehrter Objekte (Koordinierungsprojekt zur Vorbereitung einer Pilotphase)](ausschreibungen/dfg_digitalisierung_und_bereitstellung_noch_rechtebewehrter_objekte_koordinierungsprojekt_zur_vorbereitung_einer_pilotphase.md)
-* [2022-03-27 - BMBF: Förderung von Forschungsprojekten zur kulturellen Bildung in gesellschaftlichen Transformationen](ausschreibungen/bmbf_förderung_von_forschungsprojekten_zur_kulturellen_bildung_in_gesellschaftlichen_transformationen.md)
-* [2022-03-31 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
-* [2022-03-31 - DFG: Weave Lead Agency Initiative: Additional Collaboration Opportunity with F.R.S.-FNRS and FWO (Belgium)](ausschreibungen/dfg_weave_lead_agency_initiative_additional_collaboration_opportunity_with_frs-fnrs_and_fwo_belgium.md)
-* [2022-03-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
-* [2022-04-01 - Deutsches Historisches Institut in Washington DC: Doctoral and Postdoctoral Fellowships](ausschreibungen/deutsches_historisches_institut_in_washington_dc_doctoral_and_postdoctoral_fellowships.md)
+* [2022-04-28 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2022-04-30 - Deutsche Nationalbibliothek: DH-Stipendien](ausschreibungen/deutsche_nationalbibliothek_dh-stipendien.md)
 * [2022-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
 * [2022-04-30 - Historisches Kolleg München: Junior Fellowships](ausschreibungen/historisches_kolleg_münchen_junior_fellowships.md)
 * [2022-04-30 - Historisches Kolleg München: Senior Fellowships](ausschreibungen/historisches_kolleg_münchen_senior_fellowships.md)
 * [2022-05-02 - Gerda Henkel Stiftung: Transformationen der Demokratie?](ausschreibungen/gerda_henkel_stiftung_transformationen_der_demokratie.md)
 * [2022-05-02 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
 * [2022-05-16 - Joachim Herz Stiftung: Begegnungszonen (Veranstaltungen)](ausschreibungen/joachim_herz_stiftung_begegnungszonen_veranstaltungen.md)
+* [2022-05-25 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
 * [2022-06-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
 * [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2022-06-15 - Deutsch-Französische Hochschule: Spezifische Ausschreibung 2022 zur Förderung wissenschaftlicher Veranstaltungen „Kleine Fächer“](ausschreibungen/deutsch-französische_hochschule_spezifische_ausschreibung_2022_zur_förderung_wissenschaftlicher_veranstaltungen_„kleine_fächer“.md)
 * [2022-09-30 - Edith Saurer Fonds - Forschungsstipendien](ausschreibungen/edith_saurer_fonds_-_forschungsstipendien.md)
 
 ## Ständige Ausschreibungen
@@ -31,6 +26,7 @@
 * [DFG: Digitalisierung und Erschließung](ausschreibungen/dfg_digitalisierung_und_erschließung.md)
 * [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
 * [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
+* [DFG: Verantwortung für Informationsinfrastrukturen gemeinsam organisieren (VIGO)](ausschreibungen/dfg_verantwortung_für_informationsinfrastrukturen_gemeinsam_organisieren_vigo.md)
 * [Einladung/Reise für Nachwuchswissenschaftler:innen der Uni Leipzig (Leibniz-Programm)](ausschreibungen/einladung_reise_für_nachwuchswissenschaftlerinnen_der_uni_leipzig_leibniz-programm.md)
 * [Leipzig Flexible Fund: Anschubfinanzierung der Universität Leipzig für Postdocs (inklusive Juniorprofessor:innen)](ausschreibungen/leipzig_flexible_fund_anschubfinanzierung_der_universität_leipzig_für_postdocs_inklusive_juniorprofessorinnen.md)
 
@@ -54,7 +50,6 @@
 * [2021-08-15 - Archiv der deutschen Jugendbewegung: Forschungsstipendium](ausschreibungen/archiv_der_deutschen_jugendbewegung_forschungsstipendium.md)
 * [2021-08-17 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
 * [2021-08-29 - Sächsischer Förderpreis für Demokratie](ausschreibungen/sächsischer_förderpreis_für_demokratie.md)
-* [2021-08-31 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2021-09-01 - Exner-Stiftung: Dissertationspreis](ausschreibungen/exner-stiftung_dissertationspreis.md)
 * [2021-09-15 - Gerda Henkel Stiftung: Visiting Professorship (DHI London/LSE)](ausschreibungen/gerda_henkel_stiftung_visiting_professorship_dhi_london_lse.md)
 * [2021-09-15 - Hans-Böckler-Stiftung: Maria Weber Grant](ausschreibungen/hans-böckler-stiftung_maria_weber_grant.md)
@@ -89,3 +84,12 @@
 * [2022-02-28 - BMBF: Förderung von Projekten zum Thema „Integration der Region Mittelost- und Südosteuropa in den Europäischen Forschungsraum“ (Bridge2ERA2021)](ausschreibungen/bmbf_förderung_von_projekten_zum_thema_„integration_der_region_mittelost-_und_südosteuropa_in_den_europäischen_forschungsraum“_bridge2era2021.md)
 * [2022-03-01 - Deutscher Studienpreis](ausschreibungen/deutscher_studienpreis.md)
 * [2022-03-01 - DFG: Schwerpunktprogramm "Das digitale Bild"](ausschreibungen/dfg_schwerpunktprogramm_"das_digitale_bild".md)
+* [2022-03-15 - DFG: Deutsch-Israelische Projektkooperation (DIP) – German-Israeli Project Cooperation](ausschreibungen/dfg_deutsch-israelische_projektkooperation_dip_–_german-israeli_project_cooperation.md)
+* [2022-03-17 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
+* [2022-03-17 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
+* [2022-03-18 - DFG: Digitalisierung und Bereitstellung (noch) rechtebewehrter Objekte (Koordinierungsprojekt zur Vorbereitung einer Pilotphase)](ausschreibungen/dfg_digitalisierung_und_bereitstellung_noch_rechtebewehrter_objekte_koordinierungsprojekt_zur_vorbereitung_einer_pilotphase.md)
+* [2022-03-27 - BMBF: Förderung von Forschungsprojekten zur kulturellen Bildung in gesellschaftlichen Transformationen](ausschreibungen/bmbf_förderung_von_forschungsprojekten_zur_kulturellen_bildung_in_gesellschaftlichen_transformationen.md)
+* [2022-03-31 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
+* [2022-03-31 - DFG: Weave Lead Agency Initiative: Additional Collaboration Opportunity with F.R.S.-FNRS and FWO (Belgium)](ausschreibungen/dfg_weave_lead_agency_initiative_additional_collaboration_opportunity_with_frs-fnrs_and_fwo_belgium.md)
+* [2022-03-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
+* [2022-04-01 - Deutsches Historisches Institut in Washington DC: Doctoral and Postdoctoral Fellowships](ausschreibungen/deutsches_historisches_institut_in_washington_dc_doctoral_and_postdoctoral_fellowships.md)
