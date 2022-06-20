@@ -1,16 +1,17 @@
 # Ausschreibungen
 
-* Stand: 2022-05-30
+* Stand: 2022-06-20
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2022-06-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
-* [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
-* [2022-06-15 - Deutsch-Französische Hochschule: Spezifische Ausschreibung 2022 zur Förderung wissenschaftlicher Veranstaltungen „Kleine Fächer“](ausschreibungen/deutsch-französische_hochschule_spezifische_ausschreibung_2022_zur_förderung_wissenschaftlicher_veranstaltungen_„kleine_fächer“.md)
+* [2022-06-30 - Bundesstiftung Aufarbeitung: Förderschwerpunkt: Protest und Aufstände gegen autoritäre Herrschaft und Diktaturen](ausschreibungen/bundesstiftung_aufarbeitung_förderschwerpunkt_protest_und_aufstände_gegen_autoritäre_herrschaft_und_diktaturen.md)
+* [2022-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
+* [2022-07-31 - Leipzig Lab: Forschergruppe an der Uni Leipzig](ausschreibungen/leipzig_lab_forschergruppe_an_der_uni_leipzig.md)
 * [2022-09-30 - Edith Saurer Fonds - Forschungsstipendien](ausschreibungen/edith_saurer_fonds_-_forschungsstipendien.md)
 * [2022-09-30 - Edith Saurer Fonds: Forschungsstipendien](ausschreibungen/edith_saurer_fonds_forschungsstipendien.md)
+* [2022-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
 
 ## Ständige Ausschreibungen
 
@@ -33,7 +34,6 @@
 * [2021-05-15 - Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken](ausschreibungen/einstein_forum___daimler_und_benz_stiftung_albert-einstein-stipendium_für_kreatives_interdisziplinäres_denken.md)
 * [2021-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
 * [2021-06-29 - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
-* [2021-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
 * [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
 * [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
@@ -94,3 +94,6 @@
 * [2022-05-02 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
 * [2022-05-16 - Joachim Herz Stiftung: Begegnungszonen (Veranstaltungen)](ausschreibungen/joachim_herz_stiftung_begegnungszonen_veranstaltungen.md)
 * [2022-05-25 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
+* [2022-06-01 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2022-06-15 - Bucerius Institute: Two Manfred Lahnstein Short-Term Post-Doctoral Fellowships](ausschreibungen/bucerius_institute_two_manfred_lahnstein_short-term_post-doctoral_fellowships.md)
+* [2022-06-15 - Deutsch-Französische Hochschule: Spezifische Ausschreibung 2022 zur Förderung wissenschaftlicher Veranstaltungen „Kleine Fächer“](ausschreibungen/deutsch-französische_hochschule_spezifische_ausschreibung_2022_zur_förderung_wissenschaftlicher_veranstaltungen_„kleine_fächer“.md)
