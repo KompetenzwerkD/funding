@@ -2,11 +2,14 @@
 
 ## Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen
 
-* Nächste Einreichung: 2021-10-08
+* Nächste Einreichung: 2022-10-07
 * Institution: Max Weber Stiftung
 
 Gerald D. Feldman-Reisebeihilfen
 
+Mit den Reisebeihilfen sollen die beruflichen Chancen für Geistes- und Sozialwissenschaftler:innen in der Qualifikationsphase verbessert werden. Die Wissenschaftler:innen führen ein selbst gewähltes Forschungsvorhaben in mindestens zwei und bis zu drei Gastländern der Institute und Außenstellen der MWS bzw. dem Richard Koebner Minerva Center for German History durch. Die Beihilfen haben eine Gesamtlaufzeit von bis zu drei Monaten. Die Aufenthalte (maximal ein Monat pro Gastland, auch ein kürzerer Aufenthalt ist möglich) dienen der Recherche insbesondere in Bibliotheken oder Archiven. Es wird erwartet, dass transnationale oder transregionale Studien entstehen, die der Forschung neue und originelle Impulse verleihen. Die Forschungsaufenthalte sollen innerhalb von 12, maximal aber innerhalb von 24 Monaten absolviert werden.
+
+Infos von 2021:
 Die Max Weber Stiftung (MWS) vergibt mit Unterstützung der Peters-Beer-Stiftung sowie der Marga und Kurt Möllgaard-Stiftung im Stifterverband für die Deutsche Wissenschaft einmal jährlich Gerald D. Feldman-Reisebeihilfen an international orientierte, junge Forschende.
 
 Mit den Reisebeihilfen sollen die beruflichen Chancen für Geistes- und Sozialwissenschaftlerinnen und -wissenschaftler in der Qualifikationsphase verbessert werden. Die Wissenschaftlerinnen und Wissenschaftler führen ein selbst gewähltes Forschungsvorhaben in mindestens zwei und bis zu drei Gastländern der Institute und Außenstellen der MWS bzw. dem Richard Koebner Minerva Center for German History durch (für eine Liste der Gastländer s. unter "Länder und Regionen"). Die Beihilfen haben eine Gesamtlaufzeit von bis zu drei Monaten. Die Aufenthalte (maximal ein Monat pro Gastland, auch ein kürzerer Aufenthalt ist möglich) dienen der Recherche insbesondere in Bibliotheken oder Archiven. Es wird erwartet, dass transnationale oder transregionale Studien entstehen, die der Forschung neue und originelle Impulse verleihen. Die Forschungsaufenthalte sollen innerhalb von 12, maximal aber innerhalb von 24 Monaten absolviert werden.
@@ -68,4 +71,4 @@ Kontakt
 Dr. Tim Urban
 feldman@maxweberstiftung.de
 
-* [Link](https://www.hsozkult.de/grant/id/stip-98754)
+* [Link](https://www.maxweberstiftung.de/foerderung/feldman-reisebeihilfen.html)

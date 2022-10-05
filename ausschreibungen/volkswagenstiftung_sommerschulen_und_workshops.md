@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Sommerschulen und Workshops
 
-* Nächste Einreichung: 2022-05-02
+* Nächste Einreichung: 2022-11-01
 * Institution: VolkswagenStiftung
 
 Ziel der Initiative

@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Pioniervorhaben
 
-* Nächste Einreichung: 2022-03-31
+* Nächste Einreichung: 2022-10-31
 * Institution: VolkswagenStiftung
 
 Das Förderangebot richtet sich an aktive Wissenschaftler:innen, die neben ihrer Forschungstätigkeit eine konkrete Projektidee zur Weiterentwicklung eines spezifischen Bereichs des deutschen Wissenschaftssystems erproben möchten, sowie an Wissenschaftsmanager:innen an einer wissenschaftlichen Einrichtung in Deutschland. Ein Vorhaben kann sich dabei auf jeden Aspekt des Wissenschaftssystems, wie z.B. Forschung, Lehre, Transfer, Governance und Administration beziehen. Durch das Förderangebot soll ein Experimentierraum geschaffen werden, in dem neuartige Konzepte mit offenem Ausgang erprobt werden können (sowie durchaus auch scheitern können und dürfen). Das Vorhaben soll praktische Verbesserungen anstreben, reine Forschungsvorhaben können nicht gefördert werden. Erwartet wird, dass die im Verlauf der Projekte gewonnenen Erkenntnisse über das Wissenschaftssystem und Erfolg oder Misserfolg der Vorhaben mit interessierten Zielgruppen geteilt werden. 

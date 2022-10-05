@@ -2,12 +2,12 @@
 
 ## VolkswagenStiftung: Opus Magnum
 
-* Nächste Einreichung: 2022-02-01
+* Nächste Einreichung: 2023-02-01
 * Institution: VolkswagenStiftung
 
 Ziel der Initiative
 
-Ziel der Initiative ist es, Professorinnen und Professoren aus den Geistes- und Gesellschaftswissenschaften, die sich durch (erste) herausragende Arbeiten ausgewiesen haben, einen Freiraum für die intensive Arbeit an einem wissenschaftlichen Werk zu eröffnen. Die Förderung besteht im Wesentlichen in der Finanzierung einer Vertretungsprofessur, womit die Initiative zugleich auch dem wissenschaftlichen Nachwuchs eine zusätzliche Perspektive eröffnen möchte.
+Ziel der Initiative ist es, Professor:innen aus den Geistes- und Gesellschaftswissenschaften, die sich durch (erste) herausragende Arbeiten ausgewiesen haben, einen Freiraum für die intensive Arbeit an einem wissenschaftlichen Werk zu eröffnen. Die Förderung besteht im Wesentlichen in der Finanzierung einer Vertretungsprofessur, womit die Initiative zugleich auch dem wissenschaftlichen Nachwuchs eine zusätzliche Perspektive eröffnen möchte.
 
 Förderangebot
 
