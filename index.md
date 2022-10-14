@@ -1,12 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2022-10-05
+* Stand: 2022-10-14
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2022-10-07 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
 * [2022-10-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
 * [2022-11-01 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
 * [2022-11-08 - European Research Council: ERC Synergy Grant (Horizon Europe)](ausschreibungen/european_research_council_erc_synergy_grant_horizon_europe.md)
@@ -102,3 +101,4 @@
 * [2022-09-30 - Edith Saurer Fonds - Forschungsstipendien](ausschreibungen/edith_saurer_fonds_-_forschungsstipendien.md)
 * [2022-09-30 - Edith Saurer Fonds: Forschungsstipendien](ausschreibungen/edith_saurer_fonds_forschungsstipendien.md)
 * [2022-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [2022-10-07 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
