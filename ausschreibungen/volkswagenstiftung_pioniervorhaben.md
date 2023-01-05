@@ -2,20 +2,14 @@
 
 ## VolkswagenStiftung: Pioniervorhaben
 
-* Nächste Einreichung: 2022-10-31
+* Nächste Einreichung: 2023-03-31
 * Institution: VolkswagenStiftung
 
-Das Förderangebot richtet sich an aktive Wissenschaftler:innen, die neben ihrer Forschungstätigkeit eine konkrete Projektidee zur Weiterentwicklung eines spezifischen Bereichs des deutschen Wissenschaftssystems erproben möchten, sowie an Wissenschaftsmanager:innen an einer wissenschaftlichen Einrichtung in Deutschland. Ein Vorhaben kann sich dabei auf jeden Aspekt des Wissenschaftssystems, wie z.B. Forschung, Lehre, Transfer, Governance und Administration beziehen. Durch das Förderangebot soll ein Experimentierraum geschaffen werden, in dem neuartige Konzepte mit offenem Ausgang erprobt werden können (sowie durchaus auch scheitern können und dürfen). Das Vorhaben soll praktische Verbesserungen anstreben, reine Forschungsvorhaben können nicht gefördert werden. Erwartet wird, dass die im Verlauf der Projekte gewonnenen Erkenntnisse über das Wissenschaftssystem und Erfolg oder Misserfolg der Vorhaben mit interessierten Zielgruppen geteilt werden. 
-
-Neben der Qualifikation der Antragsteller:innen für die Umsetzung und der Realisierbarkeit der Projektplanung (inkl. Zeit- und Kostenplanung) sind folgende Kriterien wichtig für die Begutachtung der Vorhaben: 
-
-    Das Vorhaben greift ein bestehendes Desiderat oder Problem in der (deutschen) Wissenschaftslandschaft auf. 
-    Das Vorhaben ist impulsgebend und strukturgestaltend, ggf. auch grenzüberschreitend. 
-    Es handelt sich um einen neuartigen Impuls und damit um einen entscheidenden Neuerungsschritt. 
-    Das Vorhaben kann ohne langfristige Unterstützung der Stiftung weitergeführt und im Erfolgsfall bestenfalls skaliert werden. Die für die Skalierung unmittelbar relevanten Akteure sollten daher von vornherein miteinbezogen werden.
-
-Weitere Informationen zu Ausschreibungsbedingungen sowie zur Antragstellung finden sich unter Information zur Antragstellung 122 (Download als pdf).
+Mit den "Pioniervorhaben – Explorationen des unbekannten Unbekannten" unterstützt die Stiftung bahnbrechende und riskante Forschungsideen mit hoher wissenschaftlicher Relevanz. Gesucht sind Vorhaben aus dem Bereich der Grundlagenforschung, die sich nicht dem bereits 'bekannten Unbekannten' widmen, sondern das 'unbekannte Unbekannte' explorieren - mit dem Potenzial zu großen wissenschaftlichen Durchbrüchen, allerdings auch mit dem Risiko, zu Scheitern. Pioniervorhaben müssen die folgenden Kriterien erfüllen:
+o Explorativer Charakter des Vorhabens: Ihr Vorhaben ist radikal explorativ angelegt und betritt wissenschaftliches Neuland.
+o Wissenschaftliche Relevanz und Erkenntnispotential: Ihr Vorhaben adressiert eine noch unerforschte wissenschaftliche Herausforderung und setzt im Erfolgsfall grundlegend neue Impulse in die Community.
+o Qualifikation und Motivation: Sie widmen sich mit Leidenschaft und Risikobereitschaft neuen wissenschaftlichen Herausforderungen und sind im Hinblick auf Realisierbarkeit und Umsetzung des Vorhabens herausragend qualifiziert.
 
 Quelle: VW
 
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/pioniervorhaben-impulse-für-das-wissenschaftssystem)
+* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/pioniervorhaben-explorationen-des-unbekannten-unbekannten)
