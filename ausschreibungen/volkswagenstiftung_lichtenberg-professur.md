@@ -18,5 +18,3 @@ Weitere Informationen zu Ausschreibungsbedingungen sowie zur Antragstellung find
 Hintergrund
 
 Quelle: VW
-
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/lichtenberg-stiftungsprofessuren)

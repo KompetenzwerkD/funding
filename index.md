@@ -1,25 +1,19 @@
 # Ausschreibungen
 
-* Stand: 2023-01-05
+* Stand: 2023-04-12
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2023-01-15 - BMBF: Käte Hamburger Kolleg](ausschreibungen/bmbf_käte_hamburger_kolleg.md)
-* [2023-01-16 - DAAD: Förderung ausländischer Gastdozenten zu Lehrtätigkeiten an deutschen Hochschulen](ausschreibungen/daad_förderung_ausländischer_gastdozenten_zu_lehrtätigkeiten_an_deutschen_hochschulen.md)
-* [2023-01-30 - DAAD: Leonhard-Euler-Programm 2023-2024](ausschreibungen/daad_leonhard-euler-programm_2023-2024.md)
-* [2023-01-31 - Akademienunion: Akademienprogramm](ausschreibungen/akademienunion_akademienprogramm.md)
-* [2023-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
-* [2023-02-02 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
-* [2023-02-15 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_mit_ahrc.md)
-* [2023-02-15 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
-* [2023-02-28 - DAAD: Ostpartnerschaften](ausschreibungen/daad_ostpartnerschaften.md)
-* [2023-03-15 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
-* [2023-03-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
+* [2023-04-17 - DFG: Schwerpunktprogramm "New Data Spaces for the Social Sciences" (SPP 2431)](ausschreibungen/dfg_schwerpunktprogramm_"new_data_spaces_for_the_social_sciences"_spp_2431.md)
 * [2023-04-27 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2023-04-30 - Bundesministerium für Arbeit und Soziales (BMAS): Nachwuchsgruppen im Rahmen des „Fördernetzwerks Interdisziplinäre Sozialpolitikforschung“ (FIS)](ausschreibungen/bundesministerium_für_arbeit_und_soziales_bmas_nachwuchsgruppen_im_rahmen_des_„fördernetzwerks_interdisziplinäre_sozialpolitikforschung“_fis.md)
+* [2023-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
+* [2023-04-30 - Text+: Forschungsdaten aufbereiten und sichern](ausschreibungen/text+_forschungsdaten_aufbereiten_und_sichern.md)
 * [2023-05-03 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
 * [2023-05-23 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2023-05-31 - Polish National Agency for Academic Exchange (NAWA) and European Commission: NAWA Fellowships in Poland for researchers from German Institutions](ausschreibungen/polish_national_agency_for_academic_exchange_nawa_and_european_commission_nawa_fellowships_in_poland_for_researchers_from_german_institutions.md)
 * [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
 
 ## Ständige Ausschreibungen
@@ -33,6 +27,7 @@
 * [Leipzig Flexible Fund: Anschubfinanzierung der Universität Leipzig für Postdocs (inklusive Juniorprofessor:innen)](ausschreibungen/leipzig_flexible_fund_anschubfinanzierung_der_universität_leipzig_für_postdocs_inklusive_juniorprofessorinnen.md)
 * [VolkswagenStiftung: Data Reuse (Forschungsdaten)](ausschreibungen/volkswagenstiftung_data_reuse_forschungsdaten.md)
 * [VolkswagenStiftung: Lichtenberg-Professur](ausschreibungen/volkswagenstiftung_lichtenberg-professur.md)
+* [VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
 * [VolkswagenStiftung: Pioniervorhaben "Gesellschaftliche Transformationen"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"gesellschaftliche_transformationen".md)
 
 ## Vergangenge Ausschreibungen
@@ -63,7 +58,6 @@
 * [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
 * [2021-11-02 - Azrieli Foundation: Azrieli Fellows Program](ausschreibungen/azrieli_foundation_azrieli_fellows_program.md)
 * [2021-11-02 - VolkswagenStiftung: Symposien](ausschreibungen/volkswagenstiftung_symposien.md)
-* [2021-11-03 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2021-11-10 - SMWK: Projektförderung TG 70, Geistes- und Sozialwissenschaften](ausschreibungen/smwk_projektförderung_tg_70,_geistes-_und_sozialwissenschaften.md)
 * [2021-11-15 - SMR: simul⁺Mitmachfonds](ausschreibungen/smr_simul⁺mitmachfonds.md)
 * [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
@@ -81,14 +75,13 @@
 * [2022-02-28 - BMBF: Förderung von Projekten zum Thema „Integration der Region Mittelost- und Südosteuropa in den Europäischen Forschungsraum“ (Bridge2ERA2021)](ausschreibungen/bmbf_förderung_von_projekten_zum_thema_„integration_der_region_mittelost-_und_südosteuropa_in_den_europäischen_forschungsraum“_bridge2era2021.md)
 * [2022-03-01 - Deutscher Studienpreis](ausschreibungen/deutscher_studienpreis.md)
 * [2022-03-01 - DFG: Schwerpunktprogramm "Das digitale Bild"](ausschreibungen/dfg_schwerpunktprogramm_"das_digitale_bild".md)
+* [2022-03-08 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
 * [2022-03-15 - DFG: Deutsch-Israelische Projektkooperation (DIP) – German-Israeli Project Cooperation](ausschreibungen/dfg_deutsch-israelische_projektkooperation_dip_–_german-israeli_project_cooperation.md)
-* [2022-03-17 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
 * [2022-03-18 - DFG: Digitalisierung und Bereitstellung (noch) rechtebewehrter Objekte (Koordinierungsprojekt zur Vorbereitung einer Pilotphase)](ausschreibungen/dfg_digitalisierung_und_bereitstellung_noch_rechtebewehrter_objekte_koordinierungsprojekt_zur_vorbereitung_einer_pilotphase.md)
 * [2022-03-27 - BMBF: Förderung von Forschungsprojekten zur kulturellen Bildung in gesellschaftlichen Transformationen](ausschreibungen/bmbf_förderung_von_forschungsprojekten_zur_kulturellen_bildung_in_gesellschaftlichen_transformationen.md)
 * [2022-03-31 - DFG: Weave Lead Agency Initiative: Additional Collaboration Opportunity with F.R.S.-FNRS and FWO (Belgium)](ausschreibungen/dfg_weave_lead_agency_initiative_additional_collaboration_opportunity_with_frs-fnrs_and_fwo_belgium.md)
 * [2022-04-01 - Deutsches Historisches Institut in Washington DC: Doctoral and Postdoctoral Fellowships](ausschreibungen/deutsches_historisches_institut_in_washington_dc_doctoral_and_postdoctoral_fellowships.md)
 * [2022-04-30 - Deutsche Nationalbibliothek: DH-Stipendien](ausschreibungen/deutsche_nationalbibliothek_dh-stipendien.md)
-* [2022-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
 * [2022-04-30 - Historisches Kolleg München: Junior Fellowships](ausschreibungen/historisches_kolleg_münchen_junior_fellowships.md)
 * [2022-04-30 - Historisches Kolleg München: Senior Fellowships](ausschreibungen/historisches_kolleg_münchen_senior_fellowships.md)
 * [2022-05-02 - Gerda Henkel Stiftung: Transformationen der Demokratie?](ausschreibungen/gerda_henkel_stiftung_transformationen_der_demokratie.md)
@@ -110,3 +103,15 @@
 * [2022-11-25 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2022-12-31 - Edith Sauer Fonds: Forschungsstipendien 2022](ausschreibungen/edith_sauer_fonds_forschungsstipendien_2022.md)
 * [2022-12-31 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
+* [2023-01-15 - BMBF: Käte Hamburger Kolleg](ausschreibungen/bmbf_käte_hamburger_kolleg.md)
+* [2023-01-16 - DAAD: Förderung ausländischer Gastdozenten zu Lehrtätigkeiten an deutschen Hochschulen](ausschreibungen/daad_förderung_ausländischer_gastdozenten_zu_lehrtätigkeiten_an_deutschen_hochschulen.md)
+* [2023-01-30 - DAAD: Leonhard-Euler-Programm 2023-2024](ausschreibungen/daad_leonhard-euler-programm_2023-2024.md)
+* [2023-01-31 - Akademienunion: Akademienprogramm](ausschreibungen/akademienunion_akademienprogramm.md)
+* [2023-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
+* [2023-02-02 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
+* [2023-02-15 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_mit_ahrc.md)
+* [2023-02-15 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
+* [2023-02-28 - DAAD: Ostpartnerschaften](ausschreibungen/daad_ostpartnerschaften.md)
+* [2023-03-13 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
+* [2023-03-15 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
+* [2023-03-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)

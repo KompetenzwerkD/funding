@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften
 
-* Nächste Einreichung: 2021-11-03
+* Nächste Einreichung: 2023-03-13
 * Institution: VolkswagenStiftung
 
 Fachgebiet: Geistes- und Kulturwissenschaften, theoretisch arbeitende Gesellschaftswissenschaften
@@ -31,4 +31,4 @@ Die Förderinitiative "Aufbruch" steht in der Nachfolge der Initiative "Original
 
 Quelle: VW
 
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/aufbruch-neue-forschungsräume-geistes-und-kulturwissenschaften)
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/aufbruch-neue-forschungsraeume-fuer-geistes-Kulturwissenschaften)
