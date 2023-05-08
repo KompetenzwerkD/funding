@@ -1,24 +1,21 @@
 # Ausschreibungen
 
-* Stand: 2023-04-12
+* Stand: 2023-05-08
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2023-04-17 - DFG: Schwerpunktprogramm "New Data Spaces for the Social Sciences" (SPP 2431)](ausschreibungen/dfg_schwerpunktprogramm_"new_data_spaces_for_the_social_sciences"_spp_2431.md)
-* [2023-04-27 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
-* [2023-04-30 - Bundesministerium für Arbeit und Soziales (BMAS): Nachwuchsgruppen im Rahmen des „Fördernetzwerks Interdisziplinäre Sozialpolitikforschung“ (FIS)](ausschreibungen/bundesministerium_für_arbeit_und_soziales_bmas_nachwuchsgruppen_im_rahmen_des_„fördernetzwerks_interdisziplinäre_sozialpolitikforschung“_fis.md)
-* [2023-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
-* [2023-04-30 - Text+: Forschungsdaten aufbereiten und sichern](ausschreibungen/text+_forschungsdaten_aufbereiten_und_sichern.md)
-* [2023-05-03 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
+* [2023-05-17 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2023-05-23 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2023-05-31 - Polish National Agency for Academic Exchange (NAWA) and European Commission: NAWA Fellowships in Poland for researchers from German Institutions](ausschreibungen/polish_national_agency_for_academic_exchange_nawa_and_european_commission_nawa_fellowships_in_poland_for_researchers_from_german_institutions.md)
+* [2023-06-11 - Uni Leipzig: Pre-Doc Award](ausschreibungen/uni_leipzig_pre-doc_award.md)
 * [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
 
 ## Ständige Ausschreibungen
 
 * [Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
+* [Daimler und Benz Stiftung: Tagungsformat „Ladenburger Diskurs“](ausschreibungen/daimler_und_benz_stiftung_tagungsformat_„ladenburger_diskurs“.md)
 * [DFG: Digitalisierung und Erschließung](ausschreibungen/dfg_digitalisierung_und_erschließung.md)
 * [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
 * [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
@@ -62,7 +59,6 @@
 * [2021-11-15 - SMR: simul⁺Mitmachfonds](ausschreibungen/smr_simul⁺mitmachfonds.md)
 * [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
 * [2021-11-17 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
-* [2021-11-24 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2021-12-01 - BMBF: Förderung von Nachwuchsgruppen im Rahmen der Rechtsextremismus- und Rassismusforschung](ausschreibungen/bmbf_förderung_von_nachwuchsgruppen_im_rahmen_der_rechtsextremismus-_und_rassismusforschung.md)
 * [2021-12-03 - SMWK: Verbesserung der Drittmittelfähigkeit und Stärkung internationaler Kooperationsaktivitäten (TG 70)](ausschreibungen/smwk_verbesserung_der_drittmittelfähigkeit_und_stärkung_internationaler_kooperationsaktivitäten_tg_70.md)
 * [2021-12-31 - Leipziger Wissenschaftspreis 2022](ausschreibungen/leipziger_wissenschaftspreis_2022.md)
@@ -115,3 +111,9 @@
 * [2023-03-13 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2023-03-15 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
 * [2023-03-31 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
+* [2023-04-17 - DFG: Schwerpunktprogramm "New Data Spaces for the Social Sciences" (SPP 2431)](ausschreibungen/dfg_schwerpunktprogramm_"new_data_spaces_for_the_social_sciences"_spp_2431.md)
+* [2023-04-27 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2023-04-30 - Bundesministerium für Arbeit und Soziales (BMAS): Nachwuchsgruppen im Rahmen des „Fördernetzwerks Interdisziplinäre Sozialpolitikforschung“ (FIS)](ausschreibungen/bundesministerium_für_arbeit_und_soziales_bmas_nachwuchsgruppen_im_rahmen_des_„fördernetzwerks_interdisziplinäre_sozialpolitikforschung“_fis.md)
+* [2023-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
+* [2023-04-30 - Text+: Forschungsdaten aufbereiten und sichern](ausschreibungen/text+_forschungsdaten_aufbereiten_und_sichern.md)
+* [2023-05-03 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
