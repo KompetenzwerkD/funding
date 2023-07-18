@@ -1,16 +1,14 @@
 # Ausschreibungen
 
-* Stand: 2023-05-08
+* Stand: 2023-07-18
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2023-05-17 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
-* [2023-05-23 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
-* [2023-05-31 - Polish National Agency for Academic Exchange (NAWA) and European Commission: NAWA Fellowships in Poland for researchers from German Institutions](ausschreibungen/polish_national_agency_for_academic_exchange_nawa_and_european_commission_nawa_fellowships_in_poland_for_researchers_from_german_institutions.md)
-* [2023-06-11 - Uni Leipzig: Pre-Doc Award](ausschreibungen/uni_leipzig_pre-doc_award.md)
 * [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
+* [2023-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [2023-11-15 - Azrieli Foundation: Azrieli International Postdoctoral Fellowship in Israel](ausschreibungen/azrieli_foundation_azrieli_international_postdoctoral_fellowship_in_israel.md)
 
 ## Ständige Ausschreibungen
 
@@ -35,7 +33,6 @@
 * [2021-05-07 - EU-CHANSE: Transformations. Social and Cultural Dynamics in the Digital Age](ausschreibungen/eu-chanse_transformations_social_and_cultural_dynamics_in_the_digital_age.md)
 * [2021-05-12 - Gerda Henkel Stiftung: Lost Cities](ausschreibungen/gerda_henkel_stiftung_lost_cities.md)
 * [2021-05-15 - Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken](ausschreibungen/einstein_forum___daimler_und_benz_stiftung_albert-einstein-stipendium_für_kreatives_interdisziplinäres_denken.md)
-* [2021-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
 * [2021-06-29 - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
 * [2021-07-15 - Bundesstiftung Aufarbeitung: Dissertationsstipendien](ausschreibungen/bundesstiftung_aufarbeitung_dissertationsstipendien.md)
@@ -82,17 +79,14 @@
 * [2022-04-30 - Historisches Kolleg München: Senior Fellowships](ausschreibungen/historisches_kolleg_münchen_senior_fellowships.md)
 * [2022-05-02 - Gerda Henkel Stiftung: Transformationen der Demokratie?](ausschreibungen/gerda_henkel_stiftung_transformationen_der_demokratie.md)
 * [2022-05-16 - Joachim Herz Stiftung: Begegnungszonen (Veranstaltungen)](ausschreibungen/joachim_herz_stiftung_begegnungszonen_veranstaltungen.md)
-* [2022-05-25 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
 * [2022-06-15 - Bucerius Institute: Two Manfred Lahnstein Short-Term Post-Doctoral Fellowships](ausschreibungen/bucerius_institute_two_manfred_lahnstein_short-term_post-doctoral_fellowships.md)
 * [2022-06-15 - Deutsch-Französische Hochschule: Spezifische Ausschreibung 2022 zur Förderung wissenschaftlicher Veranstaltungen „Kleine Fächer“](ausschreibungen/deutsch-französische_hochschule_spezifische_ausschreibung_2022_zur_förderung_wissenschaftlicher_veranstaltungen_„kleine_fächer“.md)
 * [2022-06-30 - Bundesstiftung Aufarbeitung: Förderschwerpunkt: Protest und Aufstände gegen autoritäre Herrschaft und Diktaturen](ausschreibungen/bundesstiftung_aufarbeitung_förderschwerpunkt_protest_und_aufstände_gegen_autoritäre_herrschaft_und_diktaturen.md)
-* [2022-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
 * [2022-07-31 - Leipzig Lab: Forschergruppe an der Uni Leipzig](ausschreibungen/leipzig_lab_forschergruppe_an_der_uni_leipzig.md)
 * [2022-09-14 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2022-09-30 - BMBF: Förderung von Projekten für die grenzüberschreitende Vernetzung und Entwicklung von Projektvorschlägen für Verbundvorhaben in Horizont Europa](ausschreibungen/bmbf_förderung_von_projekten_für_die_grenzüberschreitende_vernetzung_und_entwicklung_von_projektvorschlägen_für_verbundvorhaben_in_horizont_europa.md)
 * [2022-09-30 - Edith Saurer Fonds - Forschungsstipendien](ausschreibungen/edith_saurer_fonds_-_forschungsstipendien.md)
 * [2022-09-30 - Edith Saurer Fonds: Forschungsstipendien](ausschreibungen/edith_saurer_fonds_forschungsstipendien.md)
-* [2022-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
 * [2022-10-07 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
 * [2022-11-08 - European Research Council: ERC Synergy Grant (Horizon Europe)](ausschreibungen/european_research_council_erc_synergy_grant_horizon_europe.md)
 * [2022-11-15 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
@@ -117,3 +111,15 @@
 * [2023-04-30 - DFG: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2023 (Villa Vigoni)](ausschreibungen/dfg_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2023_villa_vigoni.md)
 * [2023-04-30 - Text+: Forschungsdaten aufbereiten und sichern](ausschreibungen/text+_forschungsdaten_aufbereiten_und_sichern.md)
 * [2023-05-03 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
+* [2023-05-17 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
+* [2023-05-23 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2023-05-31 - Polish National Agency for Academic Exchange (NAWA) and European Commission: NAWA Fellowships in Poland for researchers from German Institutions](ausschreibungen/polish_national_agency_for_academic_exchange_nawa_and_european_commission_nawa_fellowships_in_poland_for_researchers_from_german_institutions.md)
+* [2023-06-11 - Uni Leipzig: Pre-Doc Award](ausschreibungen/uni_leipzig_pre-doc_award.md)
+* [2023-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
+* [2023-06-21 - MPG: Minerva-Stipendium](ausschreibungen/mpg_minerva-stipendium.md)
+* [2023-06-30 - BMBF: Open Educational Resources (OER): Stärkung von Communities](ausschreibungen/bmbf_open_educational_resources_oer_stärkung_von_communities.md)
+* [2023-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
+* [2023-07-10 - MPG: Minerva Gentner-Symposien](ausschreibungen/mpg_minerva_gentner-symposien.md)
+* [2023-07-12 - DFG: Copernicus-Preis](ausschreibungen/dfg_copernicus-preis.md)
+* [2023-07-17 - Amadeo Antonio Stiftung: Sächsischer Förderpreis für Demokratie](ausschreibungen/amadeo_antonio_stiftung_sächsischer_förderpreis_für_demokratie.md)
+* [2023-07-17 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)

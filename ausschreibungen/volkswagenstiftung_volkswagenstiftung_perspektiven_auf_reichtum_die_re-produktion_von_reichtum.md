@@ -2,16 +2,11 @@
 
 ## VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum
 
-* Nächste Einreichung: 2022-05-25
+* Nächste Einreichung: 2023-07-17
 * Institution: VolkswagenStiftung
 
-Kurzbeschreibung: Extrem ungleiche Einkommens- und Vermögensverhältnisse sind eine wiederkehrende Ursache für Konflikte und ein anhaltendes Hindernis für menschliche Entwicklung. Die wissenschaftliche Erforschung des Phänomens Reichtum ist daher ein zentrales Element zum Verständnis gesellschaftlicher Transformationsprozesse. Mit der Förderinitiative "Perspektiven auf Reichtum" möchte die VolkswagenStiftung einen Perspektivwechsel initiieren von der Armutsforschung auf Facetten des Phänomens Reichtum. In der ersten Ausschreibung zum Thema richtet sich der Fokus auf die Genese von Reichtum. Vor dem Hintergrund gesellschaftlicher Transformationsprozesse in Vergangenheit, Gegenwart und Zukunft und der jeweils bestehenden Macht- und Herrschaftsverhältnisse zielt die Ausschreibung darauf ab, konzeptionelle, methodische und empirische Erkenntnisse zum Thema "(Re-)Produktion von Reichtum" zu generieren.
-drei Förderlinien:
-o Internationale Kooperationsprojekte: Die Konsortien sollen aus Teams von 3 bis 5 Forschungsleitenden (PIs) bestehen. Hauptantragstellende müssen an einer Einrichtung in Deutschland beschäftigt sein. Einbindung von mind. zwei internationalen Partner:innen, vorzugsweise mit Sitz im Globalen Süden (Low and Middle Income Countries, gemäß Weltbank Klassifizierung) verpflichtend. Integration gesellschaftlicher Akteure (NGOs etc.) wünschenswert.
-o Nationale Kooperationsprojekte: max. 3 Hauptantragsteller:innen von mindestens zwei unterschiedlichen deutschen Universitäten oder Forschungseinrichtungen. Einbindung von Partner:innen aus den Natur-, Lebens-, Daten- und Technikwissenschaften möglich.
-o (Inter-)Nationale Sommerschulen
-• Deadline: 25.05.2022 (12.00 Uhr Kooperationsprojekte); 05.07.2022 (12.00 Uhr, Sommerschulen)
+Mit der Förderinitiative „Perspectives on Wealth“ möchte die VolkswagenStiftung einen Perspektivwechsel initiieren von der Armutsforschung auf Facetten des Phänomens Reichtum. Der Fokus dieser Ausschreibung richtet sich auf die Genese von Reichtum. Gefördert werden Kooperationsprojekte (international und national), Sommerschulen und Workshops, in denen neue theoretische und/oder methodische Perspektiven der Reichtumsforschung diskutiert und Nachwuchswissenschaftler:innen (insb. Doktorand:innen, aber auch Post-Docs) aus den Fachgebieten Geistes-, Kultur- und Sozialwissenschaften (federführend) und mit möglicher Kooperation mit Natur-, Lebens-, Daten- und Technikwissenschaften vermittelt werden. Die Einbeziehung von internationalen Partner:innen ist möglich. Die Veranstaltungen können weltweit – auch digital – stattfinden. (Inter-)nationale Veranstaltungen können mit bis zu 80.000 Euro gefördert werden. Folgende Kosten können übernommen werden: (1) Verpflegungs- und Übernachtungskosten, Miete von Räumlichkeiten; (2) Fahrtkosten; (3) Mittel zur Vorbereitung und Durchführung der Veranstaltung; (4) Budget für (Veransaltungs-)Hilfskräfte; (5) Mittel für Wissenschaftskommunikation und Open Access Publikationen und (6) Mittel für die Kinderbetreuung, während der Veranstaltung. Die jeweiligen Hauptantragsteller:innen müssen an einer deutschen Universität oder Forschungseinrichtung angesiedelt sein. Die Projektlaufzeit beträgt bis zu 12 Monate. Unterlagen sind in Englisch und acht Monate vor Veranstaltungstermin einzureichen.
 
-Quelle: Uni Leipzig, Dez. 1, Dr. Anett Karl
+Quelle: Uni Leipzig, Dez. 1
 
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/perspektiven-auf-reichtum-die-re-produktion-von-reichtum)
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/perspektiven-auf-reichtum-die-re-produktion-von-reichtum)
