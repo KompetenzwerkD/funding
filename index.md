@@ -1,11 +1,12 @@
 # Ausschreibungen
 
-* Stand: 2023-07-18
+* Stand: 2023-07-21
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
+* [2023-09-15 - Alexander-von-Humboldt-Stiftung: Philipp-Schwartz-Initiative](ausschreibungen/alexander-von-humboldt-stiftung_philipp-schwartz-initiative.md)
 * [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
 * [2023-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
 * [2023-11-15 - Azrieli Foundation: Azrieli International Postdoctoral Fellowship in Israel](ausschreibungen/azrieli_foundation_azrieli_international_postdoctoral_fellowship_in_israel.md)
