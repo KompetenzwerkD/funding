@@ -104,7 +104,7 @@ def get_funding_pages():
 
         create_funding_page_file(filepath, page_data)
 
-    content += f"\n\n## Vergangenge Ausschreibungen\n"
+    content += f"\n\n## Vergangene Ausschreibungen\n"
     for page_data in past:
         deadline = get_property(page_data, "Has deadline")
         title = page_data["title"]

@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Momentum
 
-* Nächste Einreichung: 2023-04-27
+* Nächste Einreichung: 2024-04-24
 * Institution: VolkswagenStiftung
 
 Momentum – Förderung für Erstberufene
@@ -29,4 +29,4 @@ Die Initiative "Momentum – Förderung für Erstberufene" wurde im November 201
 
 Quelle: VW
 
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/momentum-förderung-für-erstberufene)
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/momentum-foerderung-fuer-erstberufene)

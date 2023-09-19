@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Opus Magnum
 
-* Nächste Einreichung: 2023-02-01
+* Nächste Einreichung: 2024-02-01
 * Institution: VolkswagenStiftung
 
 Ziel der Initiative

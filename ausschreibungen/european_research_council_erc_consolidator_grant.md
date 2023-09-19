@@ -2,7 +2,7 @@
 
 ## European Research Council: ERC Consolidator Grant
 
-* Nächste Einreichung: 2023-02-02
+* Nächste Einreichung: 2023-12-12
 * Institution: EU
 
 Der Europäische Forschungsrat (European Research Council – ERC) fördert ambitionierte Projekte in der Grundlagenforschung aller Disziplinen. Zielgruppe der Consolidator Grants sind exzellente Wissenschaftler:innen, deren eigene unabhängige Arbeitsgruppe sich in der Konsolidierungsphase befindet und deren Promotion 7 bis 12 Jahre (in Ausnahmen länger) zurückliegt. Als Grundlage für die Bewertung dienen folgende Benchmarks: Mehrere wichtige Publikationen des/der Antragstellerin ohne ihre/n Promotionsbetreuer/in Publikationen als Erstautor/in in führenden internationalen Zeitschriften, (übersetzte) Monographien Patente, Vorträge auf internationalen Konferenzen oder (inter-) nationale Wissenschaftspreise. Für einen Zeitraum von bis zu fünf Jahren können bis zu 2 Millionen Euro beantragt werden.
@@ -11,6 +11,6 @@ Short description: The ERC Consolidator Grants (CoG) support excellent young res
 
 (Quelle, Uni Leipzig, Dez. 1, Anett Karl)
 
-Deadline: 02.02.2023 (17:00 Brussels time)
+Weitere Infos auch bei der Seite des BMBF-EU-Büros: https://www.eubuero.de/de/nks-erc-antragstellung-2429.html
 
 * [Link](https://erc.europa.eu/funding/consolidator-grants)

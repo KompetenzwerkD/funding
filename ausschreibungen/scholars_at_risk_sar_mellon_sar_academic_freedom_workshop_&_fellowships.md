@@ -1,0 +1,10 @@
+[zurück](/funding/)
+
+## Scholars at Risk (SAR): Mellon/SAR Academic Freedom Workshop & Fellowships
+
+* Nächste Einreichung: 2023-09-20
+* Institution: Mellon Foundation
+
+Scholars at Risk (SAR) announces a call for applications for five remote research fellowships for early career researchers who investigate issues focusing upon academic freedom and/or related higher education values. The fellowship program is intended to provide support for a professional community of researchers who wish to develop and share related work leading to the completion of a formal written publication, a new course offering, workshop, webinar or other significant end product. Over the course of the 8-month program – from November 2023 to June 2024 – fellows will complete their proposed project and participate in monthly remote, online workshop sessions during which they will be asked to present the progress of their work and to offer feedback on the work of other fellows. During the latter part of the program, fellows will be expected to prepare and deliver an online talk or presentation of their work for SAR staff, network members, and/or guests (with appropriate security accommodations, as necessary). Fellows will receive a stipend of USD $8000 intended to cover research expenses, publication, or other costs. In addition, participants will have the opportunity to gain exposure to SAR’s programming and to network with SAR partner-experts on academic freedom issues. Two important criteria: (1) PhD degree received less than 8 years ago; in limited cases, doctoral candidates in the final stages of dissertation completion may be considered; (2) Current research or teaching affiliation with a higher education institution, association, or research organization.
+
+* [Link](https://www.scholarsatrisk.org/the-network/mellon-sar/?emci=e32b94e4-d917-ed11-bd6e-281878b83d8a&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}})

@@ -1,0 +1,10 @@
+[zurück](/funding/)
+
+## VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven
+
+* Nächste Einreichung: 2023-09-19
+* Institution: VolkswagenStiftung
+
+Mit einer Laufzeit von einem Jahr liegt der Fokus der Taskforces auf der schnellen Erarbeitung von Forschungsergebnissen zu einer akuten, klar abgrenzbaren Fragestellung, die konkrete Herausforderungen von Demokratie in Deutschland oder auf EU-Ebene adressiert. Das Förderangebot richtet sich an Wissenschaftler:innen mit abgeschlossener Promotion aus den Geistes-, Kultur, und Gesellschaftswissenschaften sowie an Akteur:innen aus der (Zivil)Gesellschaft. Eine Kooperation mit Wissenschaftler:innen aus den Natur-, Lebens-, Daten- und Technikwissenschaften ist abhängig von den zu bearbeitenden Fragestellungen möglich. Angesprochen als Partner:innen aus der (Zivil)Gesellschaft sind Mitarbeitende mit mindestens zwei-jähriger Berufserfahrung z. B. von gemeinnützigen Nichtregierungsorganisationen, Vertreter:innen aus Behörden und/oder Regierungsorganen, Medienvertreter:innen, Vertreter:innen aus dem Bereich Kunst und Kultur, die sich mit Demokratieprozessen beschäftigen. Thematisch sind Vorhaben aus den folgenden Bereichen möglich: (1). Analyse von Bedingungen, unter denen sich Demokratien verändern; (2) Analyse von Prozessen, durch die sich sozial-kulturelle Prozesse in Demokratien (neu) gestalten; (3) Transformation der Infrastruktur von Demokratien (Methoden/Instrumente/Formate von Demokratie). Es können sich bis zu zwei Wissenschaftler:innen aus unterschiedlichen Disziplinen mit verschiedenen außerakademischen Partner:innen aus der (Zivil)Gesellschaft bewerben. Die Projektsumme beträgt max. 180.000 Euro (ohne Gemeinkosten). Die Mittel können dabei flexibel für alle anfallenden Personal- und Sachkosten eingesetzt werden.
+
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/transformationswissen-ueber-demokratien-im-wandel-transdisziplinaere-perspektiven)

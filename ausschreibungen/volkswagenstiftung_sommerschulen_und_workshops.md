@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Sommerschulen und Workshops
 
-* Nächste Einreichung: 2023-05-03
+* Nächste Einreichung: 2024-01-15
 * Institution: VolkswagenStiftung
 
 Ziel der Initiative
@@ -17,8 +17,8 @@ Weitere Informationen zu den Ausschreibungsbedingungen sowie zur Antragstellung 
 
 Hintergrund
 
-Dieses Förderangebot zu Sommerschulen und Workshops ist eine von zwei Initiativen, die im Aktionsfeld "Perspektiven auf Wissenschaft" explizit die Wissenschaftsforschung adressieren (eine Ausschreibung für Kooperationsvorhaben folgt im Sommer 2022). Zusammen mit weiteren struktur- oder personenbezogenen Initiativen bilden sie den Profilbereich "Wissen über Wissen". 
+Dieses Förderangebot zu Sommerschulen und Workshops ist eine von zwei Initiativen, die im Aktionsfeld "Perspektiven auf Wissenschaft" explizit die Wissenschaftsforschung adressieren. Zusammen mit weiteren struktur- oder personenbezogenen Initiativen bilden sie den Profilbereich "Wissen über Wissen". 
 
 Quelle: VW
 
-* [Link](https://www.volkswagenstiftung.de/unsere-foerderung/unser-foerderangebot-im-ueberblick/forschung-ueber-wissenschaft-sommerschulen-und-workshops)
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/forschung-ueber-wissenschaft-sommerschulen-und-workshops)
