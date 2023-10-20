@@ -1,17 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2023-09-19
+* Stand: 2023-10-20
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2023-09-19 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
-* [2023-09-20 - Scholars at Risk (SAR): Mellon/SAR Academic Freedom Workshop & Fellowships](ausschreibungen/scholars_at_risk_sar_mellon_sar_academic_freedom_workshop_&_fellowships.md)
-* [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
-* [2023-09-30 - Zeit-Fazit-Stiftung: Nachwuchswissenschaftler:in des Jahres](ausschreibungen/zeit-fazit-stiftung_nachwuchswissenschaftlerin_des_jahres.md)
-* [2023-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
-* [2023-10-12 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
 * [2023-10-24 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2023-11-08 - European Research Council: ERC Synergy Grant (Horizon Europe)](ausschreibungen/european_research_council_erc_synergy_grant_horizon_europe.md)
 * [2023-11-14 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
@@ -128,3 +122,9 @@
 * [2023-07-17 - Amadeo Antonio Stiftung: Sächsischer Förderpreis für Demokratie](ausschreibungen/amadeo_antonio_stiftung_sächsischer_förderpreis_für_demokratie.md)
 * [2023-07-17 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
 * [2023-09-15 - Alexander-von-Humboldt-Stiftung: Philipp-Schwartz-Initiative](ausschreibungen/alexander-von-humboldt-stiftung_philipp-schwartz-initiative.md)
+* [2023-09-19 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
+* [2023-09-20 - Scholars at Risk (SAR): Mellon/SAR Academic Freedom Workshop & Fellowships](ausschreibungen/scholars_at_risk_sar_mellon_sar_academic_freedom_workshop_&_fellowships.md)
+* [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
+* [2023-09-30 - Zeit-Fazit-Stiftung: Nachwuchswissenschaftler:in des Jahres](ausschreibungen/zeit-fazit-stiftung_nachwuchswissenschaftlerin_des_jahres.md)
+* [2023-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
+* [2023-10-12 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
