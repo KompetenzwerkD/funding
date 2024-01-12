@@ -2,11 +2,11 @@
 
 ## Daimler und Benz Stiftung: Tagungsformat „Ladenburger Diskurs“
 
-
+* Nächste Einreichung: 2024-01-14
 * Institution: Daimler und Benz Stiftung
 
-Mit dem Tagungsformat „Ladenburger Diskurs“ bietet die Daimler und Benz Stiftung einen Freiraum für die interdisziplinäre Reflexion eines wissenschaftlich und gesellschaftlich relevanten Forschungsthemas. Die Stiftung stellt in ihren Räumlichkeiten einen Ort zur Verfügung, an dem Wissenschaftler und Experten aus der Praxis ein frei gewähltes, interdisziplinäres Forschungsthema ergebnisoffen erörtern können. In Absprache mit dem Antragsteller können diese Treffen ein bis zwei Tage dauern. Sowohl die Organisation der Tagung als auch die Reise- und Aufenthaltskosten der Teilnehmer werden von der Stiftung getragen. Antragsberechtigt sind leitende Wissenschaftler aus allen Disziplinen, die an detschen Hochschlen oder außeruniversitären Forschungseinrichtungen tätig sind. Die Förderung erfolgt durch Übernahme der Organisation der Veranstaltung sowie Reise- und Aufenthaltskosten der Teilnehmer.
+In einem interdisziplinären, fächer- und ggf. auch länderübergreifenden Forschungsprojekt sollen Ansätze für technologiebasierte und innovative Partizipationsmethoden und -instrumente untersucht werden, die partizipative Entscheidungsprozesse für verschiedene Fragestellungen und Stakeholder Konstellationen ermöglichen, intensivieren, verbessern oder beschleunigen. Ausgangspunkt des Vorhabens kann (a) eine Entscheidungssituation sein, die durch innovativen Technologie- und Methodeneinsatz partizipativ gestaltet werden soll, oder (b) die Expertise für eine innovative Technologie, deren Potenzial künftig für partizipative Prozesse erschlossen werden soll. Es kann eine politikwissenschaftliche, soziologische, kommunikationswissenschaftliche, psychologische oder interdisziplinäre Perspektive eingenommen werden. Das Förderformat ist das sog. Ladenburger Kolleg, das auf drei Jahre ausgelegt ist und ein Fördervolumen für einen Forschungsverbund von bis zu 500.000 Euro hat. Antragsberechtigt sind unabhängige Forschungsgruppenleiter:innen an Hochschulen und gemeinnützigen außeruniversitären Forschungseinrichtungen.
 
 Quelle: Uni Leipzig, Dez. 1
 
-* [Link](https://www.daimler-benz-stiftung.de/cms/de/forschen/ladenburger-diskurse.html)
+* [Link](https://www.daimler-benz-stiftung.de/cms/images/forschen/ladenburger-kollegs/partizipation/LK_Ausschreibung_Partizipation_final_de.pdf)
