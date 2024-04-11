@@ -2,11 +2,29 @@
 
 ## VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum
 
-* Nächste Einreichung: 2023-07-17
+* Nächste Einreichung: 2024-05-08
 * Institution: VolkswagenStiftung
 
-Mit der Förderinitiative „Perspectives on Wealth“ möchte die VolkswagenStiftung einen Perspektivwechsel initiieren von der Armutsforschung auf Facetten des Phänomens Reichtum. Der Fokus dieser Ausschreibung richtet sich auf die Genese von Reichtum. Gefördert werden Kooperationsprojekte (international und national), Sommerschulen und Workshops, in denen neue theoretische und/oder methodische Perspektiven der Reichtumsforschung diskutiert und Nachwuchswissenschaftler:innen (insb. Doktorand:innen, aber auch Post-Docs) aus den Fachgebieten Geistes-, Kultur- und Sozialwissenschaften (federführend) und mit möglicher Kooperation mit Natur-, Lebens-, Daten- und Technikwissenschaften vermittelt werden. Die Einbeziehung von internationalen Partner:innen ist möglich. Die Veranstaltungen können weltweit – auch digital – stattfinden. (Inter-)nationale Veranstaltungen können mit bis zu 80.000 Euro gefördert werden. Folgende Kosten können übernommen werden: (1) Verpflegungs- und Übernachtungskosten, Miete von Räumlichkeiten; (2) Fahrtkosten; (3) Mittel zur Vorbereitung und Durchführung der Veranstaltung; (4) Budget für (Veransaltungs-)Hilfskräfte; (5) Mittel für Wissenschaftskommunikation und Open Access Publikationen und (6) Mittel für die Kinderbetreuung, während der Veranstaltung. Die jeweiligen Hauptantragsteller:innen müssen an einer deutschen Universität oder Forschungseinrichtung angesiedelt sein. Die Projektlaufzeit beträgt bis zu 12 Monate. Unterlagen sind in Englisch und acht Monate vor Veranstaltungstermin einzureichen.
+Perspektiven auf Reichtum: (Aus-)Wirkungen von Reichtum
 
-Quelle: Uni Leipzig, Dez. 1
+Mit der Förderinitiative "Perspektiven auf Reichtum" möchte die VolkswagenStiftung einen Perspektivwechsel initiieren von der Armutsforschung auf Facetten des Phänomens Reichtum. In der zweiten Ausschreibung richtet sich der Fokus auf das Wirken und die Wirkung von Reichtum in einer globalen Perspektive: Wie wirkt Reichtum auf gesellschaftliche Transformationsprozesse auf regionaler, nationaler und globaler Ebene? Welche sozialen, kulturellen, ökologischen, politischen oder ökonomischen Aus- und Rückwirkungen ergeben sich? Ziel ist es, zu einem multidimensionalen Verständnis von Reichtum beizutragen, neue konzeptionelle, methodische und empirische Erkenntnisse zu generieren und konkrete Handlungsoptionen zu entwerfen. Die Ausschreibung richtet sich an (inter)nationale Konsortien mit bis zu fünf gleichberechtigten Partner:innen. Die Hauptantragstellenden müssen promoviert, an einer deutschen Hochschule oder Forschungseinrichtung beschäftigt sein und aus den Geistes-, Kultur-, Sozial- oder Wirtschaftswissenschaften kommen. Denkbar sind interdisziplinäre Kooperationen mit Partner:innen aus den Natur-, Lebens, Daten- oder Technikwissenschaften. Eine Zusammenarbeit mit Partner:innen aus dem Globalen Süden ist erwünscht, transdisziplinäre Teams sind möglich.
 
-* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/perspektiven-auf-reichtum-die-re-produktion-von-reichtum)
+
+Extrem ungleiche Einkommens- und Vermögensverhältnisse sind eine wiederkehrende Ursache für Konflikte und ein anhaltendes Hindernis für menschliche Entwicklung. Die wissenschaftliche Erforschung des Phänomens Reichtum ist daher ein zentrales Element zum Verständnis gesellschaftlicher Transformationsprozesse. Mit der Förderinitiative "Perspektiven auf Reichtum" möchte die VolkswagenStiftung einen Perspektivwechsel initiieren von der Armutsforschung auf Facetten des Phänomens Reichtum. 
+
+
+
+    Fachgebiete: Geistes-, Kultur-, Sozial- und Wirtschaftswissenschaften (Federführung); Kooperation mit Natur-, Lebens, Daten- und Technikwissenschaften möglich
+    Art der Förderung: (Inter-)nationale Kooperationsprojekte mit bis zu 5 Partner:innen
+    bis zu 1,5 Mio. Euro bei internationalen Kooperationsvorhaben
+    bis zu 4 Jahre
+    Zielgruppe: (Inter-)nationale Konsortien mit Hauptantragsteller:in (promoviert) an dt. Institution; Partnerschaften mit LMICs erwünscht, transdisziplinäre Teams möglich
+
+
+Nach der ersten Ausschreibung zur (Re-)Produktion von Reichtum richtet sich der Fokus der zweiten Ausschreibung "(Aus)Wirkungen von Reichtum" auf das Wirken und die Wirkung von Reichtum in einer globalen Perspektive: Wie wirkt Reichtum auf gesellschaftliche Transformationsprozesse auf regionaler, nationaler und globaler Ebene? Welche sozialen, kulturellen, ökologischen, politischen oder ökonomischen Aus- und Rückwirkungen ergeben sich? Ziel ist es, zu einem multidimensionalen Verständnis von Reichtum beizutragen, neue konzeptionelle, methodische und empirische Erkenntnisse zu generieren und konkrete Handlungsoptionen zu entwerfen.
+
+Die Ausschreibung richtet sich an (inter)nationale Konsortien mit bis zu fünf gleichberechtigten Partner:innen. Die Hauptantragstellenden müssen promoviert, an einer deutschen Hochschule oder Forschungseinrichtung beschäftigt sein und aus den Geistes-, Kultur-, Sozial- oder Wirtschaftswissenschaften kommen. Denkbar sind interdisziplinäre Kooperationen mit Partner:innen aus den Natur-, Lebens, Daten- oder Technikwissenschaften. Außerdem gilt: eine Zusammenarbeit mit Partner:innen aus dem Globalen Süden ist erwünscht, transdisziplinäre Teams sind möglich. 
+
+Quelle: VW
+
+* [Link](https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/perspektiven-auf-reichtum-auswirkungen-von-reichtum)
