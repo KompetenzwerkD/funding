@@ -1,12 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2024-04-11
+* Stand: 2024-04-15
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2024-04-14 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
 * [2024-04-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
 * [2024-04-24 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
 * [2024-04-29 - BMBF: Sozial-ökologische Nachwuchsgruppen für nachhaltige und resiliente Stadt-Umland-Regionen](ausschreibungen/bmbf_sozial-ökologische_nachwuchsgruppen_für_nachhaltige_und_resiliente_stadt-umland-regionen.md)
@@ -143,3 +142,4 @@
 * [2024-03-20 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
 * [2024-03-28 - VolkswagenStiftung: Change](ausschreibungen/volkswagenstiftung_change.md)
 * [2024-04-09 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
+* [2024-04-14 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
