@@ -2,17 +2,14 @@
 
 ## VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"
 
-
+* Nächste Einreichung: 2024-09-03
 * Institution: VolkswagenStiftung
 
 Kurzbeschreibung: Mit den "Pioniervorhaben – Explorationen des unbekannten Unbekannten" unterstützt die Stiftung bahnbrechende und riskante Forschungsideen mit hoher wissenschaftlicher Relevanz. Gesucht sind Vorhaben aus dem Bereich der Grundlagenforschung, die sich nicht dem bereits 'bekannten Unbekannten' widmen, sondern das 'unbekannte Unbekannte' explorieren - mit dem Potenzial zu großen wissenschaftlichen Durchbrüchen, allerdings auch mit dem Risiko, zu Scheitern.
 
 Dazu gibt es eine weitere Förderlinie für begleitendes Forschungsdatenmanagement:
 
-Volkswagen Stiftung: Pioniervorhaben – Explorationen des unbekannten Unbekannten
-• Kurzbeschreibung: Forschungsdaten sind sozusagen das A und O: die Grundlage und das Ergebnis von Wissenschaft. Ihre langfristige Sicherung und Bereitstellung ermöglichen den Fortschritt in der Wissenschaft ebenso wie die Qualitätsprüfung durch Replikation. Deshalb unterstützt die Volkswagen Stiftung Open Data im Kontext ihrer Open Science Policy. Um die erforderlichen Transformationsprozesse voranzubringen, stellt die Stiftung Geförderte Zusatzmittel zur Verfügung, damit sie Forschungsdaten für den Data Reuse aufbereiten und als Open Data in einem öffentlichen, nicht-kommerziellen Repositorium verfügbar machen können.
-• Deadline: keine
-• Weitere Informationen: https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/data-reuse-zusaetzliche-mittel-fuer-die-aufbereitung-von-forschungsdaten
+Kurzbeschreibung: Unterstützt werden bahnbrechende und riskante Forschungsideen mit hoher wissenschaftlicher Relevanz. Gesucht sind Vorhaben aus dem Bereich der Grundlagenforschung, die sich nicht dem bereits 'bekannten Unbekannten' widmen, sondern das 'unbekannte Unbekannte' explorieren - mit dem Potenzial zu großen wissenschaftlichen Durchbrüchen, allerdings auch mit dem Risiko, zu scheitern. Pioniervorhaben müssen die folgenden Kriterien erfüllen: (1) Explorativer Charakter des Vorhabens: Das Vorhaben ist radikal explorativ angelegt und betritt wissenschaftliches Neuland; (2) Wissenschaftliche Relevanz und Erkenntnispotential: Das Vorhaben hat den Fokus auf einer noch unerforschten wissenschaftlichen Herausforderung und setzt im Erfolgsfall grundlegend neue Impulse in die Community; (3) Qualifikation und Motivation: Die Projektleitung widmet sich mit Leidenschaft und Risikobereitschaft neuen wissenschaftlichen Herausforderungen und ist im Hinblick auf Realisierbarkeit und Umsetzung des Vorhabens herausragend qualifiziert. Es können bis zu 500.000 € für max. dreijährige Projekte beantragt werden.
 
 Quelle: Uni Leipzig, Dez. 1
 

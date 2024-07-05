@@ -1,27 +1,34 @@
 # Ausschreibungen
 
-* Stand: 2024-04-15
+* Stand: 2024-07-05
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2024-04-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
-* [2024-04-24 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
-* [2024-04-29 - BMBF: Sozial-ökologische Nachwuchsgruppen für nachhaltige und resiliente Stadt-Umland-Regionen](ausschreibungen/bmbf_sozial-ökologische_nachwuchsgruppen_für_nachhaltige_und_resiliente_stadt-umland-regionen.md)
-* [2024-04-30 - Daimler und Benz Stiftung: Innovative Wissenschaftsvermittlung](ausschreibungen/daimler_und_benz_stiftung_innovative_wissenschaftsvermittlung.md)
-* [2024-05-03 - Gerda Henkel Stiftung: Sonderprogramm Flucht](ausschreibungen/gerda_henkel_stiftung_sonderprogramm_flucht.md)
-* [2024-05-07 - VolkswagenStiftung: Themenwoche Digitale Kompetenzen in der Wissenschaft](ausschreibungen/volkswagenstiftung_themenwoche_digitale_kompetenzen_in_der_wissenschaft.md)
-* [2024-05-08 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
-* [2024-05-22 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
-* [2024-06-04 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
+* [2024-07-12 - BMBF: Nachwuchsforschungsgruppen und Forschungsgruppen in der Wissenschafts- und Hochschulforschung](ausschreibungen/bmbf_nachwuchsforschungsgruppen_und_forschungsgruppen_in_der_wissenschafts-_und_hochschulforschung.md)
+* [2024-08-28 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
 * [2024-08-29 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2024-08-31 - DAAD: Postdoctoral Researchers International Mobility Experience (PRIME)](ausschreibungen/daad_postdoctoral_researchers_international_mobility_experience_prime.md)
+* [2024-09-03 - VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
+* [2024-09-11 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2024-10-01 - DFG: Langfristvorhaben](ausschreibungen/dfg_langfristvorhaben.md)
+* [2024-10-23 - EU: COST Actions](ausschreibungen/eu_cost_actions.md)
+* [2024-10-29 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
+* [2024-10-29 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
+* [2024-10-30 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
+* [2024-11-04 - DFG: Forschungssoftwareinfrastrukturen](ausschreibungen/dfg_forschungssoftwareinfrastrukturen.md)
+* [2024-11-15 - Deutsch Polnische Wissenschaftsstiftung: Förderung der Wissenschaft und der Völkerverständigung](ausschreibungen/deutsch_polnische_wissenschaftsstiftung_förderung_der_wissenschaft_und_der_völkerverständigung.md)
+* [2024-11-27 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
+* [2025-01-21 - EU: A European Collaborative Cloud for Cultural Heritage – 2024](ausschreibungen/eu_a_european_collaborative_cloud_for_cultural_heritage_–_2024.md)
+* [2025-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
+* [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
 
 ## Ständige Ausschreibungen
 
 * [Alexander-von-Humboldt-Stiftung: PostDoc-Stipendien](ausschreibungen/alexander-von-humboldt-stiftung_postdoc-stipendien.md)
+* [DAAD: Programme des Projektbezogenen Personenaustauschs (PPP) mit verschiedenen Partnerländern](ausschreibungen/daad_programme_des_projektbezogenen_personenaustauschs_ppp_mit_verschiedenen_partnerländern.md)
+* [Daimler und Benz Stiftung: Tagungsformat „Ladenburger Diskurs“](ausschreibungen/daimler_und_benz_stiftung_tagungsformat_„ladenburger_diskurs“.md)
 * [DFG: Digitalisierung und Erschließung](ausschreibungen/dfg_digitalisierung_und_erschließung.md)
 * [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
 * [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
@@ -31,7 +38,6 @@
 * [Leipzig Flexible Fund: Anschubfinanzierung der Universität Leipzig für Postdocs (inklusive Juniorprofessor:innen)](ausschreibungen/leipzig_flexible_fund_anschubfinanzierung_der_universität_leipzig_für_postdocs_inklusive_juniorprofessorinnen.md)
 * [VolkswagenStiftung: Data Reuse (Forschungsdaten)](ausschreibungen/volkswagenstiftung_data_reuse_forschungsdaten.md)
 * [VolkswagenStiftung: Lichtenberg-Professur](ausschreibungen/volkswagenstiftung_lichtenberg-professur.md)
-* [VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
 * [VolkswagenStiftung: Pioniervorhaben "Gesellschaftliche Transformationen"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"gesellschaftliche_transformationen".md)
 
 ## Vergangene Ausschreibungen
@@ -52,7 +58,6 @@
 * [2021-07-20 - DFG: Copernicus-Preis 2022](ausschreibungen/dfg_copernicus-preis_2022.md)
 * [2021-07-31 - Max-Planck-Institut für Wissenschaftsgeschichte: Visiting Scholarships](ausschreibungen/max-planck-institut_für_wissenschaftsgeschichte_visiting_scholarships.md)
 * [2021-08-15 - Archiv der deutschen Jugendbewegung: Forschungsstipendium](ausschreibungen/archiv_der_deutschen_jugendbewegung_forschungsstipendium.md)
-* [2021-08-17 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
 * [2021-08-29 - Sächsischer Förderpreis für Demokratie](ausschreibungen/sächsischer_förderpreis_für_demokratie.md)
 * [2021-09-01 - Exner-Stiftung: Dissertationspreis](ausschreibungen/exner-stiftung_dissertationspreis.md)
 * [2021-09-15 - Gerda Henkel Stiftung: Visiting Professorship (DHI London/LSE)](ausschreibungen/gerda_henkel_stiftung_visiting_professorship_dhi_london_lse.md)
@@ -66,7 +71,6 @@
 * [2021-11-02 - VolkswagenStiftung: Symposien](ausschreibungen/volkswagenstiftung_symposien.md)
 * [2021-11-10 - SMWK: Projektförderung TG 70, Geistes- und Sozialwissenschaften](ausschreibungen/smwk_projektförderung_tg_70,_geistes-_und_sozialwissenschaften.md)
 * [2021-11-15 - SMR: simul⁺Mitmachfonds](ausschreibungen/smr_simul⁺mitmachfonds.md)
-* [2021-11-16 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
 * [2021-12-01 - BMBF: Förderung von Nachwuchsgruppen im Rahmen der Rechtsextremismus- und Rassismusforschung](ausschreibungen/bmbf_förderung_von_nachwuchsgruppen_im_rahmen_der_rechtsextremismus-_und_rassismusforschung.md)
 * [2021-12-03 - SMWK: Verbesserung der Drittmittelfähigkeit und Stärkung internationaler Kooperationsaktivitäten (TG 70)](ausschreibungen/smwk_verbesserung_der_drittmittelfähigkeit_und_stärkung_internationaler_kooperationsaktivitäten_tg_70.md)
 * [2021-12-31 - Leipziger Wissenschaftspreis 2022](ausschreibungen/leipziger_wissenschaftspreis_2022.md)
@@ -93,7 +97,6 @@
 * [2022-06-15 - Deutsch-Französische Hochschule: Spezifische Ausschreibung 2022 zur Förderung wissenschaftlicher Veranstaltungen „Kleine Fächer“](ausschreibungen/deutsch-französische_hochschule_spezifische_ausschreibung_2022_zur_förderung_wissenschaftlicher_veranstaltungen_„kleine_fächer“.md)
 * [2022-06-30 - Bundesstiftung Aufarbeitung: Förderschwerpunkt: Protest und Aufstände gegen autoritäre Herrschaft und Diktaturen](ausschreibungen/bundesstiftung_aufarbeitung_förderschwerpunkt_protest_und_aufstände_gegen_autoritäre_herrschaft_und_diktaturen.md)
 * [2022-07-31 - Leipzig Lab: Forschergruppe an der Uni Leipzig](ausschreibungen/leipzig_lab_forschergruppe_an_der_uni_leipzig.md)
-* [2022-09-14 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2022-09-30 - BMBF: Förderung von Projekten für die grenzüberschreitende Vernetzung und Entwicklung von Projektvorschlägen für Verbundvorhaben in Horizont Europa](ausschreibungen/bmbf_förderung_von_projekten_für_die_grenzüberschreitende_vernetzung_und_entwicklung_von_projektvorschlägen_für_verbundvorhaben_in_horizont_europa.md)
 * [2022-09-30 - Edith Saurer Fonds - Forschungsstipendien](ausschreibungen/edith_saurer_fonds_-_forschungsstipendien.md)
 * [2022-09-30 - Edith Saurer Fonds: Forschungsstipendien](ausschreibungen/edith_saurer_fonds_forschungsstipendien.md)
@@ -102,7 +105,6 @@
 * [2023-01-16 - DAAD: Förderung ausländischer Gastdozenten zu Lehrtätigkeiten an deutschen Hochschulen](ausschreibungen/daad_förderung_ausländischer_gastdozenten_zu_lehrtätigkeiten_an_deutschen_hochschulen.md)
 * [2023-01-30 - DAAD: Leonhard-Euler-Programm 2023-2024](ausschreibungen/daad_leonhard-euler-programm_2023-2024.md)
 * [2023-01-31 - Akademienunion: Akademienprogramm](ausschreibungen/akademienunion_akademienprogramm.md)
-* [2023-02-15 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
 * [2023-02-28 - DAAD: Ostpartnerschaften](ausschreibungen/daad_ostpartnerschaften.md)
 * [2023-04-17 - DFG: Schwerpunktprogramm "New Data Spaces for the Social Sciences" (SPP 2431)](ausschreibungen/dfg_schwerpunktprogramm_"new_data_spaces_for_the_social_sciences"_spp_2431.md)
 * [2023-04-30 - Bundesministerium für Arbeit und Soziales (BMAS): Nachwuchsgruppen im Rahmen des „Fördernetzwerks Interdisziplinäre Sozialpolitikforschung“ (FIS)](ausschreibungen/bundesministerium_für_arbeit_und_soziales_bmas_nachwuchsgruppen_im_rahmen_des_„fördernetzwerks_interdisziplinäre_sozialpolitikforschung“_fis.md)
@@ -129,13 +131,10 @@
 * [2023-11-30 - Max Weber Stiftung: Gerald D. Feldman-Reisebeihilfen](ausschreibungen/max_weber_stiftung_gerald_d_feldman-reisebeihilfen.md)
 * [2023-12-12 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
 * [2024-01-02 - DFG: Communicator-Preis](ausschreibungen/dfg_communicator-preis.md)
-* [2024-01-14 - Daimler und Benz Stiftung: Tagungsformat „Ladenburger Diskurs“](ausschreibungen/daimler_und_benz_stiftung_tagungsformat_„ladenburger_diskurs“.md)
 * [2024-01-15 - VolkswagenStiftung: Sommerschulen und Workshops](ausschreibungen/volkswagenstiftung_sommerschulen_und_workshops.md)
 * [2024-01-19 - DAAD: Procope Plus 2024: Forschungsförderung für die deutsch-französische Zusammenarbeit](ausschreibungen/daad_procope_plus_2024_forschungsförderung_für_die_deutsch-französische_zusammenarbeit.md)
 * [2024-01-31 - Gerda Henkel Stiftung: Gerda Henkel Preis](ausschreibungen/gerda_henkel_stiftung_gerda_henkel_preis.md)
 * [2024-01-31 - Köhler-Stiftung: Procope Plus 2024: Forschungsförderung für die deutsch-französische Zusammenarbeit](ausschreibungen/köhler-stiftung_procope_plus_2024_forschungsförderung_für_die_deutsch-französische_zusammenarbeit.md)
-* [2024-01-31 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
-* [2024-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
 * [2024-02-20 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_mit_ahrc.md)
 * [2024-02-28 - Friedwart Bruckhaus-Preise](ausschreibungen/friedwart_bruckhaus-preise.md)
 * [2024-03-01 - Deutscher Studienpreis](ausschreibungen/deutscher_studienpreis.md)
@@ -143,3 +142,11 @@
 * [2024-03-28 - VolkswagenStiftung: Change](ausschreibungen/volkswagenstiftung_change.md)
 * [2024-04-09 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2024-04-14 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
+* [2024-04-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
+* [2024-04-29 - BMBF: Sozial-ökologische Nachwuchsgruppen für nachhaltige und resiliente Stadt-Umland-Regionen](ausschreibungen/bmbf_sozial-ökologische_nachwuchsgruppen_für_nachhaltige_und_resiliente_stadt-umland-regionen.md)
+* [2024-04-30 - Daimler und Benz Stiftung: Innovative Wissenschaftsvermittlung](ausschreibungen/daimler_und_benz_stiftung_innovative_wissenschaftsvermittlung.md)
+* [2024-05-03 - Gerda Henkel Stiftung: Sonderprogramm Flucht](ausschreibungen/gerda_henkel_stiftung_sonderprogramm_flucht.md)
+* [2024-05-07 - VolkswagenStiftung: Themenwoche Digitale Kompetenzen in der Wissenschaft](ausschreibungen/volkswagenstiftung_themenwoche_digitale_kompetenzen_in_der_wissenschaft.md)
+* [2024-05-08 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
+* [2024-05-22 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
+* [2024-05-31 - SMWK: Promotionsstipendien](ausschreibungen/smwk_promotionsstipendien.md)

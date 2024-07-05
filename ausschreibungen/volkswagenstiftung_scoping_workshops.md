@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Scoping Workshops
 
-* Nächste Einreichung: 2024-06-04
+* Nächste Einreichung: 2024-10-29
 * Institution: VolkswagenStiftung
 
 Mit Scoping Workshops möchte die VolkswagenStiftung zur Reflexion und Weiterentwicklung disziplinärer wie interdisziplinärer Forschungsgebiete und -communities beitragen. Wissenschaftler:innen erhalten im Rahmen einer Förderung die Möglichkeit, gemeinsam mit anderen Forscher:innen eine Standortbestimmung ihres Forschungsgebietes vorzunehmen und davon ausgehend Perspektiven für dessen weitere Entwicklung zu erarbeiten.

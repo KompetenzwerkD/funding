@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Momentum
 
-* Nächste Einreichung: 2024-04-24
+* Nächste Einreichung: 2025-04-28
 * Institution: VolkswagenStiftung
 
 Momentum – Förderung für Erstberufene
