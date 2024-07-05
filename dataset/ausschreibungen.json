@@ -7418,6 +7418,62 @@
         "free_text": "Langfristvorhaben in den Geistes- und Sozialwissenschaften\n\n\u00c4nderung der Antragsmodalit\u00e4ten\n\nUnter \u201eLangfristvorhaben\u201c in den Geistes- und Sozialwissenschaften versteht die Deutsche Forschungsgemeinschaft (DFG) For\u00adschungs\u00advorhaben, die einer kontinuierlichen F\u00f6r\u00adderung von mindestens sieben und maximal zw\u00f6lf Jahren bed\u00fcrfen (m\u00f6gliche Beispiele: Editionen, Corpora, arch\u00e4ologische Grabungsprojekte, sozial- oder verhaltenswissenschaftliche L\u00e4ngsschnitt\u00adstudien). Ihre zentrale wissenschaftliche Bedeutung, ihre gr\u00fcndliche Vorbereitung und durch\u00addachte Planung sowie ihre professionelle Leitung sind unabdingbare Voraussetzungen f\u00fcr die Anerkennung als Langfristvorhaben.\n\n \n\nBisher konnte die Einrichtung von Langfristvorhaben jederzeit bei der DFG beantragt werden. Die Bewertung der Antr\u00e4ge fand in den zweimal j\u00e4hrlich abgehaltenen Sitzungen der fachkollegien\u00fcbergreifenden Sektion f\u00fcr die Langfristvorhaben statt. Ab 2025 wird die Sektion nur noch im Fr\u00fchjahr eines jeden Jahres tagen. Antr\u00e4ge, die in dieser Sitzung bewertet werden sollen, m\u00fcssen bis sp\u00e4testens zum 1. Oktober des Vorjahres bei der DFG eingegangen sein. Die Entscheidung \u00fcber die Aufnahme als Langfristvorhaben f\u00e4llt der Hauptausschuss in seiner Sommersitzung.\n\n \n\nDer n\u00e4chste Termin f\u00fcr die Einreichung von Langfristvorhaben ist daher der 1. Oktober 2024.\n\nEs empfiehlt sich, vor einer Antragstellung Kontakt mit der jeweils fachlich zust\u00e4ndigen Person in der Gesch\u00e4ftsstelle aufzunehmen.\n\n \n\n \n\n \n\nWeiterf\u00fchrende Informationen\n\n \n\nInformationen zu Langfristvorhaben finden Sie im \u201eErg\u00e4nzende[n] Leitfaden f\u00fcr die Beantragung von Langfristvorhaben in den Geistes- und Sozialwissenschaften\u201c:\n\nwww.dfg.de/de/formulare-1-01-246284\n\n \n\nFachliche Ansprechpersonen:\n\nwww.dfg.de/de/dfg-profil/geschaeftsstelle/fachzustaendigkeit\n\n \n\nAnsprechpersonen f\u00fcr projekt\u00fcbergreifende Fragen der Langfristvorhaben in den Geistes- und Sozialwissenschaften:\n\nGeistes- und Kulturwissenschaften\n\nDr. Hans-Dieter Bienert, Tel. +49 228 885-2246, hans-dieter.bienert@dfg.de\n\n \n\nSozial- und Verhaltenswissenschaften\n\nDr. Anne Br\u00fcggemann, Tel. +49 228 885-2213, anne.brueggemann@dfg.de\n\n \n\nAdministrative Fragen\n\nSigrid Cla\u00dfen, Tel. +49 228 885-2209, sigrid.classen@dfg.de\n\nQuelle: DFG"
     },
     {
+        "title": "DFG: Reinhard-Koselleck-Programm",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2024-10-15"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG",
+                "label": "DFG"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2024/ifr-24-33"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Interdisciplinary Projects under the Reinhart Koselleck Programme\n\nShort description: Interdisciplinary research is often particularly challenging and requires special efforts at newly emerging interfaces. In order to create an additional opportunity for interdisciplinary research and to make the achievements of scientists who conduct research at scientific boundaries more visible, the DFG launches an open call under the Reinhart Koselleck programme. The aim is to enable outstanding researchers with a proven scientific track record to pursue exceptionally interdisciplinary and innovative projects. Research proposals from all scientific disciplines dedicated to all research topics can be submitted that pursue an interdisciplinary approach. Proposals should meet the criteria of the Reinhart Koselleck programme described in the guidelines (DFG form 1.18). The most relevant requirements for proposals are a high degree of innovation and a high risk due to the interdisciplinary orientation of the research project. These aspects are central funding criteria in the review process and are going to be carefully considered. Applicants are thus asked to highlight the interdisciplinary nature of the proposed research as well as the related risks and their mitigation. Beside single applicant proposals, tandem proposals from two applicants are invited. The innovative and interdisciplinary character of the combination of the applicants\u2019 expertise and their cooperation is accordingly a highly relevant criteria in the review process.\n\nQuelle: DFG"
+    },
+    {
         "title": "EU: COST Actions",
         "properties": [
             {
@@ -7674,8 +7730,8 @@
                     "label": "Has funding institution",
                     "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
                 },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG",
-                "label": "DFG"
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG-2C_LIS",
+                "label": "DFG, LIS"
             },
             {
                 "property": {

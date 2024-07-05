@@ -3,7 +3,7 @@
 ## DFG: Forschungssoftwareinfrastrukturen
 
 * Nächste Einreichung: 2024-11-04
-* Institution: DFG
+* Institution: DFG, LIS
 
 Die Deutsche Forschungsgemeinschaft (DFG) hat das Förderprogramm „Forschungssoftwareinfrastrukturen“ neu eingerichtet. Projektmittel können zum Aufbau, zur Etablierung oder Organisation von Forschungssoftwareinfrastrukturen eingeworben werden. Die DFG fördert dazu Vorhaben auf der technischen, organisatorischen und individuellen Ebene. Sie ermöglicht durch das neue Förderprogramm zum einen, den fachspezifischen Umgang mit Forschungssoftware zu verbessern, und unterstützt zum anderen die Entwicklung einer Community-getragenen Gesamtstruktur von Forschungssoftwareinfrastrukturen in Deutschland.
 

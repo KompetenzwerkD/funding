@@ -13,6 +13,7 @@
 * [2024-09-03 - VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
 * [2024-09-11 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2024-10-01 - DFG: Langfristvorhaben](ausschreibungen/dfg_langfristvorhaben.md)
+* [2024-10-15 - DFG: Reinhard-Koselleck-Programm](ausschreibungen/dfg_reinhard-koselleck-programm.md)
 * [2024-10-23 - EU: COST Actions](ausschreibungen/eu_cost_actions.md)
 * [2024-10-29 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
 * [2024-10-29 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
