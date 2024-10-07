@@ -2,7 +2,7 @@
 
 ## VolkswagenStiftung: Pioniervorhaben
 
-* Nächste Einreichung: 2024-04-15
+* Nächste Einreichung: 2024-10-15
 * Institution: VolkswagenStiftung
 
 Pioniervorhaben: Impulse für das Wissenschaftssystem

@@ -1,29 +1,28 @@
 # Ausschreibungen
 
-* Stand: 2024-07-05
+* Stand: 2024-10-07
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2024-07-12 - BMBF: Nachwuchsforschungsgruppen und Forschungsgruppen in der Wissenschafts- und Hochschulforschung](ausschreibungen/bmbf_nachwuchsforschungsgruppen_und_forschungsgruppen_in_der_wissenschafts-_und_hochschulforschung.md)
-* [2024-08-28 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
-* [2024-08-29 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
-* [2024-08-31 - DAAD: Postdoctoral Researchers International Mobility Experience (PRIME)](ausschreibungen/daad_postdoctoral_researchers_international_mobility_experience_prime.md)
-* [2024-09-03 - VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
-* [2024-09-11 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
-* [2024-10-01 - DFG: Langfristvorhaben](ausschreibungen/dfg_langfristvorhaben.md)
+* [2024-10-15 - BMBF: „Moderne Asienforschung“](ausschreibungen/bmbf_„moderne_asienforschung“.md)
 * [2024-10-15 - DFG: Reinhard-Koselleck-Programm](ausschreibungen/dfg_reinhard-koselleck-programm.md)
+* [2024-10-15 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
+* [2024-10-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
 * [2024-10-23 - EU: COST Actions](ausschreibungen/eu_cost_actions.md)
 * [2024-10-29 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
 * [2024-10-29 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
 * [2024-10-30 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
+* [2024-10-31 - BMBF: Vertrauen in Demokratie und Staat: Digitale Desinformation erkennen und abwehren im Rahmen des Forschungsrahmenprogramms der Bundesregierung zur IT-Sicherheit „Digital. Sicher. Souverän.“](ausschreibungen/bmbf_vertrauen_in_demokratie_und_staat_digitale_desinformation_erkennen_und_abwehren_im_rahmen_des_forschungsrahmenprogramms_der_bundesregierung_zur_it-sicherheit_„digital_sicher_souverän“.md)
+* [2024-11-01 - Daimler und Benz Stiftung: Ausschreibung für ein Forschungsprojekt mit afrikanischen Forschungseinrichtungen](ausschreibungen/daimler_und_benz_stiftung_ausschreibung_für_ein_forschungsprojekt_mit_afrikanischen_forschungseinrichtungen.md)
 * [2024-11-04 - DFG: Forschungssoftwareinfrastrukturen](ausschreibungen/dfg_forschungssoftwareinfrastrukturen.md)
 * [2024-11-15 - Deutsch Polnische Wissenschaftsstiftung: Förderung der Wissenschaft und der Völkerverständigung](ausschreibungen/deutsch_polnische_wissenschaftsstiftung_förderung_der_wissenschaft_und_der_völkerverständigung.md)
 * [2024-11-27 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
+* [2024-11-28 - DFG: SchSchwerpunktprogramm „Hundert plus – Verlängerung der Lebensdauer komplexer Baustrukturen durch intelligente Digitalisierung“ (SPP 2388)](ausschreibungen/dfg_schschwerpunktprogramm_„hundert_plus_–_verlängerung_der_lebensdauer_komplexer_baustrukturen_durch_intelligente_digitalisierung“_spp_2388.md)
 * [2025-01-21 - EU: A European Collaborative Cloud for Cultural Heritage – 2024](ausschreibungen/eu_a_european_collaborative_cloud_for_cultural_heritage_–_2024.md)
-* [2025-02-01 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
 * [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2025-11-04 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
 
 ## Ständige Ausschreibungen
 
@@ -32,6 +31,7 @@
 * [Daimler und Benz Stiftung: Tagungsformat „Ladenburger Diskurs“](ausschreibungen/daimler_und_benz_stiftung_tagungsformat_„ladenburger_diskurs“.md)
 * [DFG: Digitalisierung und Erschließung](ausschreibungen/dfg_digitalisierung_und_erschließung.md)
 * [DFG: Emmy-Noether-Programm](ausschreibungen/dfg_emmy-noether-programm.md)
+* [DFG: International Cooperation](ausschreibungen/dfg_international_cooperation.md)
 * [DFG: Projektförderung](ausschreibungen/dfg_projektförderung.md)
 * [DFG: Verantwortung für Informationsinfrastrukturen gemeinsam organisieren (VIGO)](ausschreibungen/dfg_verantwortung_für_informationsinfrastrukturen_gemeinsam_organisieren_vigo.md)
 * [Einladung/Reise für Nachwuchswissenschaftler:innen der Uni Leipzig (Leibniz-Programm)](ausschreibungen/einladung_reise_für_nachwuchswissenschaftlerinnen_der_uni_leipzig_leibniz-programm.md)
@@ -65,7 +65,6 @@
 * [2021-09-15 - Hans-Böckler-Stiftung: Maria Weber Grant](ausschreibungen/hans-böckler-stiftung_maria_weber_grant.md)
 * [2021-09-30 - Gotha, Außenstelle Uni Erfurt: Herzog-Ernst-Stipendien und Hiob-Ludolf-Fellowships 2022](ausschreibungen/gotha,_außenstelle_uni_erfurt_herzog-ernst-stipendien_und_hiob-ludolf-fellowships_2022.md)
 * [2021-09-30 - Willy-Bretscher-Fellowship (ZB Zürich) / Grant](ausschreibungen/willy-bretscher-fellowship_zb_zürich___grant.md)
-* [2021-10-12 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2021-10-15 - Deutsches Museum München: Scholar in Residence (Stipendium)](ausschreibungen/deutsches_museum_münchen_scholar_in_residence_stipendium.md)
 * [2021-10-31 - Preis Biographie-, prosopographische oder genealogische Forschung](ausschreibungen/preis_biographie-,_prosopographische_oder_genealogische_forschung.md)
 * [2021-11-02 - Azrieli Foundation: Azrieli Fellows Program](ausschreibungen/azrieli_foundation_azrieli_fellows_program.md)
@@ -125,7 +124,6 @@
 * [2023-09-26 - DAAD: Ausbau der Hochschulzusammenarbeit mit den Ländern Ostund Südosteuropas, des Südkaukasus und Zentralasiens 2023](ausschreibungen/daad_ausbau_der_hochschulzusammenarbeit_mit_den_ländern_ostund_südosteuropas,_des_südkaukasus_und_zentralasiens_2023.md)
 * [2023-09-30 - Zeit-Fazit-Stiftung: Nachwuchswissenschaftler:in des Jahres](ausschreibungen/zeit-fazit-stiftung_nachwuchswissenschaftlerin_des_jahres.md)
 * [2023-10-01 - Daimler und Benz Stiftung: Stipendienprogramm für Postdoktorand/innen](ausschreibungen/daimler_und_benz_stiftung_stipendienprogramm_für_postdoktorand_innen.md)
-* [2023-10-24 - ERC Starting Grants](ausschreibungen/erc_starting_grants.md)
 * [2023-11-08 - European Research Council: ERC Synergy Grant (Horizon Europe)](ausschreibungen/european_research_council_erc_synergy_grant_horizon_europe.md)
 * [2023-11-14 - DFG: Open Research Area for the Social Sciences](ausschreibungen/dfg_open_research_area_for_the_social_sciences.md)
 * [2023-11-15 - Azrieli Foundation: Azrieli International Postdoctoral Fellowship in Israel](ausschreibungen/azrieli_foundation_azrieli_international_postdoctoral_fellowship_in_israel.md)
@@ -143,7 +141,6 @@
 * [2024-03-28 - VolkswagenStiftung: Change](ausschreibungen/volkswagenstiftung_change.md)
 * [2024-04-09 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2024-04-14 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
-* [2024-04-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
 * [2024-04-29 - BMBF: Sozial-ökologische Nachwuchsgruppen für nachhaltige und resiliente Stadt-Umland-Regionen](ausschreibungen/bmbf_sozial-ökologische_nachwuchsgruppen_für_nachhaltige_und_resiliente_stadt-umland-regionen.md)
 * [2024-04-30 - Daimler und Benz Stiftung: Innovative Wissenschaftsvermittlung](ausschreibungen/daimler_und_benz_stiftung_innovative_wissenschaftsvermittlung.md)
 * [2024-05-03 - Gerda Henkel Stiftung: Sonderprogramm Flucht](ausschreibungen/gerda_henkel_stiftung_sonderprogramm_flucht.md)
@@ -151,3 +148,11 @@
 * [2024-05-08 - VolkswagenStiftung: VolkswagenStiftung: Perspektiven auf Reichtum: Die (Re-)Produktion von Reichtum](ausschreibungen/volkswagenstiftung_volkswagenstiftung_perspektiven_auf_reichtum_die_re-produktion_von_reichtum.md)
 * [2024-05-22 - Gerda Henkel Stiftung: Projektförderung](ausschreibungen/gerda_henkel_stiftung_projektförderung.md)
 * [2024-05-31 - SMWK: Promotionsstipendien](ausschreibungen/smwk_promotionsstipendien.md)
+* [2024-07-12 - BMBF: Nachwuchsforschungsgruppen und Forschungsgruppen in der Wissenschafts- und Hochschulforschung](ausschreibungen/bmbf_nachwuchsforschungsgruppen_und_forschungsgruppen_in_der_wissenschafts-_und_hochschulforschung.md)
+* [2024-08-28 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
+* [2024-08-29 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2024-08-31 - DAAD: Postdoctoral Researchers International Mobility Experience (PRIME)](ausschreibungen/daad_postdoctoral_researchers_international_mobility_experience_prime.md)
+* [2024-09-03 - VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
+* [2024-09-11 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
+* [2024-09-11 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
+* [2024-10-01 - DFG: Langfristvorhaben](ausschreibungen/dfg_langfristvorhaben.md)
