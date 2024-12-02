@@ -71,4 +71,4 @@ Förderbereich „Wissenschaftliche Literaturversorgungs- und Informationssystem
 
 www.dfg.de/lis
 
-* [Link](https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_21_80/index.html)
+* [Link](https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/digitalisierung_erschliessung/)
