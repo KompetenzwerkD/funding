@@ -2,11 +2,11 @@
 
 ## DFG: UK-German Funding Initiative in the Humanities (mit AHRC)
 
-* Nächste Einreichung: 2024-02-20
+* Nächste Einreichung: 2025-02-19
 * Institution: DFG, AHRC
 
-The Arts and Humanities Research Council (AHRC), part of UK Research and Innovation (UKRI), and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) are launching a call for proposals for outstanding joint UK-German research projects in the Humanities. Both funding agencies want to strengthen international cooperation in the fields of Arts and Humanities to fund academic research of the highest quality within their own countries. The scheme will provide funding for integrated UK-German projects. The partner agencies will organise a coordinated peer review and a single joint selection process. Funding will be distributed among the research partners according to scholars’ place of work and, more generally, according to the funding rules of each individual agency. The duration of the projects will normally be – and must not exceed – three years. Successful projects will be expected to start in early 2025.
+The Arts and Humanities Research Council (AHRC) and the DFG are inviting proposals for outstanding joint UK-German research projects in the humanities. Proposals may be submitted in any area of the humanities. They should aim to make fundamental advances in human knowledge and must demonstrate clear working programmes that showcase the added value of UK-German collaboration. Projects must have well-defined joint working programmes that are clearly demonstrating the added value of UK-German collaboration. Each partner should substantially contribute to the common project; this also includes taking on organisational responsibilities. The duration of the projects is three years. Successful projects will be expected to start in early 2026.
 
 Quelle: Uni Leipzig, Dez. 1
 
-* [Link](https://www.dfg.de/en/research_funding/announcements_proposals/2023/info_wissenschaft_23_80/index.html)
+* [Link](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2024/ifw-24-91)

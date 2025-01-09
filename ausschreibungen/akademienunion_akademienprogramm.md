@@ -2,9 +2,9 @@
 
 ## Akademienunion: Akademienprogramm
 
-* Nächste Einreichung: 2023-01-31
+* Nächste Einreichung: 2025-01-31
 * Institution: Akademienunion
 
-Das Akademienprogramm dient der langfristigen Grundlagenforschung in den Geisteswissenschaften, den historischen Rechtswissenschaften sowie den Wirtschafts- und Gesellschaftswissenschaften und zielt auf die Erschließung, Sicherung und Erforschung kultureller Überlieferungen von übergeordneter fachwissenschaftlicher und gesellschaftlicher Relevanz. Alle Wissenschaftler:innen in Deutschland können sich bei einer der in der Ausschreibung aufgeführten Wissenschaftsakademien mit einem Forschungsvorhaben bewerben. Die Bewerbung von Wissenschaftlerinnen ist ausdrücklich erwünscht. Die Fördersumme liegt bei mind. 120.000 EUR/Jahr und die Laufzeit zwischen 12–25 Jahren.
+Das Akademienprogramm, das gemeinsame Forschungsprogramm der deutschen Akademien der Wissenschaften, dient der langfristigen Grundlagenforschung in den Geisteswissenschaften. Die zentrale Aufgabe des Akademienprogramms besteht in der Erschließung, Sicherung und Erforschung kultureller Überlieferungen von herausragender fachwissenschaftlicher und gesellschaftlicher Relevanz. Wissenschaftler:innen mit abgeschlossener Promotion und institutioneller Anbindung in Deutschland können mit einem Forschungsvorhaben bewerben.
 
-* [Link](https://www.akademienunion.de/presse/nachricht/ausschreibung-fuer-das-akademienprogramm-2025)
+* [Link](https://www.akademienunion.de/akademienunion/ausschreibungen)

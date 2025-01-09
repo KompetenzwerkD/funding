@@ -2,7 +2,7 @@
 
 ## DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften
 
-* Nächste Einreichung: 2022-03-08
+* Nächste Einreichung: 2025-03-06
 * Institution: DFG, ANR
 
 Deutsche Forschungsgemeinschaft (DFG): ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften
@@ -10,4 +10,4 @@ Deutsche Forschungsgemeinschaft (DFG): ANR-DFG-Förderprogramm für deutsch-fran
 
 Quelle: Uni Leipzig, Dez. 1, Dr. Anett Karl
 
-* [Link](https://www.dfg.de/foerderung/info_wissenschaft/2021/info_wissenschaft_21_112/index.html)
+* [Link](http://www.dfg.de/dfg-anr-gs-call)
