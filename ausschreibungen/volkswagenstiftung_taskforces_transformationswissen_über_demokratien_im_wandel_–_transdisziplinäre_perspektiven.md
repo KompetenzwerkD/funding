@@ -2,8 +2,13 @@
 
 ## VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven
 
-* Nächste Einreichung: 2024-10-29
+* Nächste Einreichung: 2025-09-09
 * Institution: VolkswagenStiftung
+
+Kurzbeschreibung: Das Programm richtet sich an Antragsteller:innen aus den Geistes-, Kultur- und Gesellschaftswissenschaften sowie gleichermaßen an (zivil)gesellschaftliche Akteur:innen, die gemeinsam in transdisziplinären Teams unterschiedliche Ideen und Fragestellungen zu Demokratie im Wandel austauschen und bearbeiten möchten. Die Stiftung möchte mit diesem Programm insbesondere die Entwicklung neuer Perspektiven auf Wandel von Demokratie fördern und dabei neben der wissenschaftlichen Perspektive Ideen und Erfahrungen von (zivil)gesellschaftlichen Partner:innen berücksichtigen. Dieses Programm bietet die Chance, neben der Forschung konkrete Empfehlungen z.B. für die Politik, relevante gesellschaftliche Akteur:innen oder die Wirtschaft zu entwickeln und zu einer Umsetzung dieser Empfehlungen beizutragen.
+Das Programm besteht aus zwei Förderlinien: Taskforces und Kooperationsprojekte
+
+Quelle: Uni Leipzig, Dez. 1 & VW
 
 Mit einer Laufzeit von fünf Jahren bietet die Stiftung einen Experimentierraum für transdisziplinäre Forschung und leistet einen Beitrag zum Ausprobieren verschiedener Formate und Methoden. Das Förderangebot richtet sich an Wissenschaftler:innen mit abgeschlossener Promotion aus den Geistes-, Kultur-, und Gesellschaftswissenschaften sowie an Akteur:innen aus der (Zivil)Gesellschaft. Eine Kooperation mit Wissenschaftler:innen aus den Natur-, Lebens-, Daten- und Technikwissenschaften ist abhängig von den zu bearbeitenden Fragestellungen möglich. Thematisch sind beispielsweise Vorhaben aus den folgenden Bereichen möglich: (1) Wirkung verschiedener Akteurskonstellationen (aus Politik, Wirtschaft und Gesellschaft) auf demokratische (Entscheidungs-)Prozesse und gesellschaftliche Strukturen (Forschungsfragen zu Macht, Einfluss, Legitimität verschiedener Akteur:innen); (2) Demokratieverständnis und Demokratiegestaltung innerhalb demokratischer Gesellschaften mit Blick auf unterschiedliche Bevölkerungsgruppen – unter Berücksichtigung von Aspekten der politischen Bildung; (3) Wirkung (globaler) wirtschaftlicher Entwicklungen auf aktuelle und zukünftige demokratische Staatsformen (z.B. Fragilität von Liefer- und Produktionsketten, planetare Herausforderungen, soziale und wirtschaftliche (Un)Gleichheit); (4) Fortschreitende Digitalisierung und deren Einfluss auf demokratische Strukturen (z.B. soziale Medien, Onlinewahlen, e-administration). Voraussetzung ist ein interdisziplinäres Team aus zwei bis drei Wissenschaftler:innen sowie bis zu drei verschiedene außerakademischen Partner:innen aus der (Zivil)Gesellschaft. Die Projektsumme beträgt max. 1.300.000 Euro.
 

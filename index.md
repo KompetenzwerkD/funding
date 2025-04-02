@@ -1,19 +1,18 @@
 # Ausschreibungen
 
-* Stand: 2025-01-09
+* Stand: 2025-04-02
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2025-01-14 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
-* [2025-01-21 - EU: A European Collaborative Cloud for Cultural Heritage – 2024](ausschreibungen/eu_a_european_collaborative_cloud_for_cultural_heritage_–_2024.md)
-* [2025-01-31 - Akademienunion: Akademienprogramm](ausschreibungen/akademienunion_akademienprogramm.md)
-* [2025-02-19 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_mit_ahrc.md)
-* [2025-03-06 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
-* [2025-03-26 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
-* [2025-03-31 - DFG: Schwerpunktprogramm „Visual communication. Theoretical, empirical, and applied perspectives (ViCom)” (SPP 2392)](ausschreibungen/dfg_schwerpunktprogramm_„visual_communication_theoretical,_empirical,_and_applied_perspectives_vicom”_spp_2392.md)
+* [2025-04-13 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2025.md)
 * [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2025-05-31 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
+* [2025-05-31 - VolkswagenStiftung: Open New Research Spaces](ausschreibungen/volkswagenstiftung_open_new_research_spaces.md)
+* [2025-08-28 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
+* [2025-09-09 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
+* [2025-09-10 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2025-11-04 - VolkswagenStiftung: Opus Magnum](ausschreibungen/volkswagenstiftung_opus_magnum.md)
 
 ## Ständige Ausschreibungen
@@ -41,6 +40,7 @@
 * [ - Arbeitsgemeinschaft Literarischer Gesellschaften und Gedenkstätten e.V.: Literaturerbe](ausschreibungen/arbeitsgemeinschaft_literarischer_gesellschaften_und_gedenkstätten_ev_literaturerbe.md)
 * [ - BMBF: Wissenschafts- und Hochschulforschung (WiHo)](ausschreibungen/bmbf_wissenschafts-_und_hochschulforschung_wiho.md)
 * [ - DFG: Israel Sondermittel](ausschreibungen/dfg_israel_sondermittel.md)
+* [ - Hanse Wissenschaftskolleg](ausschreibungen/hanse_wissenschaftskolleg.md)
 * [2021-04-12 - Anna Polke-Stiftung: Forschungsstipendium](ausschreibungen/anna_polke-stiftung_forschungsstipendium.md)
 * [2021-04-12 - VolkswagenStiftung: Weltwissen – Strukturelle Stärkung kleiner Fächer](ausschreibungen/volkswagenstiftung_weltwissen_–_strukturelle_stärkung_kleiner_fächer.md)
 * [2021-05-01 - Diligentia Stiftung: Preis für empirische Forschung](ausschreibungen/diligentia_stiftung_preis_für_empirische_forschung.md)
@@ -128,7 +128,6 @@
 * [2024-02-28 - Friedwart Bruckhaus-Preise](ausschreibungen/friedwart_bruckhaus-preise.md)
 * [2024-03-01 - Deutscher Studienpreis](ausschreibungen/deutscher_studienpreis.md)
 * [2024-03-28 - VolkswagenStiftung: Change](ausschreibungen/volkswagenstiftung_change.md)
-* [2024-04-09 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2024-04-14 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2024.md)
 * [2024-04-29 - BMBF: Sozial-ökologische Nachwuchsgruppen für nachhaltige und resiliente Stadt-Umland-Regionen](ausschreibungen/bmbf_sozial-ökologische_nachwuchsgruppen_für_nachhaltige_und_resiliente_stadt-umland-regionen.md)
 * [2024-04-30 - Daimler und Benz Stiftung: Innovative Wissenschaftsvermittlung](ausschreibungen/daimler_und_benz_stiftung_innovative_wissenschaftsvermittlung.md)
@@ -139,10 +138,8 @@
 * [2024-05-31 - SMWK: Promotionsstipendien](ausschreibungen/smwk_promotionsstipendien.md)
 * [2024-07-12 - BMBF: Nachwuchsforschungsgruppen und Forschungsgruppen in der Wissenschafts- und Hochschulforschung](ausschreibungen/bmbf_nachwuchsforschungsgruppen_und_forschungsgruppen_in_der_wissenschafts-_und_hochschulforschung.md)
 * [2024-08-28 - DFG: Schwerpunktprogramm „Jüdisches Kulturerbe“ (SPP 2357)](ausschreibungen/dfg_schwerpunktprogramm_„jüdisches_kulturerbe“_spp_2357.md)
-* [2024-08-29 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2024-08-31 - DAAD: Postdoctoral Researchers International Mobility Experience (PRIME)](ausschreibungen/daad_postdoctoral_researchers_international_mobility_experience_prime.md)
 * [2024-09-03 - VolkswagenStiftung: Pioniervorhaben "Explorationen des unbekannten Unbekannten"](ausschreibungen/volkswagenstiftung_pioniervorhaben_"explorationen_des_unbekannten_unbekannten".md)
-* [2024-09-11 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2024-09-11 - EU: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_msca_postdoctoral_fellowships,_horizon_europe.md)
 * [2024-10-01 - DFG: Langfristvorhaben](ausschreibungen/dfg_langfristvorhaben.md)
 * [2024-10-15 - BMBF: „Moderne Asienforschung“](ausschreibungen/bmbf_„moderne_asienforschung“.md)
@@ -151,7 +148,6 @@
 * [2024-10-15 - VolkswagenStiftung: Pioniervorhaben](ausschreibungen/volkswagenstiftung_pioniervorhaben.md)
 * [2024-10-23 - EU: COST Actions](ausschreibungen/eu_cost_actions.md)
 * [2024-10-29 - VolkswagenStiftung: Scoping Workshops](ausschreibungen/volkswagenstiftung_scoping_workshops.md)
-* [2024-10-29 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
 * [2024-10-30 - VolkswagenStifung: Forschung über Wissenschaft: Kooperationsprojekte](ausschreibungen/volkswagenstifung_forschung_über_wissenschaft_kooperationsprojekte.md)
 * [2024-10-31 - BMBF: Vertrauen in Demokratie und Staat: Digitale Desinformation erkennen und abwehren im Rahmen des Forschungsrahmenprogramms der Bundesregierung zur IT-Sicherheit „Digital. Sicher. Souverän.“](ausschreibungen/bmbf_vertrauen_in_demokratie_und_staat_digitale_desinformation_erkennen_und_abwehren_im_rahmen_des_forschungsrahmenprogramms_der_bundesregierung_zur_it-sicherheit_„digital_sicher_souverän“.md)
 * [2024-11-01 - Daimler und Benz Stiftung: Ausschreibung für ein Forschungsprojekt mit afrikanischen Forschungseinrichtungen](ausschreibungen/daimler_und_benz_stiftung_ausschreibung_für_ein_forschungsprojekt_mit_afrikanischen_forschungseinrichtungen.md)
@@ -159,6 +155,12 @@
 * [2024-11-15 - Deutsch Polnische Wissenschaftsstiftung: Förderung der Wissenschaft und der Völkerverständigung](ausschreibungen/deutsch_polnische_wissenschaftsstiftung_förderung_der_wissenschaft_und_der_völkerverständigung.md)
 * [2024-11-27 - EU Europäische Kommission: MSCA Doctoral Networks, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_doctoral_networks,_horizon_europe.md)
 * [2024-11-28 - DFG: SchSchwerpunktprogramm „Hundert plus – Verlängerung der Lebensdauer komplexer Baustrukturen durch intelligente Digitalisierung“ (SPP 2388)](ausschreibungen/dfg_schschwerpunktprogramm_„hundert_plus_–_verlängerung_der_lebensdauer_komplexer_baustrukturen_durch_intelligente_digitalisierung“_spp_2388.md)
-* [2024-12-01 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2025.md)
 * [2024-12-09 - DAAD et al.: SAFE - Supporting At-risk researchers with Fellowships in Europe](ausschreibungen/daad_et_al_safe_-_supporting_at-risk_researchers_with_fellowships_in_europe.md)
 * [2025-01-03 - Alexander von Humboldt-Stiftung: Philipp Schwartz-Initiative Brückenstipendien](ausschreibungen/alexander_von_humboldt-stiftung_philipp_schwartz-initiative_brückenstipendien.md)
+* [2025-01-14 - European Research Council: ERC Consolidator Grant](ausschreibungen/european_research_council_erc_consolidator_grant.md)
+* [2025-01-21 - EU: A European Collaborative Cloud for Cultural Heritage – 2024](ausschreibungen/eu_a_european_collaborative_cloud_for_cultural_heritage_–_2024.md)
+* [2025-01-31 - Akademienunion: Akademienprogramm](ausschreibungen/akademienunion_akademienprogramm.md)
+* [2025-02-19 - DFG: UK-German Funding Initiative in the Humanities (mit AHRC)](ausschreibungen/dfg_uk-german_funding_initiative_in_the_humanities_mit_ahrc.md)
+* [2025-03-06 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
+* [2025-03-26 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
+* [2025-03-31 - DFG: Schwerpunktprogramm „Visual communication. Theoretical, empirical, and applied perspectives (ViCom)” (SPP 2392)](ausschreibungen/dfg_schwerpunktprogramm_„visual_communication_theoretical,_empirical,_and_applied_perspectives_vicom”_spp_2392.md)

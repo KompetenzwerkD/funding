@@ -839,6 +839,62 @@
         "free_text": "Mit dem Stipendium \u201eForschung & Lehre\u201c k\u00f6nnen sich promovierte Wissenschaftler:innen (Professoren:innen, Dozenten:innen sowie j\u00fcngere wissenschaftliche Assistent:innen) f\u00fcr einen f\u00fcr einen drei- bis neunmonatigen Lehr- oder Forschungsaufenthalt an einer wissenschaftlichen Einrichtung in den USA bewerben. Beide Vorhaben k\u00f6nnen zudem w\u00e4hrend des Aufenthalts miteinander kombiniert werden. Bei Fragen zum Programm Forschung und Lehre, wenden Sie sich bitte an germanscholars@fulbright.de."
     },
     {
+        "title": "Hanse Wissenschaftskolleg",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
+                },
+                "value": "Deadlines variieren je nach Karrierestufe"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Hanse_Wissenschaftskolleg",
+                "label": "Hanse Wissenschaftskolleg"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://hanse-ias.de/fellowships/bewerbung"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Hanse-Wissenschaftskolleg Fellowships \u2013 Applications Open\nThe Hanse-Wissenschaftskolleg is accepting applications for its fellowship program, offering researchers the opportunity to pursue independent projects in an interdisciplinary and international environment. Fellowships are available for scholars in Natural Sciences, Humanities & Social Sciences, and Neurosciences & Cognitive Sciences, as well as for artists bridging art and science.\nFellows receive financial support, office space, and access to HWK\u2019s research network in Delmenhorst, Germany. Applications are open to researchers at all career stages.\n\n\nDetails zu wissenschaftlichen Fellowships\nBedingungen\n\nDas Hanse-Wissenschaftskolleg vergibt wissenschaftliche Fellowships auf Bewerbung mit einem wissenschaftlichen Forschungsprojekt an herausragende Wissenschaftlerinnen und Wissenschaftler aller Karrierestufen. Fellowships k\u00f6nnen 3 bis 10 Monate dauern. Das Auswahlverfahren ist einstufig. Ein Wohnsitz am Hanse-Wissenschaftskolleg \u00fcber die gesamte Dauer des Fellowships hinweg ist zwingend erforderlich. Der genaue zeitliche und finanzielle Umfang des Fellowships obliegt individueller Vereinbarung. Das HWK unterst\u00fctzt Wissenschaftlerinnen und Wissenschaftler, die ein Fellowship in Begleitung von Kindern sowie Partnerinnen oder Partner antreten m\u00f6chten. Lesen Sie die vollst\u00e4ndigen Bedingungen in den Application Guidelines.\nBewerbungskriterien\n\nBewerbungen k\u00f6nnen aus allen akademischen Disziplinen eingereicht werden. Bewerberinnen und Bewerber, die beabsichtigen, experimentelle oder Laborforschung durchzuf\u00fchren, m\u00fcssen ihren Bewerbungen Angaben \u00fcber den vorab verbindlich vereinbarten Zugang zu Forschungsinfrastruktur an einer regionalen Forschungseinrichtung beilegen. Lesen Sie die vollst\u00e4ndigen Bewerbungskriterien in den Application Guidelines.\n\nQuelle: Uni Leipzig + Hanse"
+    },
+    {
         "title": "Leipzig Flexible Fund: Anschubfinanzierung der Universit\u00e4t Leipzig f\u00fcr Postdocs (inklusive Juniorprofessor:innen)",
         "properties": [
             {
@@ -6111,70 +6167,6 @@
         "free_text": "Wir brauchen Ver\u00e4nderungen in unserer Gesellschaft und in den bestehenden Strukturen, um die Vielzahl der Krisen zu bew\u00e4ltigen, mit denen wir heute konfrontiert sind. Von der Wissenschaft wird erwartet, dass sie planetare Grenzen und Vulnerabilit\u00e4ten aufdeckt, faktenbasierte Handlungsoptionen erforscht und zu L\u00f6sungen beitr\u00e4gt. Daher sucht die VolkswagenStiftung Pers\u00f6nlichkeiten aus der Wissenschaft, die gemeinsam mit au\u00dferwissenschaftlichen Stakeholdern zu Transformationsprozessen forschen und diese anschieben m\u00f6chten.\n\n\nFachgebiete: alle\nArt der F\u00f6rderung: Forschungs-/Nachwuchsgruppen, die Transformationswissen generieren\n1,3 bis 1,8 Mio Euro\nbis zu 5 Jahre\nZielgruppe: Wissenschaftler:innen ab zwei Jahre nach der Promotion, an Universit\u00e4ten, au\u00dferuniversit\u00e4ren Forschungseinrichtungen oder mit Zielinstitution in Deutschland\n\nDas F\u00f6rderangebot richtet sich an Wissenschaftler:innen aller Fachrichtungen, die das Potenzial nichtwissenschaftlicher Wissensquellen f\u00fcr ihre Forschung zu Transformationsprozessen erkannt haben. Eine transdisziplin\u00e4re Herangehensweise und die Einbindung nichtwissenschaftlicher Akteure (z. B. Netzwerke aus der Zivilgesellschaft, Nichtregierungsorganisationen, Vereine, Beh\u00f6rden, kleine Unternehmen, u. a. m.) sind Voraussetzung f\u00fcr eine erfolgreiche Antragstellung.\n\nGemeinsam mit ihren au\u00dferwissenschaftlichen Partner:innen widmen sich die Forschenden gesellschaftlichen Problemen, gewinnen Erkenntnisse \u00fcber Faktoren, die Wandel f\u00f6rdern oder hemmen, und entwickeln Wissen, Methoden und Szenarien zur Gestaltung von Transformationsprozessen. Ihr Ziel ist es, mit den Erkenntnissen und Strategien aus der gemeinsamen Forschung aktiv Ver\u00e4nderungsprozesse anzusto\u00dfen.\n\nQuelle: VW"
     },
     {
-        "title": "VolkswagenStiftung: Aufbruch \u2013 Neue Forschungsr\u00e4ume f\u00fcr die Geistes- und Kulturwissenschaften",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
-                    "label": "Has additional submission info",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
-                },
-                "value": "Online-Sprechstunden: 23. Feb. 2024, 10 Uhr (dt.); 01. M\u00e4rz 2024 (engl.), 10 Uhr"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2024-04-09"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/VolkswagenStiftung",
-                "label": "VolkswagenStiftung"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/aufbruch-neue-forschungsraeume-fuer-geistes-Kulturwissenschaften"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "true"
-            }
-        ],
-        "free_text": "Fachgebiete: Geistes- und Kulturwissenschaften, theoretisch arbeitende Gesellschaftswissenschaften\n    Art der F\u00f6rderung: Forschungsprojekte; Finanzierung einer Lehrvertretung\n    Zielgruppe: Projektteams in Deutschland, ab Promotion; internationale Kooperationspartnerschaften m\u00f6glich\n    bis zu 250.000 bzw. 350.000 Euro\n    bis zu 1,5 Jahre\n    Kurzantrag; anonymisierte Juryauswahl und Distributed Peer Review\n\n\nZiel der Initiative\n\nMit einem Aufbruch verbindet sich die Neugierde, den ersten Schritt hinein in etwas Neues und Unbekanntes zu wagen. Gesucht sind Projekte mit einem 'Aufbruchcharakter', die nicht nur neue Perspektiven auf bereits bekannte Forschungsgegenst\u00e4nde anbieten, sondern g\u00e4nzlich neue Forschungsr\u00e4ume und -themen explorieren. Die Initiative folgt dabei der Annahme, dass diese sich gegenw\u00e4rtig durch eine besondere Komplexit\u00e4t auszeichnen und der multiperspektivischen Aufschl\u00fcsselung bed\u00fcrfen, um ebenjene Vielschichtigkeit aufzeigen und verstehen zu k\u00f6nnen. \n\nDas Angebot wendet sich an Projektteams von zwei oder drei Forscher:innen, die sich gemeinsam der Exploration neuer und innovativer Forschungsr\u00e4ume widmen m\u00f6chten. In einem F\u00f6rderzeitraum von bis zu anderthalb Jahren betr\u00e4gt die maximale F\u00f6rdersumme f\u00fcr Teams mit zwei Projektpartner:innen 250.000 Euro. Teams von drei Forschenden k\u00f6nnen maximal 350.000 Euro beantragen.\n\nGew\u00fcnscht sind explizit Projekte mit einem hohen Grad an Exploration, der mit einem entsprechenden Risikocharakter des Vorhabens einhergehen kann \u2013 die M\u00f6glichkeit des Nichteintretens der anvisierten Projektziele ist daher kein Grund f\u00fcr eine Ablehnung eines Projekts. Bitte ber\u00fccksichtigen Sie folgende Denkhinweise, mit der wir zur Reflexion \u00fcber die Passung/Nicht-Passung Ihres Vorhabens zur F\u00f6rderinitiative \"Aufbruch\" einladen. Ein Vorhaben bedeutet nach Auffassung der VolkswagenStiftung keinen 'Aufbruch' mehr, wenn es bereits:\n\n    wiederkehrende Lehrveranstaltungen zum Thema Ihres Vorhabens gibt.\n    vermehrt Artikel zum Thema Ihres Vorhabens gibt.\n    Journals zum Thema Ihres Vorhabens gibt.\n    Fachgesellschaften zum Thema Ihres Vorhabens gibt.\n    prominent im Feuilleton diskutiert wird.\n\n\nQuelle: VW"
-    },
-    {
         "title": "Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2024",
         "properties": [
             {
@@ -6767,71 +6759,6 @@
         "free_text": "DFG: Schwerpunktprogramm \u201eJ\u00fcdisches Kulturerbe\u201c (SPP 2357)\n\nKurzbeschreibung: Das Schwerpunktprogramm erforscht interdisziplin\u00e4r und multiperspektivisch die Entwicklungen sowohl des gesellschaftlichen und kulturpolitischen Stellenwerts als auch des Umgangs mit j\u00fcdischem Kulturerbe in Europa sowie in seinen globalen Verflechtungen. \u00dcbergeordnetes Ziel des SPP 2357 ist die (Re-)Diskursivierung des kulturellen Erbes von J\u00fcd*innen unter Bezugnahme auf die Critical Heritage Studies. Die zweite Phase legt den Fokus auf empirisch basierte sowie gegenwartsbezogene Grundlagenforschung, die anhand der Entwicklung konkreter Modelle und Konzepte zur Lebendigkeit und Nachhaltigkeit j\u00fcdischen Erbes Potenziale der praktischen Umsetzung aufzeigt. Das Schwerpunktprogramm richtet sich an Wissenschaftler:innen aller Fachrichtungen, die sich interdisziplin\u00e4r mit Gegenst\u00e4nden und Konzepten des j\u00fcdischen Kulturerbes in der Gegenwart unter kritischer Ber\u00fccksichtigung von Fragen kultureller Nachhaltigkeit befassen und eine formale Beteiligung von mindestens zwei Disziplinen aufweist.\n\nQuelle:  Uni Leipzig, Dez. 1"
     },
     {
-        "title": "European Research Council: ERC Advanced Grant",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2024-08-29"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://erc.europa.eu/funding/advanced-grants"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "true"
-            }
-        ],
-        "free_text": "Der ERC f\u00f6rdert langfristig ambitionierte und bahnbrechende Projekte etablierter Forschenden. Bewerben k\u00f6nnen sich aktive Forschende die eine Reihe signifikanter Forschungserfolge in den letzten 10 Jahren vorweisen k\u00f6nnen. Die Hauptforscher:innen sollten in Bezug auf Originalit\u00e4t und Bedeutung ihrer Forschungsbeitr\u00e4ge f\u00fchrend sein. Hinsichtlich der akademischen Anforderungen sind keine besonderen Zulassungskriterien vorgesehen. Es werden bis zu 2.5 Millionen Euro \u00fcber 5 Jahre gef\u00f6rdert. Dazu k\u00f6nnen zus\u00e4tzlich 1 Million Euro f\u00fcr die Startkosten vergeben werden.\n\n(Quelle: Dr. Anett Karl, Uni Leipzig, Dez. 1)\nWeitere Infos finden sich bei EU-B\u00fcro des BMBF: https://www.eubuero.de/de/nks-erc-antragstellung-2429.html"
-    },
-    {
         "title": "DAAD: Postdoctoral Researchers International Mobility Experience (PRIME)",
         "properties": [
             {
@@ -6958,62 +6885,6 @@
             }
         ],
         "free_text": "Kurzbeschreibung: Mit den \"Pioniervorhaben \u2013 Explorationen des unbekannten Unbekannten\" unterst\u00fctzt die Stiftung bahnbrechende und riskante Forschungsideen mit hoher wissenschaftlicher Relevanz. Gesucht sind Vorhaben aus dem Bereich der Grundlagenforschung, die sich nicht dem bereits 'bekannten Unbekannten' widmen, sondern das 'unbekannte Unbekannte' explorieren - mit dem Potenzial zu gro\u00dfen wissenschaftlichen Durchbr\u00fcchen, allerdings auch mit dem Risiko, zu Scheitern.\n\nDazu gibt es eine weitere F\u00f6rderlinie f\u00fcr begleitendes Forschungsdatenmanagement:\n\nKurzbeschreibung: Unterst\u00fctzt werden bahnbrechende und riskante Forschungsideen mit hoher wissenschaftlicher Relevanz. Gesucht sind Vorhaben aus dem Bereich der Grundlagenforschung, die sich nicht dem bereits 'bekannten Unbekannten' widmen, sondern das 'unbekannte Unbekannte' explorieren - mit dem Potenzial zu gro\u00dfen wissenschaftlichen Durchbr\u00fcchen, allerdings auch mit dem Risiko, zu scheitern. Pioniervorhaben m\u00fcssen die folgenden Kriterien erf\u00fcllen: (1) Explorativer Charakter des Vorhabens: Das Vorhaben ist radikal explorativ angelegt und betritt wissenschaftliches Neuland; (2) Wissenschaftliche Relevanz und Erkenntnispotential: Das Vorhaben hat den Fokus auf einer noch unerforschten wissenschaftlichen Herausforderung und setzt im Erfolgsfall grundlegend neue Impulse in die Community; (3) Qualifikation und Motivation: Die Projektleitung widmet sich mit Leidenschaft und Risikobereitschaft neuen wissenschaftlichen Herausforderungen und ist im Hinblick auf Realisierbarkeit und Umsetzung des Vorhabens herausragend qualifiziert. Es k\u00f6nnen bis zu 500.000 \u20ac f\u00fcr max. dreij\u00e4hrige Projekte beantragt werden.\n\nQuelle: Uni Leipzig, Dez. 1"
-    },
-    {
-        "title": "EU Europ\u00e4ische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2024-09-11"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
-                "label": "EU"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals?callIdentifier=HORIZON-MSCA-2024-PF-01"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "true"
-            }
-        ],
-        "free_text": "Mit den Postdoctoral Fellowships werden individuelle Forschungsprojekte von Postdoktorand:innen (max. 8 Jahre Vollzeit-Forschungserfahrung nach Abschluss der Promotion) jeder Nationalit\u00e4t innerhalb und au\u00dferhalb Europas gef\u00f6rdert. Sie haben zum Ziel, wissenschaftliche Karrieren durch internationale und intersektorale Mobilit\u00e4t zu unterst\u00fctzen. Dies soll den Forschenden beim Erreichen oder St\u00e4rken einer unabh\u00e4ngigen Forschungsposition helfen. Gef\u00f6rdert werden European Postdoctoral Fellowships mit einer 12 bis 24-monatigen Laufzeit und Global Postdoctoral Fellowships mit einer 24 bis 36-monatigen Laufzeit, bestehend aus einer 12 bis 24-monatigen \u201eoutgoing phase\u201c und einer 12-monatigen R\u00fcckkehrphase. In begr\u00fcndeten F\u00e4llen kann in beiden Fellowship-Programmen ein zus\u00e4tzlicher Zeitraum von bis zu sechs Monaten an einer nicht-akademischen Einrichtung mit Sitz in einem EU-Mitgliedstaat oder in einem an Horizon Europe-assoziierten Staat beantragt werden.\n\nF\u00fcr alle Gef\u00f6rderten gilt die Mobilit\u00e4tsregel: Sie d\u00fcrfen in den 36 Monaten vor der Einreichungsfrist nicht l\u00e4nger als 12 Monate im Land der Gasteinrichtung gelebt oder gearbeitet haben.\n\nShort description: The Postdoctoral Fellowships support individual research projects of postdoctoral fellows (max. 8 years of full-time research experience after completion of the PhD) of any nationality within and outside Europe. They aim to support scientific careers through international and intersectoral mobility. This is to help researchers achieve or strengthen an independent research position. Funding is provided for European Postdoctoral Fellowships of 12 to 24 months duration and Global Postdoctoral Fellowships of 24 to 36 months duration, consisting of a 12 to 24-month \"outgoing phase\" and a mandatory 12-month return phase. In justified cases, an additional period of up to six months at a non-academic institution based in an EU Member State or in a Horizon Europe-associated country can be requested in both fellowship programs. The mobility rule applies to all grantees: they must not have lived or worked in the country of the host institution for more than 12 months in the 36 months preceding the submission deadline.\n\nQuelle: Uni Leipzig, Dez. 1"
     },
     {
         "title": "EU: MSCA Postdoctoral Fellowships, Horizon Europe",
@@ -7505,62 +7376,6 @@
         "free_text": "Mit Scoping Workshops m\u00f6chte die VolkswagenStiftung zur Reflexion und Weiterentwicklung disziplin\u00e4rer wie interdisziplin\u00e4rer Forschungsgebiete und -communities beitragen. Wissenschaftler:innen erhalten im Rahmen einer F\u00f6rderung die M\u00f6glichkeit, gemeinsam mit anderen Forscher:innen eine Standortbestimmung ihres Forschungsgebietes vorzunehmen und davon ausgehend Perspektiven f\u00fcr dessen weitere Entwicklung zu erarbeiten.\n\n\n\n    Fachgebiete: alle\n    Art der F\u00f6rderung: Workshops im Tagungszentrum Xplanatorium Schloss Herrenhausen, Hannover\n    Zielgruppe: Wissenschaftler:innen an deutschen Universit\u00e4ten und Forschungseinrichtungen, ggf. int. Mitantragstellende\n    Zusatzleistungen: Kinderbetreuungskosten, Unterst\u00fctzung der Veranstaltungsvorbereitung\n\n\n\nScoping Workshops sind Veranstaltungen f\u00fcr Wissenschaftler:innen, die sich jenseits ihrer aktuellen Forschung Gedanken um die Zukunft ihres Forschungsgebiets machen m\u00f6chten. Zusammen mit etwa 30 Expert:innen entwickeln sie Ideen, wie sich ihr Fach inhaltlich oder bez\u00fcglich seiner akademischen Rahmenbedingungen weiterentwickeln kann. Dabei stehen Diskussion und intensiver Austausch absolut im Vordergrund. Die Workshops bieten hierdurch einen Raum f\u00fcr das, was auf Konferenzen abseits der Vortr\u00e4ge und des offiziellen Programms geschieht: Austausch dar\u00fcber, wie es um ein Forschungsgebiet bestellt ist; was darin anders gemacht werden k\u00f6nnte; was f\u00fcr Potenziale bestehen und wie sich diese realisieren lie\u00dfen; wie sich solche Entwicklungen ansto\u00dfen lassen.\n\nGef\u00f6rderte Scoping Workshops finden zu festgelegten Terminen im Tagungszentrum Schloss Herrenhausen in Hannover statt (zur Termin\u00fcbersicht). F\u00fcr die Durchf\u00fchrung der Veranstaltungen stehen verschiedene R\u00e4umlichkeiten und eine professionelle technische Infrastruktur zur Verf\u00fcgung. Neben der Bereitstellung dieser Infrastruktur werden gef\u00f6rderte Workshops mit Personal-, Reise- und Sachmitteln sowie der \u00dcbernahme von organisatorischen Aufgaben unterst\u00fctzt.\n\nQuelle: VW"
     },
     {
-        "title": "VolkswagenStiftung: Taskforces Transformationswissen \u00fcber Demokratien im Wandel \u2013 Transdisziplin\u00e4re Perspektiven",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2024-10-29"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/VolkswagenStiftung",
-                "label": "VolkswagenStiftung"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/transformationswissen-ueber-demokratien-im-wandel-transdisziplinaere-perspektiven"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            }
-        ],
-        "free_text": "Mit einer Laufzeit von f\u00fcnf Jahren bietet die Stiftung einen Experimentierraum f\u00fcr transdisziplin\u00e4re Forschung und leistet einen Beitrag zum Ausprobieren verschiedener Formate und Methoden. Das F\u00f6rderangebot richtet sich an Wissenschaftler:innen mit abgeschlossener Promotion aus den Geistes-, Kultur-, und Gesellschaftswissenschaften sowie an Akteur:innen aus der (Zivil)Gesellschaft. Eine Kooperation mit Wissenschaftler:innen aus den Natur-, Lebens-, Daten- und Technikwissenschaften ist abh\u00e4ngig von den zu bearbeitenden Fragestellungen m\u00f6glich. Thematisch sind beispielsweise Vorhaben aus den folgenden Bereichen m\u00f6glich: (1) Wirkung verschiedener Akteurskonstellationen (aus Politik, Wirtschaft und Gesellschaft) auf demokratische (Entscheidungs-)Prozesse und gesellschaftliche Strukturen (Forschungsfragen zu Macht, Einfluss, Legitimit\u00e4t verschiedener Akteur:innen); (2) Demokratieverst\u00e4ndnis und Demokratiegestaltung innerhalb demokratischer Gesellschaften mit Blick auf unterschiedliche Bev\u00f6lkerungsgruppen \u2013 unter Ber\u00fccksichtigung von Aspekten der politischen Bildung; (3) Wirkung (globaler) wirtschaftlicher Entwicklungen auf aktuelle und zuk\u00fcnftige demokratische Staatsformen (z.B. Fragilit\u00e4t von Liefer- und Produktionsketten, planetare Herausforderungen, soziale und wirtschaftliche (Un)Gleichheit); (4) Fortschreitende Digitalisierung und deren Einfluss auf demokratische Strukturen (z.B. soziale Medien, Onlinewahlen, e-administration). Voraussetzung ist ein interdisziplin\u00e4res Team aus zwei bis drei Wissenschaftler:innen sowie bis zu drei verschiedene au\u00dferakademischen Partner:innen aus der (Zivil)Gesellschaft. Die Projektsumme betr\u00e4gt max. 1.300.000 Euro."
-    },
-    {
         "title": "VolkswagenStifung: Forschung \u00fcber Wissenschaft: Kooperationsprojekte",
         "properties": [
             {
@@ -7975,62 +7790,6 @@
             }
         ],
         "free_text": "Kurzbeschreibung: Ziel dieses Schwerpunktprogramms ist die methodische Entwicklung einer adaptiven, intelligenten und digitalen Repr\u00e4sentanz (digitaler Zwilling) von realen, physischen Objekten (Bauwerken), die durch Messdaten aus dem Bauwerksmonitoring lebensdauer\u00fcbergreifend verkn\u00fcpft wird und komprimierte Informationen f\u00fcr ein pr\u00e4diktives, digitales Bauwerksmanagement zentral bereitstellt. Der digitale Zwilling fungiert als zentrales Element einer effizienten Datenorganisation, sodass eine plattformbasierte Single Source of Truth (SSoT) mit belastbaren Bauwerksinformationen entsteht. Die besondere Herausforderung besteht dabei in der weitgehend automatisierten Generierung eines digitalen Bauwerksmodells aus heterogenen Bestandsdaten, dessen Verkn\u00fcpfung mit allen relevanten Informationen sowie deren Aggregation zu individuellen Zustandsindikatoren. Das Schwerpunktprogramm setzt auf die interdisziplin\u00e4re Zusammenarbeit zwischen Bauinformatik, Baubetrieb, Konstruktivem Ingenieurbau und Ingenieurgeod\u00e4sie. Durch die enge Verkn\u00fcpfung dieser Bereiche werden die methodischen Grundlagen f\u00fcr eine nachhaltige, digitale und pr\u00e4diktive Instandhaltungsstrategie geschaffen.\nIn der zweiten dreij\u00e4hrigen F\u00f6rderphase sollen die folgenden zwei Forschungsschwerpunkte im Fokus stehen:\no Zustandsindikatoren und Prognosemodelle\no Methoden zur Ableitung von Handlungsempfehlungen\n\nQuelle: Uni Leipzig, Dez. 1"
-    },
-    {
-        "title": "Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2024-12-01"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG",
-                "label": "DFG"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.villavigoni.eu/cooperazione-italo-tedesca-2/?lang=de"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            }
-        ],
-        "free_text": "Deutsche Forschungsgemeinschaft (DFG)/ Fondation Maison des sciences de l\u2019homme (FMSH): Deutsch-Italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften\n\u2022\nKurzbeschreibung: Das in Zusammenarbeit mit der DFG entwickelte Programm bietet die M\u00f6glichkeit, Vorschl\u00e4ge f\u00fcr Konferenzen (Kolloquien, Doktoranden- und Postdoc-Seminare oder Format \u201eclose reading\u201c) einzureichen, um sich mit aktuellen Themen zu Kultur, Geschichte und Gesellschaft Europas zu besch\u00e4ftigen. Die Konferenzen m\u00fcssen einen Bezug zur Mission der Villa Vigoni aufweisen, die deutsch-italienischen Beziehungen in den Bereichen Forschung, Bildung und Kultur im europ\u00e4ischen Kontext st\u00e4rken und junge Nachwuchsforschende f\u00f6rdern. Antragsberechtigt sind Wissenschaftler und Wissenschaftlerinnen, die an deutschen Institutionen t\u00e4tig sind. Es wird erwartet, dass der Antrag gemeinsam mit einem/einer Wissenschaftler/in, der/die an italienischen Institutionen t\u00e4tig ist, gestellt wird. Ein dritter/eine dritte Wissenschaftler/in kann nur hinzugef\u00fcgt werden, wenn er oder sie an einer Institution in einem Drittland t\u00e4tig ist. Die Antr\u00e4ge m\u00fcssen in deutscher oder englischer Sprache verfasst werden. Antr\u00e4ge auf Deutsch m\u00fcssen ein italienisches Abstract enthalten. Antr\u00e4ge auf Englisch m\u00fcssen ein italienisches und ein deutsches Abstract enthalten."
     },
     {
         "title": "DAAD et al.: SAFE - Supporting At-risk researchers with Fellowships in Europe",
@@ -8586,6 +8345,62 @@
         "free_text": "The overall goal of ViCom is to investigate the special features and linguistic significance of different components of visual communication.\nCentral fields of interest are (1) sign languages as fully developed natural languages exclusively using the visual modality and (2) visual means that interact with and enhance spoken and written language such as co-speech gestures and emojis. With a strong focus on developing linguistic theory, ViCom strives to bring together different research foci and the joint expertise of communities which usually work on similar research objects, but without a great deal of interaction.\n\nQuelle: Uni Leipzig, Dez. 1"
     },
     {
+        "title": "Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-04-13"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG",
+                "label": "DFG"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-09"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Kurzbeschreibung: Um den Austausch und die Netzwerkbildung zwischen Geistes- und Sozialwissenschaftler:innen, t\u00e4tig in Deutschland, Frankreich und Italien, nachhaltig zu f\u00f6rdern und dabei den Gebrauch von Deutsch, Franz\u00f6sisch und Italienisch als Wissenschaftssprachen ausdr\u00fccklich zu unterst\u00fctzen, haben die Deutsche Forschungsgemeinschaft (DFG), die Fondation Maison des sciences de l\u2019homme (FMSH) und die Villa Vigoni das Programm \u201eTrilaterale Forschungskonferenzen\u201c entwickelt, in dem Mehrsprachigkeit ein tragendes Prinzip ist. Antr\u00e4ge auf F\u00f6rderung in diesem Programm sind aus allen F\u00e4chern der Geistes- und Sozialwissenschaften willkommen. Jede Trilaterale Forschungskonferenz besteht aus einer Serie von drei Veranstaltungen, die im Jahresrhythmus aufeinanderfolgen. Alle drei Treffen finden in der Villa Vigoni statt. Die Teilnehmenden einer Forschungskonferenz bestehen aus einer Gruppe von mindestens zw\u00f6lf, h\u00f6chstens 16 Wissenschaftler:innen, nach M\u00f6glichkeit ausgewogen zusammengesetzt aus den drei beteiligten L\u00e4ndern. Die Teilnehmenden des jeweiligen Landes sollen an unterschiedlichen Einrichtungen arbeiten. Diese Gruppe bleibt w\u00e4hrend aller Treffen gleich.\nAntragstellung und Koordination einer Trilateralen Forschungskonferenz \u00fcbernehmen je ein:e Wissenschaftler:in aus Deutschland, Frankreich und Italien. Die Antragstellenden m\u00fcssen f\u00fcr die gesamte Dauer der Trilateralen Forschungskonferenzen eine institutionelle Anbindung an eine Forschungs- oder Hochschuleinrichtung ihres Landes nachweisen.\n\nQuelle: Uni Leipzig, Dez. 1"
+    },
+    {
         "title": "VolkswagenStiftung: Momentum",
         "properties": [
             {
@@ -8640,6 +8455,311 @@
             }
         ],
         "free_text": "Momentum \u2013 F\u00f6rderung f\u00fcr Erstberufene\n\n\n    Fachgebiete: alle\n    Art der F\u00f6rderung: Konzepte zur Perspektiverweiterung\n    bis zu 800.000 EUR (erste Phase); bis zu 200.000 EUR (zweite Phase)\n    4 Jahre (erste Phase); 2 Jahre (zweite Phase)\n    Universit\u00e4tsprofessor:innen drei bis f\u00fcnf Jahre nach Antritt ihrer ersten Lebenszeitprofessur\n    keine Projektf\u00f6rderung, Kurzantrag\n\n\nZiel der Initiative\n\nAngesichts eines immer kurzatmiger agierenden Wissenschaftsbetriebs sollen Freir\u00e4ume f\u00fcr neues Denken in Forschung und Lehre im Universit\u00e4tsalltag geschaffen werden. Der Fokus des F\u00f6rderangebots liegt darauf, die Vielfalt der Forschung und die Kreativit\u00e4t von Forscherpers\u00f6nlichkeiten in Universit\u00e4ten in Deutschland sowie die strategische Weiterentwicklung der entsprechenden Organisationseinheit zu st\u00e4rken.\n\nDas F\u00f6rderangebot richtet sich an Professor:innen drei bis f\u00fcnf Jahre nach Antritt ihrer ersten Lebenszeitprofessur. Es ist fachlich offen. Gef\u00f6rdert werden Konzepte zur strategischen und inhaltlichen Weiterentwicklung der Professur, die sich aus unterschiedlichen F\u00f6rderma\u00dfnahmen zusammensetzen. Das Angebot ist flexibel und kann den Erfordernissen der jeweiligen Disziplin bzw. dem Standort angepasst werden. Ausgeschlossen von einer F\u00f6rderung sind Forschungsprojekte.\n\nHintergrund\n\nDie Initiative \"Momentum \u2013 F\u00f6rderung f\u00fcr Erstberufene\" wurde im November 2017 eingerichtet.\n\nQuelle: VW"
+    },
+    {
+        "title": "VolkswagenStiftung: Aufbruch \u2013 Neue Forschungsr\u00e4ume f\u00fcr die Geistes- und Kulturwissenschaften",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-05-31"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/VolkswagenStiftung",
+                "label": "VolkswagenStiftung"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/transformationswissen-ueber-demokratien-im-wandel-transdisziplinaere-perspektiven"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "true"
+            }
+        ],
+        "free_text": "Forscher:innen, die sich gemeinsam der Exploration neuer und innovativer Forschungsr\u00e4ume widmen m\u00f6chten. In einem F\u00f6rderzeitraum von bis zu anderthalb Jahren betr\u00e4gt die maximale F\u00f6rdersumme f\u00fcr Teams mit zwei Projektpartner:innen 300.000 Euro. Teams von drei Forschenden k\u00f6nnen maximal 400.000 Euro beantragen.\nGew\u00fcnscht sind explizit Projekte mit einem hohen Grad an Exploration, der mit einem entsprechenden Risikocharakter des Vorhabens einhergehen kann \u2013 die M\u00f6glichkeit des Nichteintretens der anvisierten Projektziele ist daher kein Grund f\u00fcr eine Ablehnung eines Projekts.\n\n\nZiel der Initiative\n\nMit einem Aufbruch verbindet sich die Neugierde, den ersten Schritt hinein in etwas Neues und Unbekanntes zu wagen. Gesucht sind Projekte mit einem 'Aufbruchcharakter', die nicht nur neue Perspektiven auf bereits bekannte Forschungsgegenst\u00e4nde anbieten, sondern g\u00e4nzlich neue Forschungsr\u00e4ume und -themen explorieren. Die Initiative folgt dabei der Annahme, dass diese sich gegenw\u00e4rtig durch eine besondere Komplexit\u00e4t auszeichnen und der multiperspektivischen Aufschl\u00fcsselung bed\u00fcrfen, um ebenjene Vielschichtigkeit aufzeigen und verstehen zu k\u00f6nnen. \n\nGew\u00fcnscht sind explizit Projekte mit einem hohen Grad an Exploration, der mit einem entsprechenden Risikocharakter des Vorhabens einhergehen kann \u2013 die M\u00f6glichkeit des Nichteintretens der anvisierten Projektziele ist daher kein Grund f\u00fcr eine Ablehnung eines Projekts. Bitte ber\u00fccksichtigen Sie folgende Denkhinweise, mit der wir zur Reflexion \u00fcber die Passung/Nicht-Passung Ihres Vorhabens zur F\u00f6rderinitiative \"Aufbruch\" einladen. Ein Vorhaben bedeutet nach Auffassung der VolkswagenStiftung keinen 'Aufbruch' mehr, wenn es bereits:\n\n    wiederkehrende Lehrveranstaltungen zum Thema Ihres Vorhabens gibt.\n    vermehrt Artikel zum Thema Ihres Vorhabens gibt.\n    Journals zum Thema Ihres Vorhabens gibt.\n    Fachgesellschaften zum Thema Ihres Vorhabens gibt.\n    prominent im Feuilleton diskutiert wird.\n\n\nQuelle: VW, Dez. 1 Uni Leipzig"
+    },
+    {
+        "title": "VolkswagenStiftung: Open New Research Spaces",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-05-31"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/VolkswagenStiftung",
+                "label": "VolkswagenStiftung"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.volkswagenstiftung.de/en/funding/funding-offer/open-new-research-spaces-humanities-and-cultural-studies"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Volkswagen Foundation Call: Open New Research Spaces for Humanities and Cultural Studies\nThe Volkswagen Foundation is inviting applications for the funding initiative \"Open New Research Spaces for Humanities and Cultural Studies.\" This program aims to support innovative and interdisciplinary research projects that address contemporary issues in the humanities and cultural studies.\nResearchers at all career stages are eligible to apply, and the initiative encourages the development of new methodologies and collaborative approaches. The application deadline is 31 May 2025.\n\nQuelle: Uni Leipzig"
+    },
+    {
+        "title": "European Research Council: ERC Advanced Grant",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-08-28"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
+                "label": "EU"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://erc.europa.eu/apply-grant/advanced-grant"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
+                "label": "EU"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "true"
+            }
+        ],
+        "free_text": "Der ERC f\u00f6rdert langfristig ambitionierte und bahnbrechende Projekte etablierter Forschenden. Bewerben k\u00f6nnen sich aktive Forschende die eine Reihe signifikanter Forschungserfolge in den letzten 10 Jahren vorweisen k\u00f6nnen. Die Hauptforscher:innen sollten in Bezug auf Originalit\u00e4t und Bedeutung ihrer Forschungsbeitr\u00e4ge f\u00fchrend sein. Hinsichtlich der akademischen Anforderungen sind keine besonderen Zulassungskriterien vorgesehen. Es werden bis zu 2.5 Millionen Euro \u00fcber 5 Jahre gef\u00f6rdert. Dazu k\u00f6nnen zus\u00e4tzlich 1 Million Euro f\u00fcr die Startkosten vergeben werden.\n\nExperienced researchers with a strong record of significant achievements are encouraged to apply for ERC Advanced Grants. Principal Investigators should demonstrate exceptional leadership, originality, and impact in their respective fields. These grants can be awarded up to \u20ac2.5 million over five years (or pro rata for shorter projects). An ERC grant can cover up to 100% of the total eligible direct costs of the research and contribute 25% of the total eligible costs toward indirect expenses.\nPlease contact the EU office as soon as possible for assistance and to obtain the signature for the Host Institution Letter.\n\n(Quelle: Dr. Anett Karl, Uni Leipzig, Dez. 1)\nWeitere Infos finden sich bei EU-B\u00fcro des BMBF: https://www.eubuero.de/de/nks-erc-antragstellung-2429.html"
+    },
+    {
+        "title": "VolkswagenStiftung: Taskforces Transformationswissen \u00fcber Demokratien im Wandel \u2013 Transdisziplin\u00e4re Perspektiven",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
+                },
+                "value": "Deadline Kooperationsprojekte: 09.09.2025; Deadline Taskforces: voraussichtl. 2. HJ 2026"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-09-09"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/VolkswagenStiftung",
+                "label": "VolkswagenStiftung"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.volkswagenstiftung.de/de/foerderung/foerderangebot/transformationswissen-ueber-demokratien-im-wandel-transdisziplinaere-perspektiven"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Kurzbeschreibung: Das Programm richtet sich an Antragsteller:innen aus den Geistes-, Kultur- und Gesellschaftswissenschaften sowie gleicherma\u00dfen an (zivil)gesellschaftliche Akteur:innen, die gemeinsam in transdisziplin\u00e4ren Teams unterschiedliche Ideen und Fragestellungen zu Demokratie im Wandel austauschen und bearbeiten m\u00f6chten. Die Stiftung m\u00f6chte mit diesem Programm insbesondere die Entwicklung neuer Perspektiven auf Wandel von Demokratie f\u00f6rdern und dabei neben der wissenschaftlichen Perspektive Ideen und Erfahrungen von (zivil)gesellschaftlichen Partner:innen ber\u00fccksichtigen. Dieses Programm bietet die Chance, neben der Forschung konkrete Empfehlungen z.B. f\u00fcr die Politik, relevante gesellschaftliche Akteur:innen oder die Wirtschaft zu entwickeln und zu einer Umsetzung dieser Empfehlungen beizutragen.\nDas Programm besteht aus zwei F\u00f6rderlinien: Taskforces und Kooperationsprojekte\n\nQuelle: Uni Leipzig, Dez. 1 & VW\n\nMit einer Laufzeit von f\u00fcnf Jahren bietet die Stiftung einen Experimentierraum f\u00fcr transdisziplin\u00e4re Forschung und leistet einen Beitrag zum Ausprobieren verschiedener Formate und Methoden. Das F\u00f6rderangebot richtet sich an Wissenschaftler:innen mit abgeschlossener Promotion aus den Geistes-, Kultur-, und Gesellschaftswissenschaften sowie an Akteur:innen aus der (Zivil)Gesellschaft. Eine Kooperation mit Wissenschaftler:innen aus den Natur-, Lebens-, Daten- und Technikwissenschaften ist abh\u00e4ngig von den zu bearbeitenden Fragestellungen m\u00f6glich. Thematisch sind beispielsweise Vorhaben aus den folgenden Bereichen m\u00f6glich: (1) Wirkung verschiedener Akteurskonstellationen (aus Politik, Wirtschaft und Gesellschaft) auf demokratische (Entscheidungs-)Prozesse und gesellschaftliche Strukturen (Forschungsfragen zu Macht, Einfluss, Legitimit\u00e4t verschiedener Akteur:innen); (2) Demokratieverst\u00e4ndnis und Demokratiegestaltung innerhalb demokratischer Gesellschaften mit Blick auf unterschiedliche Bev\u00f6lkerungsgruppen \u2013 unter Ber\u00fccksichtigung von Aspekten der politischen Bildung; (3) Wirkung (globaler) wirtschaftlicher Entwicklungen auf aktuelle und zuk\u00fcnftige demokratische Staatsformen (z.B. Fragilit\u00e4t von Liefer- und Produktionsketten, planetare Herausforderungen, soziale und wirtschaftliche (Un)Gleichheit); (4) Fortschreitende Digitalisierung und deren Einfluss auf demokratische Strukturen (z.B. soziale Medien, Onlinewahlen, e-administration). Voraussetzung ist ein interdisziplin\u00e4res Team aus zwei bis drei Wissenschaftler:innen sowie bis zu drei verschiedene au\u00dferakademischen Partner:innen aus der (Zivil)Gesellschaft. Die Projektsumme betr\u00e4gt max. 1.300.000 Euro."
+    },
+    {
+        "title": "EU Europ\u00e4ische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
+                },
+                "value": "10 September 2025 (tbc); 17:00 Brussels time"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-09-10"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/EU",
+                "label": "EU"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://rea.ec.europa.eu/funding-and-grants/horizon-europe-marie-sklodowska-curie-actions/msca-postdoctoral-fellowships_en"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "true"
+            }
+        ],
+        "free_text": "Short description: The goal of MSCA Postdoctoral Fellowships is to enhance the creative and innovative potential of researchers holding a PhD and who wish to acquire new skills through advanced training, international, inter-sectoral and interdisciplinary mobility. Eligible applicants must have completed their PhD by 10th September 2025, have up to 8 years of research experience after the award of the PhD and comply with the MSCA PF mobility rules.\no European Fellowships: These fellowships take place in an EU Member State or Horizon Europe Associated Country and can last between 1 and 2 years. Researchers of any nationality can apply. Applications with Leipzig University as the host institution are only eligible if the future fellow lives outside Germany or came to Germany later than 10 September 2024.\no Global Fellowships: The fellowship lasts 2 to 3 years, of which the first 1 to 2 years will be spent in a non-associated Third Country, followed by a mandatory return phase of 1 year to an organization based in an EU Member State or Horizon Europe Associated Country. Also Postdocs from Leipzig University are eligible to apply.\n\nUni-Angeh\u00f6rige - Support pr\u00fcfen: Potential supervisors are welcome to approach potential candidates in their fields! The candidates will be qualified and advised by the Uni Leipzig EU office.\n\nQuelle: Uni Leipzig, Dez. 1"
     },
     {
         "title": "VolkswagenStiftung: Opus Magnum",

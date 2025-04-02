@@ -2,11 +2,12 @@
 
 ## Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025
 
-* Nächste Einreichung: 2024-12-01
+* Nächste Einreichung: 2025-04-13
 * Institution: DFG
 
-Deutsche Forschungsgemeinschaft (DFG)/ Fondation Maison des sciences de l’homme (FMSH): Deutsch-Italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften
-•
-Kurzbeschreibung: Das in Zusammenarbeit mit der DFG entwickelte Programm bietet die Möglichkeit, Vorschläge für Konferenzen (Kolloquien, Doktoranden- und Postdoc-Seminare oder Format „close reading“) einzureichen, um sich mit aktuellen Themen zu Kultur, Geschichte und Gesellschaft Europas zu beschäftigen. Die Konferenzen müssen einen Bezug zur Mission der Villa Vigoni aufweisen, die deutsch-italienischen Beziehungen in den Bereichen Forschung, Bildung und Kultur im europäischen Kontext stärken und junge Nachwuchsforschende fördern. Antragsberechtigt sind Wissenschaftler und Wissenschaftlerinnen, die an deutschen Institutionen tätig sind. Es wird erwartet, dass der Antrag gemeinsam mit einem/einer Wissenschaftler/in, der/die an italienischen Institutionen tätig ist, gestellt wird. Ein dritter/eine dritte Wissenschaftler/in kann nur hinzugefügt werden, wenn er oder sie an einer Institution in einem Drittland tätig ist. Die Anträge müssen in deutscher oder englischer Sprache verfasst werden. Anträge auf Deutsch müssen ein italienisches Abstract enthalten. Anträge auf Englisch müssen ein italienisches und ein deutsches Abstract enthalten.
+Kurzbeschreibung: Um den Austausch und die Netzwerkbildung zwischen Geistes- und Sozialwissenschaftler:innen, tätig in Deutschland, Frankreich und Italien, nachhaltig zu fördern und dabei den Gebrauch von Deutsch, Französisch und Italienisch als Wissenschaftssprachen ausdrücklich zu unterstützen, haben die Deutsche Forschungsgemeinschaft (DFG), die Fondation Maison des sciences de l’homme (FMSH) und die Villa Vigoni das Programm „Trilaterale Forschungskonferenzen“ entwickelt, in dem Mehrsprachigkeit ein tragendes Prinzip ist. Anträge auf Förderung in diesem Programm sind aus allen Fächern der Geistes- und Sozialwissenschaften willkommen. Jede Trilaterale Forschungskonferenz besteht aus einer Serie von drei Veranstaltungen, die im Jahresrhythmus aufeinanderfolgen. Alle drei Treffen finden in der Villa Vigoni statt. Die Teilnehmenden einer Forschungskonferenz bestehen aus einer Gruppe von mindestens zwölf, höchstens 16 Wissenschaftler:innen, nach Möglichkeit ausgewogen zusammengesetzt aus den drei beteiligten Ländern. Die Teilnehmenden des jeweiligen Landes sollen an unterschiedlichen Einrichtungen arbeiten. Diese Gruppe bleibt während aller Treffen gleich.
+Antragstellung und Koordination einer Trilateralen Forschungskonferenz übernehmen je ein:e Wissenschaftler:in aus Deutschland, Frankreich und Italien. Die Antragstellenden müssen für die gesamte Dauer der Trilateralen Forschungskonferenzen eine institutionelle Anbindung an eine Forschungs- oder Hochschuleinrichtung ihres Landes nachweisen.
 
-* [Link](https://www.villavigoni.eu/cooperazione-italo-tedesca-2/?lang=de)
+Quelle: Uni Leipzig, Dez. 1
+
+* [Link](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-09)
