@@ -1,6 +1,6 @@
 # Ausschreibungen
 
-* Stand: 2025-04-02
+* Stand: 2025-04-08
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
@@ -10,6 +10,8 @@
 * [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
 * [2025-05-31 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
 * [2025-05-31 - VolkswagenStiftung: Open New Research Spaces](ausschreibungen/volkswagenstiftung_open_new_research_spaces.md)
+* [2025-06-11 - BMBF: Förderung von Forschungs- und Entwicklungsprojekten zwischen Deutschland und dem Westbalkan](ausschreibungen/bmbf_förderung_von_forschungs-_und_entwicklungsprojekten_zwischen_deutschland_und_dem_westbalkan.md)
+* [2025-06-20 - DFG: Schwerpunktprogramm “On the Way to the Fluvial Anthroposphere” (SPP 2361)](ausschreibungen/dfg_schwerpunktprogramm_“on_the_way_to_the_fluvial_anthroposphere”_spp_2361.md)
 * [2025-08-28 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2025-09-09 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
 * [2025-09-10 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)

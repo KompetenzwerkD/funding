@@ -8569,6 +8569,126 @@
         "free_text": "Volkswagen Foundation Call: Open New Research Spaces for Humanities and Cultural Studies\nThe Volkswagen Foundation is inviting applications for the funding initiative \"Open New Research Spaces for Humanities and Cultural Studies.\" This program aims to support innovative and interdisciplinary research projects that address contemporary issues in the humanities and cultural studies.\nResearchers at all career stages are eligible to apply, and the initiative encourages the development of new methodologies and collaborative approaches. The application deadline is 31 May 2025.\n\nQuelle: Uni Leipzig"
     },
     {
+        "title": "BMBF: F\u00f6rderung von Forschungs- und Entwicklungsprojekten zwischen Deutschland und dem Westbalkan",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_additional_submission_info",
+                    "label": "Has additional submission info",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_txt"
+                },
+                "value": "Deadline ist f\u00fcr Projektskizzen)"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-06-11"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/BMBF",
+                "label": "BMBF"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.bmbf.de/SharedDocs/Bekanntmachungen/DE/2025/03/2025-03-20-bekanntmachung-web2025.html?templateQueryString=WEB2025"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Gef\u00f6rdert werden sog. \u201eBMBF early career groups\u201c. Dabei handelt es sich um Arbeitsgruppen, die jeweils aus Forschenden aus Deutschland und Forschenden aus den Westbalkanstaaten bestehen. Der Teil der Arbeitsgruppe im Westbalkan wird dabei von einer/einem Nachwuchswissenschaftlerin/Nachwuchswissenschaftler aus dem Westbalkan geleitet. Gef\u00f6rdert werden Projekte in den drei Querschnittsbereichen Digitale Transformation, Green Deal und Gesunde Gesellschaften. Diese Themen stehen im Einklang mit den strategischen Priorit\u00e4ten der \u201eSmart Specialisation Strategies\u201c sowie den nationalen Forschungsstrategien der Westbalkanstaaten selbst und sind die zentralen Themen der Europ\u00e4ischen Kommission in der Heranf\u00fchrung des Westbalkans an die Europ\u00e4ische Union.\nDie gef\u00f6rderten Vorhaben weisen eine hohe Praxisrelevanz auf und zeigen Strategien zur Implementierung der Forschungsergebnisse in Politik, Gesellschaft und Wirtschaft auf. Dar\u00fcber hinaus sollen die Vorhaben einen Beitrag zur F\u00f6rderung des wissenschaftlichen Nachwuchses und zum Kapazit\u00e4tsausbau der wissenschaftlichen Partner in den Westbalkanstaaten leisten.\n\nQuelle: Uni Leipzig, Dez. 1"
+    },
+    {
+        "title": "DFG: Schwerpunktprogramm \u201cOn the Way to the Fluvial Anthroposphere\u201d (SPP 2361)",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-06-20"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/DFG",
+                "label": "DFG"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-26"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "In March 2021, the Senate of the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) established the Priority Programme \u201cOn the Way to the Fluvial Anthroposphere\u201d (SPP 2361). The programme is designed to run for six years. The present call invites proposals for the second three-year funding period (2026\u20132029).\nSPP 2361 investigates the pre-industrial floodplains in Central Europe and the fluvial societies that operated there. The Priority Programme aims to answer the questions of when and why humans became a significant controlling factor in floodplain formation and how humans in interaction with natural processes modified floodplains. It will clarify the extent to which short-term and long-term natural floodplain dynamics together with early human impacts affected subsequent developments and led to path dependencies. The Priority Programme encourages project proposals from archaeology, the geosciences and history that analyse the interaction of humans and their environments in the emergence of the Fluvial Anthroposphere through multidisciplinary and cutting-edge methodological approaches."
+    },
+    {
         "title": "European Research Council: ERC Advanced Grant",
         "properties": [
             {
