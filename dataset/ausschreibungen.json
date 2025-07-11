@@ -1390,53 +1390,6 @@
         "free_text": "Lost Cities. Wahrnehmung von und Leben mit verlassenen St\u00e4dten in den Kulturen der Welt, Projektf\u00f6rderung zur Auseinandersetzung mit verlassenen St\u00e4dten (Erinnerungskultur, Ruinenkult, ...), f\u00fcr promovierte Wissenschaftler*innen mit Universit\u00e4tsanbindung aus den Geistes- und Sozialwissenschaften f\u00fcr eine Forschergruppe (Promotions- oder Forschungsstipendien)."
     },
     {
-        "title": "Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium f\u00fcr kreatives interdisziplin\u00e4res Denken",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2021-05-15"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Daimler_und_Benz_Stiftung",
-                "label": "Daimler und Benz Stiftung"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://einsteinforum.de/about/fellowship/"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            }
-        ],
-        "free_text": "Mit dem Albert Einstein-Stipendium m\u00f6chten das Einstein Forum und die Daimler und Benz Stiftung herausragenden jungen Wissenschaftler/innen aus dem In- und Ausland die M\u00f6glichkeit bieten, ein Forschungsvorhaben zu realisieren, das sich au\u00dferhalb ihrer bisherigen Arbeit ansiedelt. Dadurch sollen jene jungen Universalisten gef\u00f6rdert werden, die sich \u2013 \u00e4hnlich wie Albert Einstein \u2013 neben ihren au\u00dfergew\u00f6hnlichen Leistungen in einem spezifischen Wissenschaftsgebiet besonders durch disziplinen\u00fcbergreifendes Engagement auszeichnen.\n\nDas Stipendium ist verbunden mit einem Aufenthalt im Gartenhaus des Sommerhauses von Einstein in Caputh, der zwischen f\u00fcnf und sechs Monate dauert. F\u00f6rderung: 10.000 Euro sowie anfallende Reisekosten. Bewerber sollten unter 35 Jahre alt sein und einen qualifizierten Hochschulabschluss in einer geistes-, sozial- oder naturwissenschaftlichen Fachrichtung besitzen. Die Bewerbungen f\u00fcr das Jahr 2022 sollten einen Lebenslauf und ein Expos\u00e9 des im Rahmen des Stipendiums geplanten Projekts (beides in englischer Sprache) sowie zwei wissenschaftliche Referenzen enthalten"
-    },
-    {
         "title": "Procope Plus 2022: Beihilfen Kolloquien + deutsch-franz\u00f6sischer Expertentreffen",
         "properties": [
             {
@@ -4720,62 +4673,6 @@
             }
         ],
         "free_text": "The Pre-Doc Award supports graduates in preparation for doctoral research as well as postdocs in their ability to supervise (future) doctoral candidates. During the funding period, the awardee tandems develop a doctoral research project jointly and try to acquire funding for it. The funding of the Pre-Doc Award is a position as a research assistant (Wissenschaftliche Hilfskraft, WHK) with 19 hours per week for 12 months. The candidate will be employed by Leipzig University, Federal State of Saxony.\n\nQuelle: Uni Leipzig, Dez. 1"
-    },
-    {
-        "title": "Sibylle Kalkhof-Rose Akademie-Preis f\u00fcr Geisteswissenschaften",
-        "properties": [
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
-                    "label": "Has deadline",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
-                },
-                "value": "2023-06-15"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
-                    "label": "Has funding institution",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Akademie_der_Wissenschaften_und_der_Literatur_Mainz",
-                "label": "Akademie der Wissenschaften und der Literatur Mainz"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
-                    "label": "Has homepage",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
-                },
-                "value": "https://www.adwmainz.de/fileadmin/adwmainz/Stiftungen_Preise/Ausschreibung_SKH_Akademie-Preis.pdf"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
-                    "label": "Has keyword",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
-                },
-                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
-                "label": "Antrag"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
-                    "label": "Is always open to submissions",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "false"
-            },
-            {
-                "property": {
-                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
-                    "label": "Is ongoing",
-                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
-                },
-                "value": "true"
-            }
-        ],
-        "free_text": "Der von der Akademie der Wissenschaften und der Literatur | Mainz vergebene und von der Kalkhof-Rose Stiftung gef\u00f6rderte \u201eSibylle Kalkhof-Rose Akademie-Preis f\u00fcr Geisteswissenschaften\u201c richtet sich an exzellente Nachwuchswissenschaftler:innen aus dem gesamten Bereich der Geisteswissenschaften, die sich in einem fr\u00fchen Stadium ihrer akademischen Laufbahn bereits durch richtungsweisende Forschungsbeitr\u00e4ge verdient gemacht, dadurch ein eigenst\u00e4ndiges wissenschaftliches Profil entwickelt haben und nun vor der Habilitation stehen oder eine gleichwertige Qualifikation aufweisen. Eine Eigenbewerbung ist nicht zul\u00e4ssig. Vorschlagsberechtigt sind alle Professorinnen und Professoren an den deutschen Universit\u00e4ten.\n\nQuelle: Uni Leipzig, Dez. 1"
     },
     {
         "title": "MPG: Minerva-Stipendium",
@@ -8457,6 +8354,53 @@
         "free_text": "Momentum \u2013 F\u00f6rderung f\u00fcr Erstberufene\n\n\n    Fachgebiete: alle\n    Art der F\u00f6rderung: Konzepte zur Perspektiverweiterung\n    bis zu 800.000 EUR (erste Phase); bis zu 200.000 EUR (zweite Phase)\n    4 Jahre (erste Phase); 2 Jahre (zweite Phase)\n    Universit\u00e4tsprofessor:innen drei bis f\u00fcnf Jahre nach Antritt ihrer ersten Lebenszeitprofessur\n    keine Projektf\u00f6rderung, Kurzantrag\n\n\nZiel der Initiative\n\nAngesichts eines immer kurzatmiger agierenden Wissenschaftsbetriebs sollen Freir\u00e4ume f\u00fcr neues Denken in Forschung und Lehre im Universit\u00e4tsalltag geschaffen werden. Der Fokus des F\u00f6rderangebots liegt darauf, die Vielfalt der Forschung und die Kreativit\u00e4t von Forscherpers\u00f6nlichkeiten in Universit\u00e4ten in Deutschland sowie die strategische Weiterentwicklung der entsprechenden Organisationseinheit zu st\u00e4rken.\n\nDas F\u00f6rderangebot richtet sich an Professor:innen drei bis f\u00fcnf Jahre nach Antritt ihrer ersten Lebenszeitprofessur. Es ist fachlich offen. Gef\u00f6rdert werden Konzepte zur strategischen und inhaltlichen Weiterentwicklung der Professur, die sich aus unterschiedlichen F\u00f6rderma\u00dfnahmen zusammensetzen. Das Angebot ist flexibel und kann den Erfordernissen der jeweiligen Disziplin bzw. dem Standort angepasst werden. Ausgeschlossen von einer F\u00f6rderung sind Forschungsprojekte.\n\nHintergrund\n\nDie Initiative \"Momentum \u2013 F\u00f6rderung f\u00fcr Erstberufene\" wurde im November 2017 eingerichtet.\n\nQuelle: VW"
     },
     {
+        "title": "Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium f\u00fcr kreatives interdisziplin\u00e4res Denken",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-05-05"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Daimler_und_Benz_Stiftung",
+                "label": "Daimler und Benz Stiftung"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://einsteinforum.de/about/fellowship/"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            }
+        ],
+        "free_text": "Mit dem Albert Einstein-Stipendium m\u00f6chten das Einstein Forum und die Daimler und Benz Stiftung herausragenden jungen Wissenschaftler:innen aus dem In- und Ausland die M\u00f6glichkeit bieten, ein Forschungsvorhaben zu realisieren, das sich au\u00dferhalb ihrer bisherigen Arbeit ansiedelt. Dadurch sollen jene jungen Universalisten gef\u00f6rdert werden, die sich \u2013 \u00e4hnlich wie Albert Einstein \u2013 neben ihren au\u00dfergew\u00f6hnlichen Leistungen in einem spezifischen Wissenschaftsgebiet besonders durch disziplinen\u00fcbergreifendes Engagement auszeichnen. Das Stipendium ist verbunden mit einem Aufenthalt im Gartenhaus des Sommerhauses von Einstein in Caputh, der zwischen f\u00fcnf und sechs Monate dauert. F\u00f6rderung: 10.000 Euro sowie anfallende Reisekosten. Bewerber sollten unter 35 Jahre alt sein und einen qualifizierten Hochschulabschluss in einer geistes-, sozial- oder naturwissenschaftlichen Fachrichtung besitzen."
+    },
+    {
         "title": "VolkswagenStiftung: Aufbruch \u2013 Neue Forschungsr\u00e4ume f\u00fcr die Geistes- und Kulturwissenschaften",
         "properties": [
             {
@@ -8631,6 +8575,62 @@
             }
         ],
         "free_text": "Gef\u00f6rdert werden sog. \u201eBMBF early career groups\u201c. Dabei handelt es sich um Arbeitsgruppen, die jeweils aus Forschenden aus Deutschland und Forschenden aus den Westbalkanstaaten bestehen. Der Teil der Arbeitsgruppe im Westbalkan wird dabei von einer/einem Nachwuchswissenschaftlerin/Nachwuchswissenschaftler aus dem Westbalkan geleitet. Gef\u00f6rdert werden Projekte in den drei Querschnittsbereichen Digitale Transformation, Green Deal und Gesunde Gesellschaften. Diese Themen stehen im Einklang mit den strategischen Priorit\u00e4ten der \u201eSmart Specialisation Strategies\u201c sowie den nationalen Forschungsstrategien der Westbalkanstaaten selbst und sind die zentralen Themen der Europ\u00e4ischen Kommission in der Heranf\u00fchrung des Westbalkans an die Europ\u00e4ische Union.\nDie gef\u00f6rderten Vorhaben weisen eine hohe Praxisrelevanz auf und zeigen Strategien zur Implementierung der Forschungsergebnisse in Politik, Gesellschaft und Wirtschaft auf. Dar\u00fcber hinaus sollen die Vorhaben einen Beitrag zur F\u00f6rderung des wissenschaftlichen Nachwuchses und zum Kapazit\u00e4tsausbau der wissenschaftlichen Partner in den Westbalkanstaaten leisten.\n\nQuelle: Uni Leipzig, Dez. 1"
+    },
+    {
+        "title": "Sibylle Kalkhof-Rose Akademie-Preis f\u00fcr Geisteswissenschaften",
+        "properties": [
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_deadline",
+                    "label": "Has deadline",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_dat"
+                },
+                "value": "2025-06-15"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_funding_institution",
+                    "label": "Has funding institution",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Akademie_der_Wissenschaften_und_der_Literatur_Mainz",
+                "label": "Akademie der Wissenschaften und der Literatur Mainz"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_homepage",
+                    "label": "Has homepage",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_uri"
+                },
+                "value": "https://www.adwmainz.de/akademie/preise-und-stiftungen/sibylle-kalkhof-rose-akademie-preis-fuer-geisteswissenschaften.html"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AHas_keyword",
+                    "label": "Has keyword",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_wpg"
+                },
+                "value": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Antrag",
+                "label": "Antrag"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_always_open_to_submissions",
+                    "label": "Is always open to submissions",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "false"
+            },
+            {
+                "property": {
+                    "uri": "http://werkd.saw-leipzig.de/wiki/index.php/Special:URIResolver/Property-3AIs_ongoing",
+                    "label": "Is ongoing",
+                    "type": "http://semantic-mediawiki.org/swivt/1.0#_boo"
+                },
+                "value": "true"
+            }
+        ],
+        "free_text": "Sibylle Kalkhof-Rose Akademie-Preis f\u00fcr Geisteswissenschaften\n\u2022 Kurzbeschreibung: Der von der Akademie der Wissenschaften und der Literatur | Mainz vergebene und von der Sibylle Kalkhof-Rose Stiftung gef\u00f6rderte \u201eSibylle Kalkhof-Rose Akademie-Preis f\u00fcr Geisteswissenschaften\u201c richtet sich an exzellente Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftler aus dem gesamten Bereich der Geisteswissenschaften. Eine Eigenbewerbung ist nicht zul\u00e4ssig. Nominiert werden k\u00f6nnen Nachwuchswissenschaftlerinnen und -wissenschaftler, die sich in einem fr\u00fchen Stadium ihrer akademischen Laufbahn bereits durch richtungsweisende Forschungsbeitr\u00e4ge verdient gemacht, dadurch ein eigenst\u00e4ndiges wissenschaftliches Profil entwickelt haben und nun vor der Habilitation stehen oder eine gleichwertige Qualifikation aufweisen. Vorschlagsberechtigt sind alle Professorinnen und Professoren an den deutschen Universit\u00e4ten. Das Preisgeld betr\u00e4gt 5.000 \u20ac.\n\nQuelle: Uni Leipzig, Dez. 1"
     },
     {
         "title": "DFG: Schwerpunktprogramm \u201cOn the Way to the Fluvial Anthroposphere\u201d (SPP 2361)",

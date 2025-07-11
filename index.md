@@ -1,17 +1,11 @@
 # Ausschreibungen
 
-* Stand: 2025-04-08
+* Stand: 2025-07-11
 
  Kuratierte Liste von Ausschreibungen und Fördermöglichkeiten für geistes- und sozialwissenschaftliche Forschung mit Schwerpunkt auf Digital Humanities. Die Kuratierung erfolgt durch das [KompetenzwerkD](https://kompetenzwerkd.saw-leipzig.de) an der [Sächsischen Akademie der Wissenschaften zu Leipzig](https://www.saw-leipzig.de). Das vollständige Datenset ist auch als [.json Datei downloadbar](dataset/ausschreibungen.json).
 
 ## Aktuelle Ausschreibungen
 
-* [2025-04-13 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2025.md)
-* [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
-* [2025-05-31 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
-* [2025-05-31 - VolkswagenStiftung: Open New Research Spaces](ausschreibungen/volkswagenstiftung_open_new_research_spaces.md)
-* [2025-06-11 - BMBF: Förderung von Forschungs- und Entwicklungsprojekten zwischen Deutschland und dem Westbalkan](ausschreibungen/bmbf_förderung_von_forschungs-_und_entwicklungsprojekten_zwischen_deutschland_und_dem_westbalkan.md)
-* [2025-06-20 - DFG: Schwerpunktprogramm “On the Way to the Fluvial Anthroposphere” (SPP 2361)](ausschreibungen/dfg_schwerpunktprogramm_“on_the_way_to_the_fluvial_anthroposphere”_spp_2361.md)
 * [2025-08-28 - European Research Council: ERC Advanced Grant](ausschreibungen/european_research_council_erc_advanced_grant.md)
 * [2025-09-09 - VolkswagenStiftung: Taskforces Transformationswissen über Demokratien im Wandel – Transdisziplinäre Perspektiven](ausschreibungen/volkswagenstiftung_taskforces_transformationswissen_über_demokratien_im_wandel_–_transdisziplinäre_perspektiven.md)
 * [2025-09-10 - EU Europäische Kommission: MSCA Postdoctoral Fellowships, Horizon Europe](ausschreibungen/eu_europäische_kommission_msca_postdoctoral_fellowships,_horizon_europe.md)
@@ -48,7 +42,6 @@
 * [2021-05-01 - Diligentia Stiftung: Preis für empirische Forschung](ausschreibungen/diligentia_stiftung_preis_für_empirische_forschung.md)
 * [2021-05-07 - EU-CHANSE: Transformations. Social and Cultural Dynamics in the Digital Age](ausschreibungen/eu-chanse_transformations_social_and_cultural_dynamics_in_the_digital_age.md)
 * [2021-05-12 - Gerda Henkel Stiftung: Lost Cities](ausschreibungen/gerda_henkel_stiftung_lost_cities.md)
-* [2021-05-15 - Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken](ausschreibungen/einstein_forum___daimler_und_benz_stiftung_albert-einstein-stipendium_für_kreatives_interdisziplinäres_denken.md)
 * [2021-06-29 - Procope Plus 2022: Beihilfen Kolloquien + deutsch-französischer Expertentreffen](ausschreibungen/procope_plus_2022_beihilfen_kolloquien_+_deutsch-französischer_expertentreffen.md)
 * [2021-06-30 - PASIFIC Postdoctoral Fellowships Programme](ausschreibungen/pasific_postdoctoral_fellowships_programme.md)
 * [2021-07-15 - Konrad-Adenauer-Stiftung: Promotionsstipendium Transformationen in Europa nach 1990](ausschreibungen/konrad-adenauer-stiftung_promotionsstipendium_transformationen_in_europa_nach_1990.md)
@@ -105,7 +98,6 @@
 * [2023-04-30 - Text+: Forschungsdaten aufbereiten und sichern](ausschreibungen/text+_forschungsdaten_aufbereiten_und_sichern.md)
 * [2023-05-31 - Polish National Agency for Academic Exchange (NAWA) and European Commission: NAWA Fellowships in Poland for researchers from German Institutions](ausschreibungen/polish_national_agency_for_academic_exchange_nawa_and_european_commission_nawa_fellowships_in_poland_for_researchers_from_german_institutions.md)
 * [2023-06-11 - Uni Leipzig: Pre-Doc Award](ausschreibungen/uni_leipzig_pre-doc_award.md)
-* [2023-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
 * [2023-06-21 - MPG: Minerva-Stipendium](ausschreibungen/mpg_minerva-stipendium.md)
 * [2023-06-30 - BMBF: Open Educational Resources (OER): Stärkung von Communities](ausschreibungen/bmbf_open_educational_resources_oer_stärkung_von_communities.md)
 * [2023-06-30 - Bundesstiftung Aufarbeitung: Projektförderung](ausschreibungen/bundesstiftung_aufarbeitung_projektförderung.md)
@@ -166,3 +158,11 @@
 * [2025-03-06 - DFG: ANR-DFG-Förderprogramm für deutsch-französische Forschungsprojekte in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_anr-dfg-förderprogramm_für_deutsch-französische_forschungsprojekte_in_den_geistes-_und_sozialwissenschaften.md)
 * [2025-03-26 - DFG: Kolleg-Forschungsgruppen in den Geistes- und Sozialwissenschaften](ausschreibungen/dfg_kolleg-forschungsgruppen_in_den_geistes-_und_sozialwissenschaften.md)
 * [2025-03-31 - DFG: Schwerpunktprogramm „Visual communication. Theoretical, empirical, and applied perspectives (ViCom)” (SPP 2392)](ausschreibungen/dfg_schwerpunktprogramm_„visual_communication_theoretical,_empirical,_and_applied_perspectives_vicom”_spp_2392.md)
+* [2025-04-13 - Villa Vigoni: Deutsch-italienische Zusammenarbeit in den Geistes- und Sozialwissenschaften 2025](ausschreibungen/villa_vigoni_deutsch-italienische_zusammenarbeit_in_den_geistes-_und_sozialwissenschaften_2025.md)
+* [2025-04-28 - VolkswagenStiftung: Momentum](ausschreibungen/volkswagenstiftung_momentum.md)
+* [2025-05-05 - Einstein Forum / Daimler und Benz Stiftung: Albert-Einstein-Stipendium für kreatives interdisziplinäres Denken](ausschreibungen/einstein_forum___daimler_und_benz_stiftung_albert-einstein-stipendium_für_kreatives_interdisziplinäres_denken.md)
+* [2025-05-31 - VolkswagenStiftung: Aufbruch – Neue Forschungsräume für die Geistes- und Kulturwissenschaften](ausschreibungen/volkswagenstiftung_aufbruch_–_neue_forschungsräume_für_die_geistes-_und_kulturwissenschaften.md)
+* [2025-05-31 - VolkswagenStiftung: Open New Research Spaces](ausschreibungen/volkswagenstiftung_open_new_research_spaces.md)
+* [2025-06-11 - BMBF: Förderung von Forschungs- und Entwicklungsprojekten zwischen Deutschland und dem Westbalkan](ausschreibungen/bmbf_förderung_von_forschungs-_und_entwicklungsprojekten_zwischen_deutschland_und_dem_westbalkan.md)
+* [2025-06-15 - Sibylle Kalkhof-Rose Akademie-Preis für Geisteswissenschaften](ausschreibungen/sibylle_kalkhof-rose_akademie-preis_für_geisteswissenschaften.md)
+* [2025-06-20 - DFG: Schwerpunktprogramm “On the Way to the Fluvial Anthroposphere” (SPP 2361)](ausschreibungen/dfg_schwerpunktprogramm_“on_the_way_to_the_fluvial_anthroposphere”_spp_2361.md)
